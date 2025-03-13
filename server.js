@@ -6,7 +6,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-const filePath = './data/data.json';
+const filePath = './data/quiz.json';
 
 // Load JSON data
 const loadData = () => JSON.parse(fs.readFileSync(filePath, 'utf8'));
@@ -14,16 +14,16 @@ const loadData = () => JSON.parse(fs.readFileSync(filePath, 'utf8'));
 // Save JSON data
 const saveData = (data) => fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
 
-//Get all list
-app.get('/api', (req, res) => {
+//Get all list of quizes
+app.get('/api/quiz', (req, res) => {
   const data = loadData();
-  
+
   res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
   res.send(JSON.stringify(data, null, 2)); // Pretty-print with 2 spaces
 });
 
 // Get list of the month
-app.get('/api/:month', (req, res) => {
+app.get('/api/quiz/:month', (req, res) => {
   const month = parseInt(req.params.month);
   const data = loadData();
 
@@ -35,7 +35,7 @@ app.get('/api/:month', (req, res) => {
 });
 
 // Get quiz for a specific month and day
-app.get('/api/:month/:day', (req, res) => {
+app.get('/api/quiz/:month/:day', (req, res) => {
   const month = parseInt(req.params.month);
   const day = parseInt(req.params.day);
   const data = loadData();
@@ -51,7 +51,7 @@ app.get('/api/:month/:day', (req, res) => {
 });
 
 // Mark quiz as solved
-app.get('/api/:month/:day/solve', (req, res) => {
+app.get('/api/quiz/:month/:day/solve', (req, res) => {
   const month = parseInt(req.params.month);
   const day = parseInt(req.params.day);
   const data = loadData();
