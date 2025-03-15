@@ -1,36 +1,136 @@
 [
+  
   {
-    "month": 3,
+    "month": 4,
+    "solvedOne": false,
+    "name": "April",
+    "Theme": "The Sun",
+
     "days": [
-      {
-        "day": 10,
-        "quiz": "I remembered you posted me something really interesting about this day",
-        "answer": "Tokyo",
-        "solved": false
+
+      { "day": 1,
+        "title": "True name",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "15/03/2025",
+        "sYear": 0,
+        "specialMess": "This month will be focused on my most precious topic: The Sun !! generally it will be easy cause the one reading it should know herself, right ? hhh",
+        "enigma": "The Sun is so lovely, she is shiny, gentle, caring, gives off that warm light to anyone facing her so freely!! but we should know firstly her full name, could you guess it ?",
+        "link": "",
+        "hints": ["I hope you don't have Amnesia..."],
+        "answer": "Ouadi Chaima",
+        "reaction": "YES !! Masha'Allah, nchllh she get shinier and blessed each day"
       },
-      {
-        "day": 11,
-        "quiz": "What is 5 + 5?",
-        "answer": "10",
-        "solved": false
-      }
-    ]
-  },
-  {
-    "month": 5,
-    "days": [
-      {
-        "day": 25,
-        "quiz": "What is the capital of Japan?",
-        "answer": "Tokyo",
-        "solved": false
+      { "day": 2,
+        "title": "Favourite color",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "15/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "The Sun is yellow, yet, it's not the color that she would really prefer the most, I wonder what's her favourite color.",
+        "link": "",
+        "hints": ["you love reacting with some particualr emoji"],
+        "answer": "purple",
+        "reaction": "purple is also the theme color used for this project !! "
       },
-      {
-        "day": 26,
-        "quiz": "What is 5 + 5?",
-        "answer": "10",
-        "solved": false
+      { "day": 3,
+        "title": "Nickname",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "15/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Actually, I have named the Sun with many different nicknames, you can say I got addicted, hhh. I might have a favourite one.",
+        "link": "",
+        "hints": ["Synonym of Starlight"],
+        "answer": "sunshine",
+        "reaction": "I love it !! cause it represents directly those beautiful rays emmited that keeps me warm when facing her"
+      },
+      { "day": 4,
+        "title": "forgotten enigma",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "15/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I didn't FORGET about that Enigma, hehe, but I am sure you're more than capable to beat it. If you forgot where was the challenge, I kept a link here. The last word found in encrypted message is the answer.",
+        "link": "https://mail.google.com/mail/u/1/?ogbl#advanced-search/to=mc_ouadi%40esi.dz&subset=all&within=1d&sizeoperator=s_sl&sizeunit=s_smb&query=to%3A(mc_ouadi%40esi.dz)/QgrcJHsHkKrFJkTsLFhTGDCxBRDzBSzkFjG?compose=DmwnWtDnFdCqNGgrrhKLCztJWgFfLRvNCsBqwMkcNpjgtmTVjjZdbZtppXfFtnklvbQzKdgqTLHg",
+        "hints": [
+          "do you remember when I said back in the oldschool networking, people needed a language with just binary : 0 or 1. I am sure you are familiar with it", 
+          "are all the spaces equal ? hmmm", 
+          "maybe try to remember a language where we can just use two caracters"
+        ],
+        "answer": "CORDIALEMENT",
+        "reaction": "Yaaay !! you now are 100% up to date with my enigmas, Yuppiii.... Or is it...hhh"
+      },
+      { "day": 5,
+        "title": "Chronicles of Byul I",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "15/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Night passed out After Byul tried so tiressly to find the temple till the night came in. She lifted her head and gazes through the clear moon in the sky",
+        "link": "",
+        "hints": [
+          "Byul did really love seeing the beautiness of nature",
+          "Was there a moon in the story ?",
+          "you can check maybe some specific slide in the story ?"
+        ],
+        "answer": "18374",
+        "reaction": "The sky was indeed beautiful"
+      },
+      { "day": 6,
+        "title": "Glory to Shaymin",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "15/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I love Shaymin !! it does suit so well with personality of Sunshine. Shaymin prefers to live around 'plainedGrass', if you go there, I am sure she would be so happy that it would give you a gift",
+        "link": "",
+        "hints": [
+          "The place could be related to a certain path to make",
+          "you have ability to manipulate paths, try visit her !!!"
+        ],
+        "answer": "ShayminCTF{You_Are_The_Best}",
+        "reaction": "Make sure to visit her again in another time !!!"
+      },
+      { "day": 10,
+        "title": "the day of birth",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "15/03/2025",
+        "sYear": 0,
+        "specialMess": "this day is really special, if you read this, then firstly: Congratulations!!! I made sure to give the theme of this month like this only cause of this day. nchllh le39ouba to 100 years",
+        "enigma": "Master actually left an older artifact in a tower you are already familiar with, it's related to the beginning of time where a blessed soul has just came to life. Oh, also Cinammon left you a video in the link",
+        "link": "https://www.instagram.com/p/DG3yfrQvmFT/",
+        "hints": [
+          "Maybe it's related when was born that person ?", 
+          "Remember how did you unlock the clock first time ? maybe there's another 'Time' that could trigger it"
+        ],
+        "answer": "Happy Birthday to my most precious person!!",
+        "reaction": "I wonder which year you did this, but note to the future you: Congrats et Bsse7tek !!! "
+      },
+      { "day": 14,
+        "title": "the golden number",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "15/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Ahh yes, Silicium, the most important material to build a cpu, do you also know what's special chimically about it?",
+        "link": "",
+        "hints": [
+          "Chimical table is a good tool to inspect materials", 
+          "What day is today ?"
+        ],
+        "answer": "14",
+        "reaction": "Yeah, who cares about its befenics, but most importantly it has 14 as atomic number!!!"
       }
+      
     ]
   }
+
 ]

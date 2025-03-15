@@ -62,7 +62,26 @@ app.get('/api/quiz/:month/:day/solve', (req, res) => {
   const dayData = monthData.days.find(d => d.day === day);
   if (!dayData) return res.status(404).send({ error: "Day not found" });
 
-  dayData.solved = !dayData.solved ;
+  dayData.solved = true ;
+  saveData(data);
+
+  res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
+  res.send(JSON.stringify({ message: "Quiz marked as solved", dayData }, null, 2));
+});
+
+// Mark quiz as not solved
+app.get('/api/quiz/:month/:day/unsolve', (req, res) => {
+  const month = parseInt(req.params.month);
+  const day = parseInt(req.params.day);
+  const data = loadData();
+
+  const monthData = data.find(m => m.month === month);
+  if (!monthData) return res.status(404).send({ error: "Month not found" });
+
+  const dayData = monthData.days.find(d => d.day === day);
+  if (!dayData) return res.status(404).send({ error: "Day not found" });
+
+  dayData.solved = false ;
   saveData(data);
 
   res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
