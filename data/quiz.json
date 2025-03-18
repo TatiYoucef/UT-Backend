@@ -1,27 +1,28 @@
 [
-  
   {
     "month": 4,
     "solvedOne": false,
     "name": "April",
     "Theme": "The Sun",
-
     "days": [
-
-      { "day": 1,
+      {
+        "day": 1,
         "title": "True name",
         "difficulty": "Easy",
         "solved": false,
         "cDay": "15/03/2025",
-        "sYear": 0,
+        "sYear": 2025,
         "specialMess": "This month will be focused on my most precious topic: The Sun !! generally it will be easy cause the one reading it should know herself, right ? hhh",
         "enigma": "The Sun is so lovely, she is shiny, gentle, caring, gives off that warm light to anyone facing her so freely!! but we should know firstly her full name, could you guess it ?",
         "link": "",
-        "hints": ["I hope you don't have Amnesia..."],
+        "hints": [
+          "I hope you don't have Amnesia 😭"
+        ],
         "answer": "Ouadi Chaima",
         "reaction": "YES !! Masha'Allah, nchllh she get shinier and blessed each day"
       },
-      { "day": 2,
+      {
+        "day": 2,
         "title": "Favourite color",
         "difficulty": "Easy",
         "solved": false,
@@ -30,11 +31,14 @@
         "specialMess": "",
         "enigma": "The Sun is yellow, yet, it's not the color that she would really prefer the most, I wonder what's her favourite color.",
         "link": "",
-        "hints": ["you love reacting with some particualr emoji"],
+        "hints": [
+          "you love reacting with some particualr emoji"
+        ],
         "answer": "purple",
-        "reaction": "purple is also the theme color used for this project !! "
+        "reaction": "purple is also the theme color used for this project 💜💜💜 "
       },
-      { "day": 3,
+      {
+        "day": 3,
         "title": "Nickname",
         "difficulty": "Easy",
         "solved": false,
@@ -43,11 +47,14 @@
         "specialMess": "",
         "enigma": "Actually, I have named the Sun with many different nicknames, you can say I got addicted, hhh. I might have a favourite one.",
         "link": "",
-        "hints": ["Synonym of Starlight"],
+        "hints": [
+          "Synonym of Starlight"
+        ],
         "answer": "sunshine",
-        "reaction": "I love it !! cause it represents directly those beautiful rays emmited that keeps me warm when facing her"
+        "reaction": "I love it !! cause it represents directly those beautiful rays emmited that keeps me warm when facing her ☀️💙"
       },
-      { "day": 4,
+      {
+        "day": 4,
         "title": "forgotten enigma",
         "difficulty": "Medium",
         "solved": false,
@@ -57,14 +64,15 @@
         "enigma": "I didn't FORGET about that Enigma, hehe, but I am sure you're more than capable to beat it. If you forgot where was the challenge, I kept a link here. The last word found in encrypted message is the answer.",
         "link": "https://mail.google.com/mail/u/1/?ogbl#advanced-search/to=mc_ouadi%40esi.dz&subset=all&within=1d&sizeoperator=s_sl&sizeunit=s_smb&query=to%3A(mc_ouadi%40esi.dz)/QgrcJHsHkKrFJkTsLFhTGDCxBRDzBSzkFjG?compose=DmwnWtDnFdCqNGgrrhKLCztJWgFfLRvNCsBqwMkcNpjgtmTVjjZdbZtppXfFtnklvbQzKdgqTLHg",
         "hints": [
-          "do you remember when I said back in the oldschool networking, people needed a language with just binary : 0 or 1. I am sure you are familiar with it", 
-          "are all the spaces equal ? hmmm", 
+          "do you remember when I said back in the oldschool networking, people needed a language with just binary : 0 or 1. I am sure you are familiar with it",
+          "are all the spaces equal ? hmmm",
           "maybe try to remember a language where we can just use two caracters"
         ],
         "answer": "CORDIALEMENT",
         "reaction": "Yaaay !! you now are 100% up to date with my enigmas, Yuppiii.... Or is it...hhh"
       },
-      { "day": 5,
+      {
+        "day": 5,
         "title": "Chronicles of Byul I",
         "difficulty": "Medium",
         "solved": false,
@@ -79,9 +87,10 @@
           "you can check maybe some specific slide in the story ?"
         ],
         "answer": "18374",
-        "reaction": "The sky was indeed beautiful"
+        "reaction": "The sky was indeed beautiful ✨✨"
       },
-      { "day": 6,
+      {
+        "day": 6,
         "title": "Glory to Shaymin",
         "difficulty": "Medium",
         "solved": false,
@@ -97,7 +106,58 @@
         "answer": "ShayminCTF{You_Are_The_Best}",
         "reaction": "Make sure to visit her again in another time !!!"
       },
-      { "day": 10,
+      {
+        "day": 7,
+        "title": "Chronicles of Byul II",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "16/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "In the main story of Unfazed Time, there was a symbolic scene shown that represents Byul facing against time itself proving her patience and dedication in her adventure, if you spotted it, tip the time written on that moment as HH:MM",
+        "link": "https://www.canva.com/design/DAGei2fJ2pA/EigKOb01bRNNV-3zOEi-rg/edit?utm_content=DAGei2fJ2pA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+        "hints": [
+          "Byul facing time is a metaphore and not one at the same time, but which one you should seek ?",
+          "Clock also represents time, was there a moment were both Byul and Clock existed at the same scene ?"
+        ],
+        "answer": "21:00",
+        "reaction": "As Courageous as she was, she kept going forward against Time 🕘"
+      },
+      {
+        "day": 8,
+        "title": "Favourite Pen",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "18/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "The Sun has a beautiful pen that I also appreciate its form and structure. In term of BDD, how can I identify that pen?",
+        "link": "",
+        "hints": [
+          "Does the pen had some sort of matricule that it could identify it"
+        ],
+        "answer": "6941798423326",
+        "reaction": "That's the pen, I loved it !!!"
+      },
+      {
+        "day": 9,
+        "title": "ID of the Sun",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "18/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "is There some sort of Matricule that can identify the sunshine out of anyone in Esi ?",
+        "link": "",
+        "hints": [
+          "I really hope you don't have amnesia 😭😭😭",
+          "In terms of BDD, your ID is..."
+        ],
+        "answer": "22/0073",
+        "reaction": "Ohhhh, look how unique this is !!"
+      },
+      {
+        "day": 10,
         "title": "the day of birth",
         "difficulty": "Medium",
         "solved": false,
@@ -107,13 +167,14 @@
         "enigma": "Master actually left an older artifact in a tower you are already familiar with, it's related to the beginning of time where a blessed soul has just came to life. Oh, also Cinammon left you a video in the link",
         "link": "https://www.instagram.com/p/DG3yfrQvmFT/",
         "hints": [
-          "Maybe it's related when was born that person ?", 
+          "Maybe it's related when was born that person ?",
           "Remember how did you unlock the clock first time ? maybe there's another 'Time' that could trigger it"
         ],
         "answer": "Happy Birthday to my most precious person!!",
         "reaction": "I wonder which year you did this, but note to the future you: Congrats et Bsse7tek !!! "
       },
-      { "day": 14,
+      {
+        "day": 14,
         "title": "the golden number",
         "difficulty": "Easy",
         "solved": false,
@@ -123,14 +184,12 @@
         "enigma": "Ahh yes, Silicium, the most important material to build a cpu, do you also know what's special chimically about it?",
         "link": "",
         "hints": [
-          "Chimical table is a good tool to inspect materials", 
+          "Chimical table is a good tool to inspect materials",
           "What day is today ?"
         ],
         "answer": "14",
         "reaction": "Yeah, who cares about its befenics, but most importantly it has 14 as atomic number!!!"
       }
-      
     ]
   }
-
 ]

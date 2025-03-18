@@ -51,9 +51,10 @@ app.get('/api/quiz/:month/:day', (req, res) => {
 });
 
 // Mark quiz as solved
-app.get('/api/quiz/:month/:day/solve', (req, res) => {
+app.get('/api/quiz/:month/:day/solve/:year', (req, res) => {
   const month = parseInt(req.params.month);
   const day = parseInt(req.params.day);
+  const year = parseInt(req.params.year);
   const data = loadData();
 
   const monthData = data.find(m => m.month === month);
@@ -63,6 +64,8 @@ app.get('/api/quiz/:month/:day/solve', (req, res) => {
   if (!dayData) return res.status(404).send({ error: "Day not found" });
 
   dayData.solved = true ;
+  dayData.sYear = year; //which year was solved
+
   saveData(data);
 
   res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
@@ -85,7 +88,7 @@ app.get('/api/quiz/:month/:day/unsolve', (req, res) => {
   saveData(data);
 
   res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
-  res.send(JSON.stringify({ message: "Quiz marked as solved", dayData }, null, 2));
+  res.send(JSON.stringify({ message: "Quiz marked as unsolved", dayData }, null, 2));
 });
 
 // Start server
