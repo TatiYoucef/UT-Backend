@@ -11,7 +11,7 @@
         "difficulty": "Easy",
         "solved": false,
         "cDay": "15/03/2025",
-        "sYear": 2025,
+        "sYear": 0,
         "specialMess": "This month will be focused on my most precious topic: The Sun !! generally it will be easy cause the one reading it should know herself, right ? hhh",
         "enigma": "The Sun is so lovely, she is shiny, gentle, caring, gives off that warm light to anyone facing her so freely!! but we should know firstly her full name, could you guess it ?",
         "link": "",
@@ -108,20 +108,19 @@
       },
       {
         "day": 7,
-        "title": "Chronicles of Byul II",
-        "difficulty": "Medium",
+        "title": "Missing soulmate, The Moon",
+        "difficulty": "Hard",
         "solved": false,
-        "cDay": "16/03/2025",
+        "cDay": "18/03/2025",
         "sYear": 0,
-        "specialMess": "",
-        "enigma": "In the main story of Unfazed Time, there was a symbolic scene shown that represents Byul facing against time itself proving her patience and dedication in her adventure, if you spotted it, tip the time written on that moment as HH:MM",
-        "link": "https://www.canva.com/design/DAGei2fJ2pA/EigKOb01bRNNV-3zOEi-rg/edit?utm_content=DAGei2fJ2pA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+        "specialMess": "Ok... I am so sorry, You might hate me with this enigma, so I let you use your time machine if you cannot accept the normal terms of today's Enigma",
+        "enigma": "The shinning Sun had a key agreed upon with the moon, but They divided it so each one can guar its own half: SunAndMoonCTF{1_4m_Y0u_4nd_",
+        "link": "",
         "hints": [
-          "Byul facing time is a metaphore and not one at the same time, but which one you should seek ?",
-          "Clock also represents time, was there a moment were both Byul and Clock existed at the same scene ?"
+          "The only thing that could let you win this fairly, is to wait the moon's Enigma that gives you the other half"
         ],
-        "answer": "21:00",
-        "reaction": "As Courageous as she was, she kept going forward against Time 🕘"
+        "answer": "SunAndMoonCTF{1_4m_Y0u_4nd_Y0u_4r3_m3_174_<3}",
+        "reaction": "Soulmates had met and made the best combo, nchllh the fate would bring them closer !!"
       },
       {
         "day": 8,
@@ -174,6 +173,57 @@
         "reaction": "I wonder which year you did this, but note to the future you: Congrats et Bsse7tek !!! "
       },
       {
+        "day": 11,
+        "title": "The spoken suggestion",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "18/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I admit, I ran out of ideas... So I asked you if you suggest me something, and you did ! it is the solution of this quiz, hhh. Hints are understandable to use here.",
+        "link": "",
+        "hints": [
+          "the day this quiz was created is the same day I got from you a suggestion",
+          "Ubishi... Does it remind you of something ?",
+          "I actually sent your suggestion in insta, so no need to ask me to send it to you for profesionalism, hhh"
+        ],
+        "answer": "jbhjkojibujhj",
+        "reaction": "JBKQJSKJBQKJBCK , YOU REMEMBERED !!! what an autistic enigma quiz, hhh"
+      },
+      {
+        "day": 12,
+        "title": "Evil Sun",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "18/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "speaking of Sun, in Super Smash Bros Ultimate. There was a big evil as shown in the link down below, name this evil and the enigma shall be yours",
+        "link": "https://youtu.be/WShCN-AYHqA?si=lKtcIa1dkkEy8I0D",
+        "hints": [
+          "Google is permissible, you know, hhh"
+        ],
+        "answer": "Galeem",
+        "reaction": "El7emdoulillah the Sunshine I appreciate has the opposite personality of this creature, hhh"
+      },
+      {
+        "day": 13,
+        "title": "Chronicles of Byul II",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "16/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "In the main story of Unfazed Time, there was a symbolic scene shown that represents Byul facing against time itself proving her patience and dedication in her adventure, if you spotted it, tip the time written on that moment as HH:MM",
+        "link": "https://www.canva.com/design/DAGei2fJ2pA/EigKOb01bRNNV-3zOEi-rg/edit?utm_content=DAGei2fJ2pA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+        "hints": [
+          "Byul facing time is a metaphore and not one at the same time, but which one you should seek ?",
+          "Clock also represents time, was there a moment were both Byul and Clock existed at the same scene ?"
+        ],
+        "answer": "21:00",
+        "reaction": "As Courageous as she was, she kept going forward against Time 🕘"
+      },
+      {
         "day": 14,
         "title": "the golden number",
         "difficulty": "Easy",
@@ -189,7 +239,73 @@
         ],
         "answer": "14",
         "reaction": "Yeah, who cares about its befenics, but most importantly it has 14 as atomic number!!!"
+      },
+      {
+        "day": 15,
+        "title": "Chronicles of Byul III",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "18/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "While Byul returning to enter the temple again, she realised the script in the wall has changed due to paradoxal Time anomalies",
+        "link": "https://www.canva.com/design/DAGei2fJ2pA/EigKOb01bRNNV-3zOEi-rg/edit?utm_content=DAGei2fJ2pA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+        "hints": [
+          "you can use webshell of picoCTF to hash in md5"
+        ],
+        "answer": "27b5764e87d32bdce0661950bb99f0f9",
+        "reaction": "Thank you, for making my life happier each day"
+      },
+      {
+        "day": 16,
+        "title": "It's Pottery Time !!!",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "18/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "You made many potteries that definitely look beautiful. However, I do have a favourite one, could you guess which one was?",
+        "link": "",
+        "hints": [
+          "it was special for me, that's why it's my favourite one"
+        ],
+        "answer": "Abra",
+        "reaction": "A favourite pokemon pottery made by my favourite person, thank you !!"
+      },
+      {
+        "day": 17,
+        "title": "",
+        "difficulty": "",
+        "solved": false,
+        "cDay": "",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "",
+        "link": "",
+        "hints": [
+
+        ],
+        "answer": "",
+        "reaction": ""
+      },
+      {
+        "day": 30,
+        "title": "Guidance of Sunshine",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "",
+        "sYear": 0,
+        "specialMess": "this Enigma might be one of the best ones I made, on behalf of my dream to make a treasure hunt realisable for my favourite person. Good Luck.",
+        "enigma": "Sun has many different rays that emits on Earth. Once upon time, it emitted an UV ray, the exact location hasn't been spotted precisely, but we captured some povs footages that could lead you to its destination",
+        "link": "",
+        "hints": [
+          "You might need some UV detector for this one",
+          "If I said Treasure hunt, I really meant it, hhh... Go hunt the place the secret message of the Sun !!"
+        ],
+        "answer": "내 햇빛이 나를 인도하길",
+        "reaction": "Indeed, She did guide me and she will surely do in the future nchllh"
       }
+      
     ]
   }
 ]
