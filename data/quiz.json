@@ -274,19 +274,215 @@
       },
       {
         "day": 17,
-        "title": "",
-        "difficulty": "",
+        "title": "Enigma Arts I",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "",
+        "cDay": "19/03/2025",
+        "sYear": 0,
+        "specialMess": "Enigma arts are art general based enigmas, meaning you can find clue only with photos to trace the whereabouts of key. They are independent to month's theme, and they are fun ! it was my dream to build some treasure hunt mini-games, so I hope you can enjoy them all.",
+        "enigma": "Hint arts usually don't have the text, you can go directly inspect a photo down the link to hunt the flag!",
+        "link": "https://drive.google.com/drive/folders/1iY1p3xUtObimTkLUBDts-YQQBOkEwh3H?usp=drive_link",
+        "hints": [
+          "Green color with black as theme, I wonder where did I see that..."
+        ],
+        "answer": "artCTF{first_treasureHunt_D0ne!}",
+        "reaction": "Nice hunt !!! you are already Pro !!"
+      },
+      {
+        "day": 18,
+        "title": "the cursed subject",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "19/03/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "",
+        "enigma": "I see Algebra, it reminded me of it, I see Ana, it reminded me of it, I try to study BDD, nope! it's there again, I TRY POO, WHY IS IT AGAIN THERE, KJQSBJBQKJSBDQKJ... so Yeah, as I said: 'everythin is....'",
         "link": "",
         "hints": [
-
+          "Spiders even hate it cause their house reminded them of it, bruh"
         ],
-        "answer": "",
-        "reaction": ""
+        "answer": "RO",
+        "reaction": "Even this page is RO..."
+      },
+      {
+        "day": 19,
+        "title": "Memorable day",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "19/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Sunshine organised an event with her team members about playing many different mini games to get tickets and to have fun, key of Todays's Enigma: $[EventName]CTF{$[LOCATION]_at_$[DD/MM/YYYY]}",
+        "link": "",
+        "hints": [
+          "I remember you gave me something on that day telling me I was a VIP, thank goodness I brang also something to gift it to you, hhh "
+        ],
+        "answer": "ArcadeDayCTF{Cyber_at_03/12/2024}",
+        "reaction": "Those were the good days, El7emdoulillah we experienced it"
+      },
+      {
+        "day": 20,
+        "title": "Chronicles of Byul IV",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "19/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "As Byul finished her Trial, she wanted to thank her guider who thanks to her she could reach where she is now. Byul gladly gave the flag to her guider as she was thanking her, she might not know how to break the 4th wall tho.",
+        "link": "",
+        "hints": [],
+        "answer": "ByulCTF{YOU_DID_IT}",
+        "reaction": "hopefully more adventures of both of you would come nchllh"
+      },
+      {
+        "day": 21,
+        "title": "Enigma Arts II",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "19/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "It's Enigma art day!!!, the photo where you need to hunt the flog is down this link",
+        "link": "https://drive.google.com/drive/u/1/folders/1mILpmc0seWmwwp7WL_QMGobx-rm_ZjhZ",
+        "hints": [
+          "Poor Mounir, I wonder what club made this page pink just to annoy him, hhh"
+        ],
+        "answer": "artCTF{I_4m_everywhere_:3}",
+        "reaction": "You digged so deep !! you got it, yattaaaa !"
+      },
+      {
+        "day": 22,
+        "title": "좋아하는 언어",
+        "difficulty": "매질",
+        "solved": false,
+        "cDay": "2025년 3월 20일",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "선샤인은 이 언어를 좋아해요. 그래서 당연히 이 언어에는 수수께끼가 있겠죠. 이 숫자들을 해석할 수 있나요? : ed 95 9c ea b5 ad ec 96 b4 43 54 46 7b eb aa a8 eb 93 a0 5f ea b2 83 ec 9d b4 20 eb b0 94 ec 9d b4 ed 8a b8 ea b0 80 20 eb 90 a0 20 ec 88 98 20 ec 9e 88 ec 8a b5 eb 8b 88 eb 8b a4 7d",
+        "link": "",
+        "hints": [
+          "한국어 문자가 이진법으로 변환 가능하다면, 이를 번역할 수 있을 것입니다..."
+        ],
+        "answer": "한국어CTF{모든_것이 바이트가 될 수 있습니다}",
+        "reaction": "다른 날에는 더 많은 한국형 에니그마가 공개됩니다!!!"
+      },
+      {
+        "day": 23,
+        "title": "Root of the world",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Sunshine is the root of hope and happiness, I wonder if you can find some root to discover a secret...",
+        "link": "",
+        "hints": [
+          "your world is the website, then... the root is...",
+          "Think of it as a path."
+        ],
+        "answer": "SunShineCTF{r00t_0f_w0rld_is_h5r5}",
+        "reaction": "You shouldn't close eye on these pages :3"
+      },
+      {
+        "day": 24,
+        "title": "Enigma Arts III",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Seek the link to see the hint art, and go hunt the flag !!!",
+        "link": "https://drive.google.com/drive/u/1/folders/1KVMlLSgmUMiNhJJ58h1hkXywhgKR10Kw",
+        "hints": [
+          "That logo seems a bit familiar to a certain Project...",
+          "That white background doesn't remind you of frames ? what tool was that again ?"
+        ],
+        "answer": "artCTF{DPI_PTSD}",
+        "reaction": "Good thing Cinammon was helping us during that project!!!"
+      },
+      {
+        "day": 25,
+        "title": "Chronicles of Byul V",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "For non ambiguity, Focus solely on chapter 1 for this riddle, this is the final Chronicles of Byul, Good luck !!! ",
+        "enigma": "How many Suns, How many Moons, How many cats, How many Gates, How many Statues, how many Travelers(?3), How many clocks. twin numbers decided to merge as sum. 4 and 3 befriended each other and decided to merge as sum. Sun and moon should stay aside",
+        "link": "https://www.canva.com/design/DAGei2fJ2pA/EigKOb01bRNNV-3zOEi-rg/edit",
+        "hints": [
+          "it's a simple calcul, each slide is important to caclulate something"
+        ],
+        "answer": "1479183127",
+        "reaction": "Could this number be a key for something else ?"
+      },
+      {
+        "day": 26,
+        "title": "Color as a key",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "if I can't hide my Viginère decryption key as a text, maybe I can do it differently without anyone noticing, hehehe: KoakbvfyPLZ{Agnuaht_uihdx_ow_bvvxrf}",
+        "link": "https://www.figma.com/design/c2xPgFUbFZnDtZYGkrG3zW/TP-IGL?node-id=0-1&p=f&t=xHJ64ds2Ba7K3hyl-0",
+        "hints": [
+          "Title might hint into something",
+          "That figma surely has a 'colored' key",
+          "Are colors in the end text ?"
+        ],
+        "answer": "SunshineCTF{Nothing_could_be_hidden}",
+        "reaction": "Brilliant mind !!!"
+      },
+      {
+        "day": 27,
+        "title": "Owlification",
+        "difficulty": "OwO",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I love owls and cats, they are so cute !! do you know a nickname where I can refere both of them as the same time to Sunshine ?",
+        "link": "",
+        "hints": [
+          "Ciamoi seems a good start for naming",
+          "Ouadi , Owl, hmmm...",
+          "Ciamoi, Chaima, hmm..."
+        ],
+        "answer": "Owadi Chiamoi",
+        "reaction": "YES, IT'S SO FITTING, HCBKQSBKBXQBK"
+      },
+      {
+        "day": 28,
+        "title": "Abacus basics",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "I think I have heard you learned Abacus I think? So I tried to learn some basics to show you this small enigma, if I found some interesting enigmas related to it, why not !!!",
+        "enigma": "I wonder what this weird structure means, the photo is found with the link down below.",
+        "link": "https://drive.google.com/drive/u/1/folders/1XMrNfCP1OgoH9qZbP6FZBRdX0OPmrQxe",
+        "hints": [
+          "It's all about Abacus basics, try to extract the number found"
+        ],
+        "answer": "14174714",
+        "reaction": "You really know Abacus !! Niiice, Masha'Allah"
+      },
+      {
+        "day": 29,
+        "title": "What in the Poneglyph",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "What is even that, lol",
+        "link": "",
+        "hints": [
+          "A language that I think you only one and me have the ley to decioher it :3"
+        ],
+        "answer": "FONTCTFDONE",
+        "reaction": "You can read this? wow, you're amazing !!!"
       },
       {
         "day": 30,
@@ -305,7 +501,188 @@
         "answer": "내 햇빛이 나를 인도하길",
         "reaction": "Indeed, She did guide me and she will surely do in the future nchllh"
       }
-      
+    ]
+  },
+  {
+    "month": 5,
+    "solvedOne": false,
+    "name": "May",
+    "Theme": "Games",
+    "days": [
+      {
+        "day": 1,
+        "title": "Jan Ken Shizazu !!!",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "21/03/2025",
+        "sYear": 0,
+        "specialMess": "This month will be full of Video games or anything related to as game, some are gameplays or some are knowledge games based questions (NINTENDO, JHJDHCJHSVJ), I can't get excited to see you experience them !!!",
+        "enigma": "Let's start with classical: Rock Paper Scissors!!! Go to path: /#/games/RPS, or you can use this link, and go strike your opponent 🔥🔥🔥🔥",
+        "link": "https://unfazed-time.onrender.com/#/games/RPS",
+        "hints": [],
+        "answer": "gameMasterCTF{Rock_Paper_Scisors_mastered_147}",
+        "reaction": "What a game! This is a warm up for what's next, so be prepared !!! hhh"
+      },
+      {
+        "day": 2,
+        "title": "How to unhover an autistic button",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "21/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I hate this button, no matter what, it avoids me from clicking it, It's so frustrating, LSNLILOVEYOUQSNLQ. path is: /#/games/annoyingButton",
+        "link": "https://unfazed-time.onrender.com/#/games/annoyingButton",
+        "hints": [
+          "Is there a way to click on button without even clicking it",
+          "There should be a way, users without a mouse should have the ability to interact with web"
+        ],
+        "answer": "gameMasterCTF{button_secret_unveiled}",
+        "reaction": "I don't know what you did, but thanks for calming down that button !!!"
+      },
+      {
+        "day": 3,
+        "title": "pico memories I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "21/03/2025",
+        "sYear": 0,
+        "specialMess": "It's time enigma art again !!! with this theme goes to pico images where you try to guess which level was this pico game as flag answer: ${WorldName} Lvl.?",
+        "enigma": "Go to this link to try find out which level was this in pico park 2, the flag format: ${WorldName} Lvl.?",
+        "link": "https://drive.google.com/drive/u/1/folders/1USBQpMNRigtN92HTahiyfTXbwC1kY8Xz",
+        "hints": [
+          "Once upon time, there was two soulmates wanted to play at the first time, pico park 2!!!"
+        ],
+        "answer": "Hello, Pico Park 2 Lvl.1",
+        "reaction": "It was the start of new core memory cause she was there"
+      },
+      {
+        "day": 8,
+        "title": "pico memories II",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "21/03/2025",
+        "sYear": 0,
+        "specialMess": "This level of today was also emotional one, about how we beated together that level, I wonder if we ever reach there with Nadine.",
+        "enigma": "Go to this link to try find out which level was this in pico park 2, the flag format: ${WorldName} Lvl.?",
+        "link": "https://drive.google.com/drive/u/1/folders/1SLVHh_dRfx74_f2gCHGflKQ8WdgtybjY",
+        "hints": [
+          "A boss should only exist in the last level, not final world tho, weirdly..."
+        ],
+        "answer": "Shoot 'em up Lvl.4",
+        "reaction": "I still remember how you keep shooting after beating the boss, it was so memorable moment for me, hhh"
+      },
+      {
+        "day": 15,
+        "title": "pico memories III",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "21/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Go to this link to try find out which level was this in pico park 2, the flag format: ${WorldName} Lvl.?",
+        "link": "https://drive.google.com/drive/u/1/folders/1SuoQjShre1ErUW_4YxU_IOQBb-VTV0uT",
+        "hints": [
+          "it was struggling about how to break the glass using... our ears ?"
+        ],
+        "answer": "Skills Or Devices Lvl.3",
+        "reaction": "I still don't fully understand how developers made their mind to this level, lol"
+      },
+      {
+        "day": 20,
+        "title": "pico memories IV",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "21/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Go to this link to try find out which level was this in pico park 2, the flag format: ${WorldName} Lvl.?",
+        "link": "https://drive.google.com/drive/u/1/folders/1Lzmd8jtHgPdE7q__s6_IF2ExobSBYjUV",
+        "hints": [
+          "it was also a memorable moment when accomplishing that level, cause it symbolises the begining if the end of a big adventure"
+        ],
+        "answer": "Last Park Lvl.4",
+        "reaction": "*Sniff, who's cutting onions..."
+      },
+      {
+        "day": 25,
+        "title": "pico memories V",
+        "difficulty": "Dark",
+        "solved": false,
+        "cDay": "21/03/2025",
+        "sYear": 0,
+        "specialMess": "This level was also touching, considering that it was last level ever to beat for us, thank you for letting me experience this magical journey with you.",
+        "enigma": "Go to this link to try find out which level was this in pico park 2, the flag format: ${WorldName} Lvl.?",
+        "link": "https://drive.google.com/drive/u/1/folders/1w3-VArqhs3RNaXlGCrqWSKoirzdWgC3X",
+        "hints": [
+          "At last, pico soulmates stepped on their last level together, even tho it wasn't the last for the game..."
+        ],
+        "answer": "Hard Park Lvl.4",
+        "reaction": "Thank you so much to play with me, Chaima, I hope you know how precious this was for me"
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "solvedOne": false,
+    "name": "October",
+    "Theme": "The Moon",
+    "days": [
+      {
+        "day": 10,
+        "title": "Unnoticed Enigma",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "19/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Yes, I am autistic, I actually an Enigma to everyone's sight, but nobody noticed it I guess, I left a clue down this link",
+        "link": "https://drive.google.com/drive/u/1/folders/1spb5ozQJs9tOOFxa3scP2uPwDtOE73rn",
+        "hints": [],
+        "answer": "SUSSY BAKA",
+        "reaction": "I am so embarassed... I will jump out of a cliff, hhh"
+      },
+      {
+        "day": 30,
+        "title": "The first Good Morning to The Moon",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Do you wanna feel nostlagic ? There was a Time where we shared different yapping between, after that night, I think it was the first time you sent me Good Morning, DD/MM",
+        "link": "",
+        "hints": [
+          "Are you today's date ? Cause you're DD/MM"
+        ],
+        "answer": "31/10",
+        "reaction": "It was really therapeutic and healing what you did to me, thank you again"
+      }
+    ]
+  },
+  {
+    "month": 12,
+    "solvedOne": false,
+    "name": "December",
+    "Theme": "Sun and Moon",
+    "days": [
+      {
+        "day": 5,
+        "title": "Suspecious meeting",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "The Sun came early to a meet where weirdly she just found The moon there all lonely, it was a funny moment, so I wanted it to be a small enigma for today, hhh. As a challenge, try to get the code of that meet.",
+        "link": "",
+        "hints": [
+          "The Sun came early to just copy the link for a friend, I wonder what module was that",
+          "it was only a day after first reunion of team cats in pico, that was so fun !!!"
+        ],
+        "answer": "pou-zjvx-nux",
+        "reaction": "The moon secret scheme was wether if The Sun would come first, this would be an opportunity to yap with her, it worked, hehehe!!!"
+      }
     ]
   }
 ]
