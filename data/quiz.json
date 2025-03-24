@@ -557,6 +557,70 @@
         "reaction": "It was the start of new core memory cause she was there"
       },
       {
+        "day": 4,
+        "title": "Guess the sequence I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "21/03/2025",
+        "sYear": 0,
+        "specialMess": "Guess the sequence enigmas are pretty fun in a way where I give you a list of words or names that has logical sequence for a game and you try to guess the next one. No need to have knowledge on that game, just an effecient way to search ( you can disable use of Chatgpt if you wanna challenge yourself, hhh )",
+        "enigma": "Guess the next word of this Sequence: Mondstadt, Liyue, Inazuma, Sumeru, Fontaine, ???",
+        "link": "",
+        "hints": [],
+        "answer": "Natlan",
+        "reaction": "Imagine how big of a map with all these regions in a single game(120GB btw, hhh), wow..."
+      },
+      {
+        "day": 5,
+        "title": "Telepathy of all time",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "23/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "Could you guess my number in less than 10 tries ? Try it in path: '/#/games/guess'. Or you can use this link.",
+        "link": "https://unfazed-time.onrender.com/#/games/guess",
+        "hints": [
+          "Have you ever heard of Recherche Dichotomique ?"
+        ],
+        "answer": "gameMasterCTF{Logarithm_1s_useful_at_guessing}",
+        "reaction": "In the end, SFSD was useful ( sorry... )"
+      },
+      {
+        "day": 6,
+        "title": "Deja Vue I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "23/03/2025",
+        "sYear ": 0,
+        "specialMess": "Deja Vue enigmas are related to images that it might makes you feel familiar, you should remember the exact moment when you were playing that game to get the codes from them as a flag.",
+        "enigma": "Does this image remind you of anything particular ? Go to Link to see it.",
+        "link": "https://drive.google.com/drive/u/1/folders/18ps2CvSaqkTA0tn-kAFO29IcFsovvQ9J",
+        "hints": [
+          "A tape, doesn't it make you remember...something ?"
+        ],
+        "answer": "826",
+        "reaction": "I am sure it was a memorable gameplay to you, hhh"
+      },
+      {
+        "day": 7,
+        "title": "Most Powerful",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "23/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "In lore accurate storylines of Nintendo Universe, who is the most powerful caracter that exists there?",
+        "link": "",
+        "hints": [
+          "Looks are usually deceiving",
+          "I think I already yapped a bit about it",
+          "He's fluffy, and cute... yes, he is the most powerful In NintendoVerse"
+        ],
+        "answer": "Kirby",
+        "reaction": "So deadly with cuteness !! just like y-...Ahem, I shall go keep sleeping...and dreaming..."
+      },
+      {
         "day": 8,
         "title": "pico memories II",
         "difficulty": "Easy",
@@ -571,6 +635,36 @@
         ],
         "answer": "Shoot 'em up Lvl.4",
         "reaction": "I still remember how you keep shooting after beating the boss, it was so memorable moment for me, hhh"
+      },
+      {
+        "day": 9,
+        "title": "Lost in the deep woods",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "24/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "Deep woods whispered you the secret path to not get lost: NWNEESENE",
+        "link": "https://drive.google.com/drive/u/1/folders/10OrPrXk_jsp0tTduTOHzT3z0MUGMUj__",
+        "hints": [
+          "if you follow the whispers given, you shall never feel lost"
+        ],
+        "answer": "DeepWoodCTF{n0thin6_cut5_d33p3r_th4n_4_t0n6u3}",
+        "reaction": "You are now a child of Deep woods who already mastered the paths of the forest"
+      },
+      {
+        "day": 10,
+        "title": "Let's do GAMBLING",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "23/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I wanna have a sunshine, could you get it for me? Path: /#/games/itemRoulette",
+        "link": "https://unfazed-time.onrender.com/#/games/itemRoulette",
+        "hints": [],
+        "answer": "gameMasterCTF{MarioKart_Madness}",
+        "reaction": "Nice reflexes !!! As expected from a pro gambler, hhhh"
       },
       {
         "day": 15,
@@ -619,6 +713,24 @@
         ],
         "answer": "Hard Park Lvl.4",
         "reaction": "Thank you so much to play with me, Chaima, I hope you know how precious this was for me"
+      },
+      {
+        "day": 31,
+        "title": "May the stars shine down on you",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "23/03/2025",
+        "sYear": 0,
+        "specialMess": "I was actually only recently (recently of my timeline, lol) found out that someone in Mario games said a sentence so close of 'May my sunshine guide me', So I made it as final enigma of this Month, hope you enjoyed it !!!'",
+        "enigma": "Name the character in Mario Universe that said a sentence with closest meaning of : 'May the sunshine guide you'.",
+        "link": "",
+        "hints": [
+          "if we talking about stars, this character should exist in a Mario game related to Space.",
+          "This character also loves stars and guide them.",
+          "the theme color of this caracter is white and cyan."
+        ],
+        "answer": "Rosalina",
+        "reaction": "She is also guardian of the galaxy, how convenient and fitting with someone reffered to as sunshine, hhh"
       }
     ]
   },
