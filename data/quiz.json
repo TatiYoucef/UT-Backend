@@ -114,7 +114,7 @@
         "cDay": "18/03/2025",
         "sYear": 0,
         "specialMess": "Ok... I am so sorry, You might hate me with this enigma, so I let you use your time machine if you cannot accept the normal terms of today's Enigma",
-        "enigma": "The shinning Sun had a key agreed upon with the moon, but They divided it so each one can guar its own half: SunAndMoonCTF{1_4m_Y0u_4nd_",
+        "enigma": "The shinning Sun had a key agreed upon with the moon, but They divided it so each one can guard its own half: SunAndMoonCTF{1_4m_Y0u_4nd_",
         "link": "",
         "hints": [
           "The only thing that could let you win this fairly, is to wait the moon's Enigma that gives you the other half"
@@ -667,6 +667,67 @@
         "reaction": "Nice reflexes !!! As expected from a pro gambler, hhhh"
       },
       {
+        "day": 11,
+        "title": "Deja Vue II",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "24/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "Does this image remind you of anything particular ? Go to Link to see it.",
+        "link": "https://drive.google.com/drive/u/1/folders/1WgljbpNm42Va9K650fOMqsUMajwzJrj7",
+        "hints": [
+          "A red skirt and a needle, doesn't it remind you of something....or someone?",
+          "You defenitely played the game where she existed there, I also played that game."
+        ],
+        "answer": "Hornet",
+        "reaction": "I fantisized that caracter to be you when I played Hollow Knight..."
+      },
+      {
+        "day": 12,
+        "title": "Cpt++",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "24/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "Do you know how to count? go follow this link for more details and rules.",
+        "link": "https://drive.google.com/drive/u/1/folders/1V6oGsi2peIEEsLHrrFNO6YfxFdz9-Rbn",
+        "hints": [
+
+        ],
+        "answer": "39",
+        "reaction": "You have a potentiel to be a Pro in Mario Party, yaaaay"
+      },
+      {
+        "day": 13,
+        "title": "Guess the sequence II",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "24/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Guess the next word of this Sequence: Kanto, Johto, Hoenn, Sinnoh, Unnova, Kalos, Alola, ???",
+        "link": "",
+        "hints": [],
+        "answer": "Galar",
+        "reaction": "Small fact: Your game pokemon Diamond was released in 4th gen with the release of 4th region: Sinnoh !!!"
+      },
+      {
+        "day": 14,
+        "title": "Countdown",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "24/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Do you have good reflexes? try it on path: /#/games/reflexe. or you can go to this link, hehe.",
+        "link": "https://unfazed-time.onrender.com/#/games/reflexe",
+        "hints": [],
+        "answer": "gameMasterCTF{ADHD_k1ll3r_141477}",
+        "reaction": "Nice reflexes!!! As expected from pro pico player :3"
+      },
+      {
         "day": 15,
         "title": "pico memories III",
         "difficulty": "Medium",
@@ -681,6 +742,72 @@
         ],
         "answer": "Skills Or Devices Lvl.3",
         "reaction": "I still don't fully understand how developers made their mind to this level, lol"
+      },
+      {
+        "day": 16,
+        "title": "Deja Vue III",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "24/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "Does this image remind you of anything particular ? Go to Link to see it.",
+        "link": "https://drive.google.com/drive/u/1/folders/1ajE8THLzN2-n6yRJzkJLfYH58YslHN6w",
+        "hints": [
+          "It's obviously a map of something"
+        ],
+        "answer": "GreenPath",
+        "reaction": "a region full of nature and green, just like your soul-... ANYWAYS, KJXKJKXZJXjk"
+      },
+      {
+        "day": 17,
+        "title": "whoami",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "24/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Pokemon fears my presence, I have resistance from all primary elements, we are so hostile that we can be dangerous even against our blood, my worst fear is a fairy and coldness, who am I?",
+        "link": "",
+        "hints": [
+          "if we talking about resistance and effectiveness, the most logical answer would be a type of a Pokemon"
+        ],
+        "answer": "Dragon",
+        "reaction": "Dragon type pokemons are the most powerful types in the end"
+      },
+      {
+        "day": 18,
+        "title": "Guess the sequence III",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "24/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Guess the next word of this Sequence: Super Mario 64, Super Mario Sunshine, Super Mario Galaxy1/2, Super Mario 3D World, ???",
+        "link": "",
+        "hints": [
+          "Are you seeing some pattern of these Mario Games",
+          "Oh look! A Mario that has a story not in 2D, how special !!"
+        ],
+        "answer": "Super Mario Odyssey",
+        "reaction": "They are all Goated, I hope I can get to show you all of them when I get the chance nchllh"
+      },
+      {
+        "day": 19,
+        "title": "tricky Hide&Seek",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "24/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Something is hidding from you, go Chase it!!! the 'root' place starts with this link",
+        "link": "https://drive.google.com/drive/u/1/folders/1XHFYoaUZAueoffH4PNiHgxQjN7iFMomV",
+        "hints": [
+          "Sometimes, everyone underestimate obvious spots in Hide&Seek",
+          "when I was young, I used to do inverse psychologie where I don't hide the furthest away, but the opposite to be unpredectible"
+        ],
+        "answer": "GameMasterCTF{h1d3_n_s33k_1s_s0m3t1m35_tr1cky}",
+        "reaction": "Next Time, you should always start checking from the beginnig, hehe"
       },
       {
         "day": 20,
@@ -753,6 +880,22 @@
         "hints": [],
         "answer": "SUSSY BAKA",
         "reaction": "I am so embarassed... I will jump out of a cliff, hhh"
+      },
+      {
+        "day": 14,
+        "title": "Missing soulmate, The Sun",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "18/03/2025",
+        "sYear": 0,
+        "specialMess": "Ok... I am so sorry, You might hate me with this enigma, so I let you use your time machine if you cannot accept the normal terms of today's Enigma",
+        "enigma": "The shinning Sun had a key agreed upon with the moon, but They divided it so each one can guard its own half: Y0u_4r3_m3_174_<3}",
+        "link": "",
+        "hints": [
+          "The only thing that could let you win this fairly, is to wait the Sun's Enigma that gives you the other half"
+        ],
+        "answer": "SunAndMoonCTF{1_4m_Y0u_4nd_Y0u_4r3_m3_174_<3}",
+        "reaction": "Soulmates had met and made the best combo, nchllh the fate would bring them closer !!"
       },
       {
         "day": 30,
