@@ -660,8 +660,8 @@
         "cDay": "23/03/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "I wanna have a sunshine, could you get it for me? Path: /#/games/itemRoulette",
-        "link": "https://unfazed-time.onrender.com/#/games/itemRoulette",
+        "enigma": "I wanna have a sunshine, could you get it for me? ",
+        "link": "https://drive.google.com/drive/u/1/folders/155_2vHbh99rJGFizhY4o-FPOROB40M3a",
         "hints": [],
         "answer": "gameMasterCTF{MarioKart_Madness}",
         "reaction": "Nice reflexes !!! As expected from a pro gambler, hhhh"
@@ -826,6 +826,70 @@
         "reaction": "*Sniff, who's cutting onions..."
       },
       {
+        "day": 21,
+        "title": "Deja Vue IV",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "25/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "Does this image remind you of anything particular ? Go to Link to see it. You should name the game that the screenshot has taken from",
+        "link": "https://drive.google.com/drive/u/1/folders/1NCx91cNa3aDuq8joevlaoGi86aXfQ8VT",
+        "hints": [
+         "I played this game and wanted to show you my achievement, hope you didn't mind for my arrogance, hhh"
+        ],
+        "answer": "Pokemon Sword",
+        "reaction": "That took me some time to catch 400 different breeds, lol"
+      },
+      {
+        "day": 22,
+        "title": "Mysterious dots",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "25/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "what is this file? I wonder if it hides a secret",
+        "link": "https://tatiyoucef.github.io/TreasureWeb/files/EncryptedMessage.xlsx",
+        "hints": [
+         "The shape doesn't remind you of some crypting method used graphically?"
+        ],
+        "answer": "TatAli",
+        "reaction": "this challenge was actually made in Treasure Hunt Orga event by me, I am sure you would love our event !!"
+      },
+      {
+        "day": 23,
+        "title": "Guess the sequence IV",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "25/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "Guess the next word of this Sequence: Mario&Luigi, Wario&Waluigi, Toad&Toadette, Peach&???",
+        "link": "",
+        "hints": [
+          "These duo caracters seem so alike in characteristics, hmmm"
+        ],
+        "answer": "Daisy",
+        "reaction": "Almost everyone forget that she is also a princess in Mario games, lol"
+      },
+      {
+        "day": 24,
+        "title": "Maths Speedrun",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "25/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Are you good at maths Calculations? Test your calculation power in path: /#/games/maths",
+        "link": "https://unfazed-time.onrender.com/#/games/maths",
+        "hints": [
+
+        ],
+        "answer": "gameMasterCTF{B1g_br41n_t1me_7714}",
+        "reaction": "Don't underestimate Soroban teacher, hhh"
+      },
+      {
         "day": 25,
         "title": "pico memories V",
         "difficulty": "Dark",
@@ -840,6 +904,89 @@
         ],
         "answer": "Hard Park Lvl.4",
         "reaction": "Thank you so much to play with me, Chaima, I hope you know how precious this was for me"
+      },
+      {
+        "day": 26,
+        "title": "Deja Vue V",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "26/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "Does this image remind you of anything particular ? Go to Link to see it.",
+        "link": "https://drive.google.com/drive/u/1/folders/13Q94Mj509E_B3mLxZvEQPF46hP2jtBy7",
+        "hints": [
+          "you and I played the game, but I don't think you have accomplished it yet, but that's fine by me lol",
+          "that blue theme rectangle doesn't remind you of Something ?",
+          "that blue thing sounds like some sort of creature, hmm..."
+        ],
+        "answer": "Dawn",
+        "reaction": "I can't get myself excited to see you finish one day a pokemon, one day nchllh"
+      },
+      {
+        "day": 27,
+        "title": "Mastering literrature",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "26/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "Do you know Wordle? A game to try to guess a word of 5 letters, find the word as the flag of this enigma!!!",
+        "link": "https://wordleplay.com?challenge=c2hpbnk=",
+        "hints": [
+          "it has a caracteristic about you, hehe",
+          "in terms of word knowledge, you already know this word, it's a simple one"
+        ],
+        "answer": "Shiny",
+        "reaction": "Yaaay, Nice one !! as expected from our shiny teacher of English, hhh"
+      },
+      {
+        "day": 28,
+        "title": "Guess the sequence V",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "26/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "Guess the next word of this Sequence: Mario|Bowser, Sonic|Dr.Eggman , Kirby|Void, Link|???",
+        "link": "",
+        "hints": [
+          "if you put these 2 caracters in a single room, there will be no room after that"
+        ],
+        "answer": "Ganondorf",
+        "reaction": "If you tried to type firstly Ganon, I need to yap 100 hours how it's not the final antagonist in Zelda Trilogy, lol"
+      },
+      {
+        "day": 29,
+        "title": "crafting a ring from nothingness",
+        "difficulty": "Really Hard",
+        "solved": false,
+        "cDay": "26/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "there's a game called infinity craft, where you start having only 4 primary elements, but fusing them might give you new elements that will be in your disposal. My proposal is simple: Build me a Saturn :3 (yes, literally), and the flag will be yours (Screenshot me your Saturn to reward you the flag).",
+        "link": "https://infinite-craft.com/",
+        "hints": [
+          "you have all the freedom to make Saturn, my attempt was first to find planet and ring"
+        ],
+        "answer": "gameMasterCTF{1nf1n1ty_Cr4ft_1s_fun_741147_:3}",
+        "reaction": "I wonder your reaction of some of your crafts, hhh"
+      },
+      {
+        "day": 30,
+        "title": "Lost in the shuffle",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "26/03/2025",
+        "sYear ": 0,
+        "specialMess": "",
+        "enigma": "there are some dolls that will be shuffled, focus on the one that is on the center... More details will be given down this link",
+        "link": "https://drive.google.com/drive/u/1/folders/124OAROPXutm5tikK0ZlzRzeYfKYV2YZD",
+        "hints": [
+
+        ],
+        "answer": "334",
+        "reaction": "Good eyes!!! I am sure now you have good potentiel in Mario Party, hehe"
       },
       {
         "day": 31,
