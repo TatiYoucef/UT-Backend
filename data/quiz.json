@@ -1009,6 +1009,109 @@
     ]
   },
   {
+    "month": 6,
+    "solvedOne": false,
+    "name": "Juin",
+    "Theme": "Activities",
+    "days": [
+      {
+        "day": 1,
+        "title": "Good Morning",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "28/03/2025",
+        "sYear": 0,
+        "specialMess": "In this month, as it's the beginning of the Summer, I thought of giving you Enigmas as fun social activities or some loved hobbies to do, you won't need to try hard, it will be a good theme to just rest and have fun, hhh",
+        "enigma": "Wake up, wash your face, start do Prayer and thank rebbi sub7anou for your progress in life till now, say Good morning to anyone: to your family, to your best friend ( maybe to me if you don't mind... )... I know your honesty, so if you did this, you can go to this link as the flag waits you there, hhh.",
+        "link": "https://drive.google.com/drive/u/1/folders/1DRghYlPfcWFDsq2GeEMBCDlb_vT9KJzB",
+        "hints": [
+          "I don't think you should need a hint to how to salute someone xD, especially that is your expertise, hhh"
+        ],
+        "answer": "funActivtivitiesCTF{g00d_t0_st4rt_d4y_p0s1t1v3ly}",
+        "reaction": "Good morning to sunshine!! nchllh every day is a blessing to you !!!"
+      },
+      {
+        "day": 2,
+        "title": "safari enigma I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "28/03/2025",
+        "sYear": 0,
+        "specialMess": "Safari enigma is one of categories of challenges of this theme, basically I describe you anything and you should find a picture about it, I hope you enjoy them all!!! ",
+        "enigma": "Try to take a picture of Dawn or Sunset of this day, I don't mind any quality, send it here in this link or to me, and I will reveal you the flag.",
+        "link": "https://drive.google.com/drive/u/1/folders/1tcR1wmL7K3lag6Q3VBQjiQbVYbrF7ZCd",
+        "hints": [
+          
+        ],
+        "answer": "funActivtivitiesCTF{sun_1s_4lw4ys_b34ut1ful}",
+        "reaction": "So shiny!!! sub7anallah, Sun is so gorgeaus in everything, hehe"
+      },
+      {
+        "day": 3,
+        "title": "linking fate with rope",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "28/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Do you love knitting? and do you have a needle and a silk to knit? if yes, if you don't mind, try to knit something simple, anything is enough to get today's enigma, send it here in this link or to me, and I will reveal you the flag.",
+        "link": "https://drive.google.com/drive/u/1/folders/1_0DJ-CDH4bCLfxReg3bVmVWh3U77Toxl",
+        "hints": [
+          
+        ],
+        "answer": "funActivtivitiesCTF{kn1tt1ng_m4k3s_l1f3_3nj0y34ble}",
+        "reaction": "Masha'Allah, such beautiful knit as her owner, hehe, rebbi y7efdek nchllh"
+      },
+      {
+        "day": 4,
+        "title": "Drawing Contest I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "28/03/2025",
+        "sYear": 0,
+        "specialMess": "in this category, I will ask you to draw something and you can use any tool to draw it, let's see your masterpieces in action, hhh",
+        "enigma": "Let's start with something simple, a cat !!! try to draw a simple cat, any tool is possible. send it here in this link or to me, and I will reveal you the flag.",
+        "link": "https://drive.google.com/drive/u/1/folders/1WhorXvZPP-9two9Sx5hLhAhheaF4mXs3",
+        "hints": [
+          
+        ],
+        "answer": "funActivtivitiesCTF{4rt154n4_1s_4_d33p_c0nc3pt_t0_gr45p}",
+        "reaction": "Can I predict that you drew a kitty with a smile ? or maybe a caleco ? hehe"
+      },
+      {
+        "day": 5,
+        "title": "Pokemon adventure I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "28/03/2025",
+        "sYear": 0,
+        "specialMess": "you might hate this categorie, I am so sorry T_T, you will need to play Pokemon Diamond and try to get the pokedex info of the Pokemon I specify (by owning that pokemon through catching, evolving, ....)",
+        "enigma": "As introduction, I know you have a Piplup, try to send me his Pokedex as a screenshot on drive or directly to me and the flag shall be yours",
+        "link": "https://drive.google.com/drive/u/1/folders/1Y00kDfhD2bNIU8yrrLQYJaY8Uko2UkC_",
+        "hints": [
+          "Pause tha game > Pokedex > Search Piplup > Screenshot his data"
+        ],
+        "answer": "PokemonCTF{St4rt_0f_n3w_3r4}",
+        "reaction": "You know I haven't forget that you left this game, do you? hhh (Don't worry, I wouldn't mind that at all, lol)"
+      },
+      {
+        "day": 30,
+        "title": "Good Night",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "28/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "As the sun sets, the call of duty of today rests away as people's minds calms away. It's time to make the night's prayer and prepare your body for the next day to eep well, say a good night as last thing to say for today to anyone and you can take the flag from this drive.",
+        "link": "https://drive.google.com/drive/u/1/folders/1GyC04ByWh2bslcaqYHc1oyMWOAD8lMiF",
+        "hints": [
+        ],
+        "answer": "funActivtivitiesCTF{r3st_w3ll_4nd_g00d_n1ght}",
+        "reaction": "Rest well, beautiful soul, may your nights be always blessed nchllh"
+      }
+    ]
+  },
+  {
     "month": 10,
     "solvedOne": false,
     "name": "October",
