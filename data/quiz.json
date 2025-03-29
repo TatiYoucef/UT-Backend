@@ -1095,6 +1095,87 @@
         "reaction": "You know I haven't forget that you left this game, do you? hhh (Don't worry, I wouldn't mind that at all, lol)"
       },
       {
+        "day": 6,
+        "title": "Telepathying the telepathy",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "29/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "ignoring the silly title, let's play a small X/O game in this link, hhh, flag will be given after at least a single match done",
+        "link": "https://drive.google.com/drive/u/1/folders/1q1gjGxqJuVSLdGp4oRRb9Od5whulQYy3",
+        "hints": [
+         
+        ],
+        "answer": "SillyCTF{GG_th4nk5_f0r_pl4y1ng}",
+        "reaction": "I would say we will have a lot of ties, hhh"
+      },
+      {
+        "day": 7,
+        "title": "Gentle reminder I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "29/03/2025",
+        "sYear": 0,
+        "specialMess": "You know, as each day passes, it's really important to be aware about how lucky we are to have this life, so, I have let some dailys to be reminders for yourself make dou3a2 and nchllh get closer to our creator.",
+        "enigma": "Go to this link to see the small task with flag reward",
+        "link": "https://drive.google.com/drive/u/1/folders/1TVYgdl0eCYOlbFI1OYo_k4ckCurWjfGy",
+        "hints": [
+         
+        ],
+        "answer": "GentleReminderCTF{tessbi7_after_prayer_is_a_blessing}",
+        "reaction": "El7emdoulillh for ni3mat Islam, Dailies should also be reminders to how thankful we should be."
+      },
+      {
+        "day": 8,
+        "title": "Silly joke",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "29/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Tell me a joke so I can see how much autistic my level of humour is :)",
+        "link": "",
+        "hints": [
+         
+        ],
+        "answer": "ActivityCTF{LOL}",
+        "reaction": "I think I am already seeing my stupid face laughing at your joke..."
+      },
+      {
+        "day": 9,
+        "title": "Pokemon adventure II",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "28/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I wanna see if you can catch a bird, hmmm, how about a starly! try to send me his Pokedex as a screenshot on drive or directly to me and the flag shall be yours",
+        "link": "https://drive.google.com/drive/u/1/folders/1FREMDj6exwrTxfsokUWVHaD2n0y4VUh2",
+        "hints": [
+          "Pause tha game > Pokedex > Search Piplup > Screenshot his data",
+          "Pokepedia is really a good website to search for where to find or catch any pokemon of any generation, google: Starly pokepedia, you will find Etourmi which is his name in french, go there and try to get used to how to web browse there"
+        ],
+        "answer": "PokemonCTF{St4rly_1s_r3ally useful_1n_3ndg4m3}",
+        "reaction": "Yattaaaa, Into the next hunt !!! ( I hope you didn't hate it... )"
+      },
+      {
+        "day": 10,
+        "title": "Drawing Contest II",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "29/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "invite me to draw with you a video game caracter, I will suggest you some and you choose",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "funActivtivitiesCTF{dr4w1ng_t0g3th3r_1s_h34l1ng}",
+        "reaction": "I am sure your drawing was better than mine, but I just did this for fun, hhh"
+      },
+      {
         "day": 30,
         "title": "Good Night",
         "difficulty": "Easy",
