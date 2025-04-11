@@ -1153,7 +1153,7 @@
         "enigma": "I wanna see if you can catch a bird, hmmm, how about a starly! try to send me his Pokedex as a screenshot on drive or directly to me and the flag shall be yours",
         "link": "https://drive.google.com/drive/u/1/folders/1FREMDj6exwrTxfsokUWVHaD2n0y4VUh2",
         "hints": [
-          "Pause tha game > Pokedex > Search Piplup > Screenshot his data",
+          "Pause tha game > Pokedex > Search Starly > Screenshot his data",
           "Pokepedia is really a good website to search for where to find or catch any pokemon of any generation, google: Starly pokepedia, you will find Etourmi which is his name in french, go there and try to get used to how to web browse there"
         ],
         "answer": "PokemonCTF{St4rly_1s_r3ally useful_1n_3ndg4m3}",
@@ -1174,6 +1174,311 @@
         ],
         "answer": "funActivtivitiesCTF{dr4w1ng_t0g3th3r_1s_h34l1ng}",
         "reaction": "I am sure your drawing was better than mine, but I just did this for fun, hhh"
+      },
+      {
+        "day": 11,
+        "title": "safari enigma II",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "30/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Try to take a picture of the Moon (any shape is acceptable), I don't mind if it was already taken before, send it here in this link or to me, and I will reveal you the flag.",
+        "link": "https://drive.google.com/drive/u/1/folders/1t7U66XbpG7NFYK0wcDoJULWMGgUsevsw",
+        "hints": [
+          
+        ],
+        "answer": "SafariCTF{m00n_1s_br1ght_wh3n_f4c1ng_Sun}",
+        "reaction": "You got it beautifully !!! masha'Allah"
+      },
+      {
+        "day": 12,
+        "title": "symbolic message",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "30/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "In today's enigma, I want you try to describe anything you wanna as a poem, LLMs are permissible as long they can describe what you need to write, met me see your masterpiece !!!",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "PoetCTF{w0rds_c4n_h4ve_d33p_m34n1ngs_^-^}",
+        "reaction": "I am sure you made something harmonic and beautiful, hehe"
+      },
+      {
+        "day": 13,
+        "title": "Pokemon adventure III",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "30/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Do Rocks talk? well, ask Geodude, hhh. try to send me his Pokedex as a screenshot to me and the flag shall be yours",
+        "link": "",
+        "hints": [
+          "Pause tha game > Pokedex > Search geodude > Screenshot his data",
+          "Pokepedia is really a good website to search for where to find or catch any pokemon of any generation, google: geodude pokepedia, you will find Racaillou which is his name in french, go there and try to get used to how to web browse there"
+        ],
+        "answer": "PokemonCTF{th1s_p0k3m0n_1s_us3ful_4s_expl0ring_4ss1st}",
+        "reaction": "pokedex++, yaaaaay"
+      },
+      {
+        "day": 14,
+        "title": "Gentle reminder II",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "30/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Go to this link to see the small task with flag reward",
+        "link": "https://drive.google.com/drive/u/1/folders/1e9TOjELCfCVPGLyMMgu6NscF8NbwPlyw",
+        "hints": [
+         
+        ],
+        "answer": "GentleReminderCTF{100_cl0s3r_st3p5_t0_f33l_m0re_bl3ss3d}",
+        "reaction": "Llah ybarek, may nchllh rebbi bless your soul every day"
+      },
+      {
+        "day": 15,
+        "title": "Drawing Contest III",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "30/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "In this, let your mind be free to draw anything, you can try anything and let me know about the end result",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "funActivtivitiesCTF{fr33d0m_4s_4rt_1s_b34ut1ful}",
+        "reaction": "I am sure it was a beautiful piece of art!!!"
+      },
+      {
+        "day": 16,
+        "title": "Uno Reverse",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "01/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Aight, I hate giving you instructions while I do nothing, so why not do the opposite, tell me anything to do as enigma or activity (infinity craft for example) and the flag shall be yours (you don't have to wait for me to get it)",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "universal enigma is about sharing experience betweeb us :3",
+        "reaction": "Now you becoming closer and closer to become Master, hhh"
+      },
+      {
+        "day": 17,
+        "title": "safari enigma III",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "01/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I love clouds, you also do !!! They are gorgeaus and unique for each moment, try to find an orange cloud and show it to me",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "cloudCTF{beauty_of_nature_is_gorgeaus}",
+        "reaction": "Sub7anallah, I am sure you felt happy when you saw it too, hhh"
+      },
+      {
+        "day": 18,
+        "title": "It's Bingo Time !!!",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "01/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Are you ready to challenge a bingo game with Master? all knowledge you have is enough to try it and have fun !!! message me when you're ready!!!",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "BingoCTF{I_LOVE_BINGO}",
+        "reaction": "AAAAAAA, I WAS EXCITED DOING THIS ONE, JDLCLQKDCLKN"
+      },
+      {
+        "day": 19,
+        "title": "Gentle reminder III",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "01/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Go to this Drive link to accomplish a simple task",
+        "link": "https://drive.google.com/drive/u/1/folders/1C2UPn4txlfFeSDrdWo2XDGlKY-Sc_uUq",
+        "hints": [
+          
+        ],
+        "answer": "GentleReminderCTF{each_letter_is_worth_more_than_diamond}",
+        "reaction": "Masha'Allah, rebbi y7efdek nchllh, let me know what you have read for lore purposes, hhh"
+      },
+      {
+        "day": 20,
+        "title": "Scrrrrrrribble",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "01/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Do you know Skribble? ask me in insta to let you know and play together online!!!",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "SkribbleCTF{Always_fun_when_playing_with_friends}",
+        "reaction": "I am sure you easily win many games in this, hhhh"
+      },
+      {
+        "day": 21,
+        "title": "Drawing Contest IV",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "02/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Welcome to another Drawing Enigma day !!! today's Drawing contest is : a pokemon !!!, any pokemon is accepted,any tool is allowed, good luck !!!",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "PokemonCTF{doudoudou_dididi}",
+        "reaction": "everyone: who's that Pokemon ? Grandmas: ' IT'S PIKACHU ' DJCKZJDCZBJCBZK"
+      },
+      {
+        "day": 22,
+        "title": "core memory",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "02/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "do you still remember... pico park 2? do you mind... if we play a bit ? I can directly give you the flag if you already busy, don't worry, hhh",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "3460635",
+        "reaction": "if we played or not, thanks again for bringing this memory with me when we played, hhh"
+      },
+      {
+        "day": 23,
+        "title": "safari enigma IV",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "02/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "as sky has many flavours and colors, do you have by any chance a sky colored as your favourite colour in your gallery? send it to me to witness its glory",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "PurpleCTF{Sky_Sky_so_Magestic_Wow}",
+        "reaction": "Sub7anallah, I am sure you smiled when you took a picture there, hhh"
+      },
+      {
+        "day": 24,
+        "title": "Pokemon adventure IV",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "02/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I am thinking about a Pokemon that you need to catch, hmmm, how about something that looks like a bat? the name? Ah, I forgot :)",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "PokemonCTF{Zubat_is_actually_good_when_evolved_twice}",
+        "reaction": "TO THE ROAD OF BEING CHAMPION, YATTAAAA"
+      },
+      {
+        "day": 25,
+        "title": "Uno reverse again ?",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "02/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Wllh I feel dreadful just giving you all these enigmas while I do nothing 😭😭😭, SO LET'S DO UNO EVERSE, REVENGE AND GIVE ME A HARD ENIGMA (if you don't know where to go, infinity craft have many hard words to craft...)",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "GuiltyCTF{YESSSS_I_FEEL_ALSO_THE_SAME_LJCLZJC}",
+        "reaction": "I hope I did finish your chalenge, hhhh"
+      },
+      {
+        "day": 26,
+        "title": "Drawing Contest V",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "11/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Welcome to another Drawing Enigma day !!! today's Drawing contest is : Space, anything related to it !!! go and open your mind to it !! ( Bonus: you can invite me to help you :3)",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "SpaceCTF{so_full_of_darkness_but_full_of_wonders}",
+        "reaction": "SPAAAACE, I LOVE SPACE, LJCLKZNCLKNLCNKZl"
+      },
+      {
+        "day": 27,
+        "title": "Gentle reminder IV",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "11/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Go to this Drive link to accomplish a simple task",
+        "link": "https://docs.google.com/document/d/17E2c2hMVGRTVRXyzscbqSIfVkvxctpWdJYi4hak0R-4/edit?tab=t.0",
+        "hints": [
+          
+        ],
+        "answer": "GentleReminderCTF{small_act_can_change_everything}",
+        "reaction": "you did good, rebbi y7efdek nchllh, precious one"
+      },
+      {
+        "day": 28,
+        "title": "safari enigma V",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "11/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Esi might have Some most desertic crappy places ever, but maybe there are moments and places where you can just enjoy the view right there, try to find a picture that fits this sentence",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "EsiCTF{Full_of_PTSD_yet_full_of_beauty}",
+        "reaction": "In the end, we did enjoy some places in Esi, nature speaking of course, hhh"
+      },
+      {
+        "day": 29,
+        "title": "Pokemon adventure V",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "11/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I was shoked you can get Gyarados easily in Pokemon diamond, try to search how to get it and show me his pokedex as a proof",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "PokemonCTF{never_underestimate_unevolved_pokemon}",
+        "reaction": "I remember I named him 'Kaido' on my game, hhhh"
       },
       {
         "day": 30,
