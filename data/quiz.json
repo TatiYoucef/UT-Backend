@@ -1498,6 +1498,95 @@
     ]
   },
   {
+    "month": 7,
+    "solvedOne": false,
+    "name": "July",
+    "Theme": "Nature",
+    "days": [
+      {
+        "day": 1,
+        "title": "Power of Erosion",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "18/04/2025",
+        "sYear": 0,
+        "specialMess": "In this month, You will get to see many interesting Facts as Enigmas about anything related to Nature: Sky, forests, Sees, All of it !!! I hope you gonna learn some things and you would enjoy it",
+        "enigma": "Have you ever asked why do rivers shape curvative paths ? they were actually initially a straight road. However, as Time goes by and the wind, Water eroses the land limits and makes the path more and more curvative, the more you know... hehe. The name of these paths do actually have a scientific name, try to find it!!!",
+        "link": "",
+        "hints": [
+          "it starts with 'm' and ends with 'ing', also searching in web or LLM is allowed"
+        ],
+        "answer": "meandering",
+        "reaction": "I hope you learned a new word today, hhh"
+      },
+      {
+        "day": 2,
+        "title": "Word Wide Wood",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "18/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Forest is way underappreciated than ever, it has many hidden layers of surreal facts and intellegence !!! For example, did you know that Trees in Forest can interconnect and communicate between each other ? Even an old tree would share its nutrients with a younger one with this network underground, IT'S SO AMAZING. This network is enabled thanks to some fungi ( sub synonym to mushrooms ) , try to find the name of this fungi",
+        "link": "",
+        "hints": [
+          "it starts with 'm' and ends with with 'l', it's a pretty weird name"
+        ],
+        "answer": "mycorrhizal",
+        "reaction": "Not all fungus are harmful, this one for example is so benefical to Forest ecosystem"
+      },
+      {
+        "day": 3,
+        "title": "The Seven wonders of the Seven I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "18/04/2025",
+        "sYear": 0,
+        "specialMess": "Welcome to the Seven of the Sevens nature facts enigmas !!! These enigmas will present you 7 nature themes where each theme could be defined with 7 key words ( Seven of Sevens LOL ), hope you enjoy them, hhh ",
+        "enigma": "Our Earth is divided by 7 massive landmasses/continents, Sub7annallah, Try to find the missing keyword: Africa, Europe, Asia, North America, South America, Oceania, ???",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "Antarctica",
+        "reaction": "and the coldest one of them all!!! It's considered a continent due to its large landscale, it could even hide a real land without the ice"
+      },
+      {
+        "day": 4,
+        "title": "shiny creatures",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "18/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Just like sunshine, many different organisms can have the ability to emit light at night due to chemical reaction where it transforms chemical particals to light energy, try to name this phenomenon" ,
+        "link": "",
+        "hints": [
+          "It's a mix of two words : Life and Light",
+          "It starts with 'b' "
+        ],
+        "answer": "bioluminescence",
+        "reaction": "But I guess for you, you don't need the chemical reaction to emit that light 24h/24, hhh"
+      },
+      {
+        "day": 5,
+        "title": "Colorful lights",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "18/04/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "In a particular time, in a particular place on Earth, Due to Sun rays hitting just barely exosphere, some beautiful colorful lights occurs and could be seen by human eyes. There may be a day nchllh we could also see it, cause I know you would absolutely love them. Anyways, what's this phenomenon called ?",
+        "link": "",
+        "hints": [
+          "It has many, names, this one is only one word and starts and ends with 'a'"
+        ],
+        "answer": "Aurora",
+        "reaction": "Or also Northern Lights, cause they only occur to extreme north Side of Earth ( Finland, Norway, Sweeden, Antartica, Greenland.... )"
+      }
+    ]
+  },
+  {
     "month": 10,
     "solvedOne": false,
     "name": "October",
