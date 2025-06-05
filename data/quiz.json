@@ -1,5 +1,174 @@
 [
   {
+    "month": 2,
+    "solvedOne": false,
+    "name": "February",
+    "Theme": "Cryptography I",
+    "days": [
+      {
+        "day": 1,
+        "title": "Hello Crypto World",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/06/2025",
+        "sYear": 0,
+        "specialMess": "This is your month for practical Enigmas as CTFs, hhh. Fun Fact: because you do love cryptography, this is the only only theme that has two chapters in whole year, meaning 2 months of content :3. First Chapter is for Discovery and Learning Stuff, Second chapter is... ummm, it's where mystery starts spreading, anyways, hope you enjoy it !!! ",
+        "enigma": "if words are characters, and characters are numbers, and numbers are weirder numbers, then this number is: 43727970746f4354467b68333131305f77307231447d",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "CryptoCTF{h3110_w0r1D}",
+        "reaction": "Welcome to the Crypto World !!!"
+      },
+      {
+        "day": 2,
+        "title": "emiT dniweR s'tI",
+        "difficulty": "ysaE",
+        "solved": false,
+        "cDay": "05/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "}de3gd3lw0nkc4_dn1w3R{FTCotpyrC ! od annog I ma tahw !!retup ym no desrever neeb sah emit eht won ,draobyek ym no eeffoc ym dellips I !on hO",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "CryptoCTF{R3w1nd_4ckn0wl3dg3ed}",
+        "reaction": "!!! taht od dluoc eeffoc tahW"
+      },
+      {
+        "day": 3,
+        "title": "Mysterious program",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Check the link to find an interesting python script that has a pecular encryption method",
+        "link": "https://drive.google.com/drive/u/1/folders/1oE40QJsZiaMVDNLomKA_EZ2Eqk9FDbzw",
+        "hints": [
+        
+        ],
+        "answer": "CryptoCTF{Ch1n3s3_c4n_b3_wr1tt3n_1n_2_byt3s}",
+        "reaction": "Mastering Cryptography is also an experience on how to reverse any random encryption system"
+      },
+      {
+        "day": 4,
+        "title": "Permutation OG: Scytale",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "As a second commander under the wing of higher admiral 'CinammonRoll the Pillar of North', I need to send this secret message where only she can read it, Only her knows 14 means many things, so I shouldn't worry:WBUCNBMRWGCAT·ERRESAERNTRPN·WIPSHCTOUHEOI·INRSIKOWSETNP·LGISNHMDISWC··LONUEOOANEEA··",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "catnip",
+        "reaction": "GLORY TO PRINCESS OF OUR SHINY KINGDOM, WE WILL DO EVERYTHING TO RESCUE HER, 3AAAAAA"
+      },
+      {
+        "day": 5,
+        "title": "Ceasar has entered the chat",
+        "difficulty": "Lhzf",
+        "solved": false,
+        "cDay": "05/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Oh No! Ceasar came to my office and spilled his coffee on my keyboard !! Now my PC is only readable for Ceaser !! What am gonna do now: JyfwavJAM{j34z3y_o4a3z_j0mm33}",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "CryptoCTF{c34s3r_h4t3s_c0ff33}",
+        "reaction": "I will get my revenge on You, CEAAAAASAAAAR!!!!"
+      },
+      {
+        "day": 6,
+        "title": "Father of modern crypto: XOR",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "XOR has many utilities in current crypto systems that you already know of, go towards this link to try and decrypt the flag",
+        "link": "https://drive.google.com/drive/u/1/folders/17-HBjGlp2zS1K96SxKjaTO9judHrFPlM",
+        "hints": [
+          "the name of the function could lead you to the format of our key",
+          "for each iteration, we do modulo i%2 to choose a position in the string '01', hmmm..."
+        ],
+        "answer": "CryptoCTF{X0R_w4s_gam3_ch4ng1ng}",
+        "reaction": "Good Job! You are also learning how to read in Python!! I am proud of you!!"
+      },
+      {
+        "day": 7,
+        "title": "Power of subtitution",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "with the 27! possibilities, this technique is unbrute forceable, but I am sure hackers would spill coffee on my keyboard and steal from me the key down this link, which is why my key for subitution is unreadable in human eyes, mwahahahah",
+        "link": "https://drive.google.com/drive/u/1/folders/1NuyUUFmyL3EQGKcAdK8dPxg0DgHV0mSr",
+        "hints": [
+        
+        ],
+        "answer": "CryptoCTF{1_h4te_h4ck3rs}",
+        "reaction": "Noooooo, Hooww they do it???vbsvbzoivzoi"
+      },
+      {
+        "day": 8,
+        "title": "Ceaser Cipher, The return",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I saw Ceaser from afar coming towards my keyboard not just with a single cup of coffee, but with 8 cups !!! he spilled them all of them... Now my secret got submitted with vulnerable letters in the end...UllhawPXX{W34f4j_k035_p4g3_qq_e3lt0hzq_p0d}unshine",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "CryptoCTF{C34s4r_d035_h4t3_my_k3yb0ard_l0l}",
+        "reaction": "STOP ATTACKING MY KEYBOARD WITH COFFEE, 3AAAAAA"
+      },
+      {
+        "day": 9,
+        "title": "It's all a matrix",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Check the link to see if you still remember some Matrix Algebra",
+        "link": "https://drive.google.com/drive/u/1/folders/1az7eeee0lF_4H_IrR8DenPWop2uxGtie",
+        "hints": [
+        
+        ],
+        "answer": "HillDecryptionSuccessful",
+        "reaction": "I hereby you Queen of Algebra"
+      },
+      {
+        "day": 10,
+        "title": "Ceasar and his coffee Army",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "05/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I am seeing Far away the big brother of Ceasar... Vernam, *sigh , I think my room will smell coffee today again, let's try to hide my secret from him as much as possible.",
+        "link": "https://drive.google.com/drive/u/1/folders/1ZWvUbDUra6-vNRQ__dkwpzZsO7CGtTOi",
+        "hints": [
+          "Vernam is like Vigenair, but size of key equals size of message"
+        ],
+        "answer": "CryptoCTF{V3rn4m_g0t_tr1cked}",
+        "reaction": "My pc will be remembered for getting sacrificed with coffees with all these battles..."
+      }
+    ]
+  },
+  {
     "month": 4,
     "solvedOne": false,
     "name": "April",
@@ -1510,7 +1679,7 @@
         "solved": false,
         "cDay": "18/04/2025",
         "sYear": 0,
-        "specialMess": "In this month, You will get to see many interesting Facts as Enigmas about anything related to Nature: Sky, forests, Sees, All of it !!! I hope you gonna learn some things and you would enjoy it",
+        "specialMess": "In this month, You will get to see many interesting Facts as Enigmas about anything related to Nature: Sky, forests, Seas, All of it !!! I hope you gonna learn some things and you would enjoy it",
         "enigma": "Have you ever asked why do rivers shape curvative paths ? they were actually initially a straight road. However, as Time goes by and the wind, Water eroses the land limits and makes the path more and more curvative, the more you know... hehe. The name of these paths do actually have a scientific name, try to find it!!!",
         "link": "",
         "hints": [
