@@ -165,6 +165,161 @@
         ],
         "answer": "CryptoCTF{V3rn4m_g0t_tr1cked}",
         "reaction": "My pc will be remembered for getting sacrificed with coffees with all these battles..."
+      },
+      {
+        "day": 11,
+        "title": "Base-n encoding",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Follow the link for a brief explanation on how base32, base64 work. After that, follow the instructions to encrypt a message with my personal base16 encryption base",
+        "link": "https://drive.google.com/drive/u/1/folders/12ZnHHUrRUA_oLT_GiTGAX0JgdeZzi-3X",
+        "hints": [
+        ],
+        "answer": "SUNSHINE14",
+        "reaction": "'Based' on relatable characteristics of the reader, hehe"
+      },
+      {
+        "day": 12,
+        "title": "It's over 9000!",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "06/06/2025",
+        "sYear": 0,
+        "specialMess": "The title is just a reference, but don't worry, I couldn't reach 9000 times with my PC, hhh ",
+        "enigma": "I have encoded a certain secret , You will never manually get my secret, MWAHAHAHA",
+        "link": "https://drive.google.com/drive/u/1/folders/1gQXwEys_Lv6fQsnlPIwyrirILQWJ-z7x",
+        "hints": [
+        
+        ],
+        "answer": "CryptoCTF{d33p3st_53cr3ts_4r3_w4y_h1dd3n_1n_h3art5}",
+        "reaction": "I actually tried to do 9000 iteration but that was taking brutally so long"
+      },
+      {
+        "day": 13,
+        "title": "- .... . / -... .. -. .- .-. -.-- / .-.. .- -. --. ..- .- --. .",
+        "difficulty": ". .- ... -.--",
+        "solved": false,
+        "cDay": "----- -.... -..-. ----- -.... -..-. ..--- ----- ..--- .....",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "...",
+        "link": "https://drive.google.com/drive/u/1/folders/13W2uP8L6wCCmNj6T7r9wQOllJGyfRYpv",
+        "hints": [
+        ],
+        "answer": "CRYPTOCTF-M0R53-C4N-B3-TR1PPY",
+        "reaction": "-- . .- -. .-- .... .. .-.. . / -- . ---... / .- -- / .. / - .-. .. .--. .--. .. -. --. / -... ..- - / .... --- .-- / -.. --- . ... / - .... .- - / .-- --- .-. -.- / ..--.. ..--.. ..--.."
+      },
+      {
+        "day": 14,
+        "title": "What the hash",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "06/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "As skeptical as always am, do you exist or am I just scinzophrenic, hmmm... I can't check with my shared experience, cause I could be insane, so I'll try with Hash, I am gonna send a message M with its signature : MD5(M), you receive this, C: 'INUGKY3LJFTFG5LOONUGS3TFJFZVEZLBNQ======'. what is the signature ?",
+        "link": "",
+        "hints": [
+        ],
+        "answer": "5ba78068a967481ad751effcac9a0341",
+        "reaction": "hmm, still not convinced, hhh ( ain't no way I do deserve someone like this easily, I always need to do more for her)"
+      },
+      {
+        "day": 15,
+        "title": "Tricky Maths",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "06/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I have a message M, and Key K=M , I used Vernam 26 Times over the message with the same Key, and I got BMJCAJ, on 27th time, what will be the result ?",
+        "link": "",
+        "hints": [
+          "there are 26 letters in Alphabets",
+          "Vernam does have a weakness when using iterations, cause of modulo"
+        ],
+        "answer": "CYSEAS",
+        "reaction": "I won't let Vernam spill coffee again on my keyboard, MWAHAHAH"
+      },
+      {
+        "day": 16,
+        "title": "Bloc technique: CBC",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "06/06/2025",
+        "sYear": 0,
+        "specialMess": "You can check the link  a photo I shared for you to remember CBC. Today's Enigma should be brief to just let you have fun with some calculations, hhh",
+        "enigma": "Let text message (not hexa) be: 'ABCDEF', and IV=0xCC11, and size of block is 2 bytes, and the encryption block operation used is inverse (binary inverse). Try to find in hexa (exclude 0x from answer) the result of this if we use CBC",
+        "link": "https://drive.google.com/drive/u/1/folders/1logyrajp7P0O1edbDhcYsdzjzZx1eqxK",
+        "hints": [
+        ],
+        "answer": "72ACCE1774AE",
+        "reaction": "We have a genius here, Masha'Allah !!"
+      },
+      {
+        "day": 17,
+        "title": "Cryptogram",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "06/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "You already know subtitution, but can you decrypt it with only your brain power ? check this link and try solve one, the correct sentence in md5 is the flag",
+        "link": "https://drive.google.com/drive/u/1/folders/1CewW9DG6J2PRd6ZK7K1mJV7sXC92maO6",
+        "hints": [
+        ],
+        "answer": "e3089ddf2d4c9573836ede3dcc5ea9f2",
+        "reaction": "I am sorry if that took you some time to solve it, but YOU DID IT, JCLZLCKZNLKNC"
+      },
+      {
+        "day": 18,
+        "title": "Mysterious file",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "06/06/2025",
+        "sYear": 0,
+        "specialMess": "This is My personal Enigma that I used for Challenge n°1 in Treasure Hunt, I want you to try it out, hhh",
+        "enigma": "A mysterious file has merged upon the seas, try to open it and you lay proceed to find the flag",
+        "link": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTatiYoucef%2FTreasureWeb%2Frefs%2Fheads%2Fmain%2Ffiles%2FEncryptedMessage.xlsx&wdOrigin=BROWSELINK",
+        "hints": [
+        ],
+        "answer": "TatAli",
+        "reaction": "Good old Days, hhh"
+      },
+      {
+        "day": 19,
+        "title": "Check Signal authentics",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "06/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I need to check that I am not halucinating from your messages, so let me check if you really sent M=14. with G(X) = X^4 + X^2, calculate R(X) awaited so That I can be sure I am not hallucinating, the result is binary (4 bits)",
+        "link": "",
+        "hints": [
+          "This is CRC, you just need to find the rest of X^4*M(X) / G(X)"
+        ],
+        "answer": "0100",
+        "reaction": "... NO, HOW DO YOU EXIST SO EASILY IN MY LIFE, XDJXJZNXKZJNXKZJN ( I am really grateful tho, BUT STILL? ZJCLZNLKNXKZNLKZNLXKN )"
+      },
+      {
+        "day": 20,
+        "title": "Lazy Nerd",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "06/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Check the link, I built a script that do many encryptions, yet its decryption could be done in a single line, MWAHAHAHA",
+        "link": "https://drive.google.com/drive/u/1/folders/1PUeHdbMKMNBZEK2Oae9Ch12EPurg--fl",
+        "hints": [
+          "ROT is kind of weaker than cipher, cause it has a really critical weak point"
+        ],
+        "answer": "CryptoCTF{R0T_3ncrypt10n_c4n_b3_vuln3r4bl3}",
+        "reaction": "This problem has many solutions, but most importantly you understood how ROT works ^_^"
       }
     ]
   },
