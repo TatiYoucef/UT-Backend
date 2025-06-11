@@ -320,6 +320,172 @@
         ],
         "answer": "CryptoCTF{R0T_3ncrypt10n_c4n_b3_vuln3r4bl3}",
         "reaction": "This problem has many solutions, but most importantly you understood how ROT works ^_^"
+      },
+      {
+        "day": 21,
+        "title": "AES has entered the chat",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "07/06/2025",
+        "sYear": 0,
+        "specialMess": "I didn't wanna make you an encryption with DES cause it was bit boring and we haven't studied much to let you try it out theorically",
+        "enigma": "for a single block of 128bits : 'Golden HeartSoul', with a key : 'PurpleSecret Key', Just try to make a single iteration of AES with this, you'll find down this link the steps. Output the flag 16 bytes in Hexa ( no need to include 0x )",
+        "link": "https://drive.google.com/drive/u/1/folders/1Zujqh_C1T5G2RMn49jfJWbhlUpIjqcST",
+        "hints": [
+        
+        ],
+        "answer": "f0df3220218ace262eda3526cde3d2eb",
+        "reaction": "That was tough, but in the end you did it!!!!"
+      },
+      {
+        "day": 22,
+        "title": "Asymetrical king: RSA",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "07/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Oh No !!! some indian guy just passed my computer and spilled his coffee on my keyboard, now my Phi(n) got leaked : 20. Knowing that N = 33 , e = 17 and c = 5 are public, I hope that leaked information won't ruin finding out my M...",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "26",
+        "reaction": "Coffee coffee coffee, COFFEE EVERYWHERE, KHCZKBCZKJBCZKJB"
+      },
+      {
+        "day": 23,
+        "title": "Defying the hellman",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "07/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Sun and Moon needed to share a secret key, both parties possess a private favourite number : a = 4 / b = 79. They agreed on meeting on two known stars : g=16 / p=157. Now only them would know what will be their secret key that will be shared between them forever",
+        "link": "",
+        "hints": [
+          "A = g^a % p / B = g^b %p . A and B shall be shared between all stars",
+          "K = A^b % p = B^a % p = g^a*b % p"
+        ],
+        "answer": "67",
+        "reaction": "They will soon meet again and merge with prayer and patience"
+      },
+      {
+        "day": 24,
+        "title": "Camel is calling",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "07/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "As a second commander under the wing of higher admiral 'CinammonRoll the Pillar of North', we saved our sunshine princess!!! now I need to send our secret localisation number ID to my higher admiral Cinammon, he already brought me A=67 , g=16 , p=157, with my secret b = 79 , I already prepared my crypted message C = 106. *Meanwhile Admiral Cinammon: I just received from my commander the number 106, with my secret a = 67, I will find out where's our princess to launch our rescue team",
+        "link": "",
+        "hints": [
+          "Ask me in messages cause I don't know how to hint here, hhh"
+        ],
+        "answer": "100",
+        "reaction": "SEND ALL TROOPS TO RESCUE OUR SUNSHINE, 3AAAAAAAAAAAAA"
+      },
+      {
+        "day": 25,
+        "title": "I thrive to sign !!!",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "07/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "They tell me that each time I send a message I need to generate a random key ? Bruh, this is just so useless to me, I will just encrypt my message with AES with key as first 128 bits of my signature of MD5 , that should be enough, MWAHAHAHA. C='xbCIEy/GE0rp93EkN4KJEYFOhEzmr4GSvmneoJibOIsqWLjyD+uKrVgBbJu6ln2E' , IV = '0123456789123456'. Leaked Data = 'INZHS4DUN5BVIRT3NYZXMM3SL4======' ",
+        "link": "",
+        "hints": [
+          "signature is a hash of the secret message"
+        ],
+        "answer": "CryptoCTF{n3v3r_us3_s1gn4tur3_4s_k3y}",
+        "reaction": "You're doing so good !!! Masha'Allah !!"
+      },
+      {
+        "day": 26,
+        "title": "[_[-€¯|¯ $|°€/-\\|<",
+        "difficulty": "H/-\\|2D",
+        "solved": false,
+        "cDay": "07/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "!/= ¥()L| |2Ɛ/\\|] 7|~|!5 `/°µ ΛЯ☰ @ |=()|2|V|1|)/\\ß1_€ /*ƐЯ$[]|V `/()|_| §|-|0|_|1_|> 8Ɛ /*/2°L|[)  ©[][)Ɛ ]§ 7/-/€ 7]¯|¯1_[-",
+        "link": "",
+        "hints": [
+          "1337",
+          "435 is a symmetrical encryption",
+          "h3ll0_w0r1d"
+        ],
+        "answer": "[_[-€¯|¯ $|°€/-\\|<",
+        "reaction": "\\_:_/(-)/\\¯|¯ /-\\ ]-[0|\\|()|?/-\\8[_Ɛ Λ[|~|]Ɛ|/☰|V|☰|V† †() /2☰/\\[) 7:-:!5"
+      },
+      {
+        "day": 27,
+        "title": "Gray trouble",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "07/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Someone keep sending secrets using simply Xor with a binray alternate key ( repetitive 10101010.... ) but when I decrypt I still find a weird message, not a secret, what is he doing to his message before encrypting it ??? See the link for C and the key K ",
+        "link": "",
+        "hints": [
+          "hmmm, what a weird gray problem",
+          "maybe he didn't like the standard binary version of his characters"
+        ],
+        "answer": "CryptoCTF{gr4y_c4n_d3c31v3_p30p13}",
+        "reaction": "I wonder if you found out immedietluy or not, hhh, I tried my best to hint you, hehe"
+      },
+      {
+        "day": 28,
+        "title": "⠠⠮⠀⠇⠁⠝⠛⠥⠁⠛⠑⠀⠷⠀⠃⠇⠔⠙",
+        "difficulty": "⠠⠑⠁⠎⠽",
+        "solved": false,
+        "cDay": "07/06/2025",
+        "sYear": 0,
+        "specialMess": "M() = MIRROR() / Ω = ALL / pos(1)..pos(6) = topLeft .. downright",
+        "enigma": "(M(7))(c - M(b))(Ω - 7 + pos(2))*2(Ω - M(pos(2) + pos(6x)) )(>)(| + -)(7-pos(6))( )(pos(3)+pos(4))( )(Ω - M(L))(| + -)(pos(1))(< - pos(6))(L - pos(6))*2(> - pos(5))(pos(6))(M(7) - pos(3))(pos(1))(Ω - 4 + pos(2))(Ω - pos(5))",
+        "link": "",
+        "hints": [
+          "it's all about intuition"
+        ],
+        "answer": "brailleMaster",
+        "reaction": "⠱⠽⠀⠙⠊⠙⠀⠠⠊⠀⠋⠁⠝⠞⠁⠎⠊⠵⠑⠀⠍⠽⠎⠑⠇⠋⠀⠊⠍⠁⠛⠔⠤⠀⠽⠳⠀⠋⠊⠗⠌⠇⠽⠀⠃⠑⠤⠀⠉⠇⠕⠎⠑⠀⠞⠕⠀⠍⠑⠀⠊⠋⠀⠠⠊⠀⠛⠑⠞⠀⠍⠽⠎⠑⠇⠋⠀⠃⠇⠔⠙"
+      },
+      {
+        "day": 29,
+        "title": "⏃⌰⟟⟒⋏ ⌰⏃⋏☌⎍⏃☌⟒",
+        "difficulty": "⟒⏃⌇⊬",
+        "solved": false,
+        "cDay": "07/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "⏚⟒⟒⌿⊬ ⏚⍜⍜⌿⍜ ⍙⏃⏁⏃ ⎅⟟☍⟟ ⎅⍜⎅⍜⍜... ⎐⍜⏁ ? ⎐⊬⌿⏁⍜☊⏁⎎{⎐4⌰13⋏_⎅00⎅00}",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "VYPTOCTF{V4L13N_D00D00}",
+        "reaction": "⏃⍀⟒ ⊬⍜⎍ ⏃⋏ ⏃⌰⟟⟒⋏ ? ☊⏃⎍⌇⟒ ⊬⍜⎍⍀ ⌇⍜⎍⌰ ⌿⎍⍀⟟⏁⊬ ⟟⌇ ⍜⎍⏁ ⍜⎎ ⏁⊑⟟⌇ ⍙⍜⍀⌰⎅"
+      },
+      {
+        "day": 30,
+        "title": "Oscar and his favourite game",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "08/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "We rescued Sunshine!!! The message was well received and decrypted by our higher admiral 'CinammonRoll' and he provided us the best rescue team, but... I am seeing in the far north the worst enemy, Oscar... I heard he can decrypt literally anything, he even decrypted my message I sent to my admiral about our localisation, he has the perfect intel and brute force techniques to do that. I need to send one final message to my chef:'Going East.14.7.174 at dawn 07:14', but how can I send this with Oscar intercepting everything... I heard he's blind tho, and my admiral is not far away, hmmm... maybe I can ask princess to help me send the message using her ray of lights, is there a useful code to be able to comminucate with light with my chef?",
+        "link": "",
+        "hints": [
+          "Light can do only two things if you comminucate with it: light ON / light OFF",
+          "How did the olf folk sailors communicated each other on their ships to their colleagues on coastline",
+          "maybe binary language could help us here"
+        ],
+        "answer": "--. --- .. -. --. / . .- ... - .-.-.- .---- ....- .-.-.- --... .-.-.- .---- --... ....- / .- - / -.. .- .-- -. / ----- --... ---... .---- ....-",
+        "reaction": "after the long journey, Oscar couldn't see our message and sunshine was returned safely to her homeland, GLORY TO SUNSHINE, YATAAAAAAAA"
       }
     ]
   },
@@ -2330,6 +2496,519 @@
         "answer": "Penicillium",
         "reaction": "yup, you did wonderfully in this month !!! hope you enjoyed these small facts nchllh"
       }
+    ]
+  },
+  {
+    "month": 8,
+    "solvedOne": false,
+    "name": "August",
+    "Theme": "Cryptography II",
+    "days": [
+      {
+        "day": 1,
+        "title": "Bill's Book",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "09/06/2025",
+        "sYear": 0,
+        "specialMess": "Welcome to the second volume of Cryptography, you will find the weirdest and intriguing encryptions in our world, There are secrets way more deeper and more frequent than you think...",
+        "enigma": "Do you remember any show that has intrigued you with their secrets ? That they went even further by creating their own secrel language to communicate with their fans for a real hidden treasure related to their show ? You czn try to guess the name of the show, and I have left its name in hints. Go to link and try to decipher the code",
+        "link": "https://drive.google.com/drive/u/1/folders/1INtEmdie3HvoSlNO3GfohijrJHVvFwzV",
+        "hints": [
+          "Name of show: Gravity Falls :3"
+        ],
+        "answer": "WELCOMETOCRYPTOWORLD",
+        "reaction": "This is the only beginning of the mysteries, hehe"
+      },
+      {
+        "day": 2,
+        "title": "The numbers Beal, WHAT DO THEY MEAN ?",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "09/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "75, 866, 347, 1292, 117, 1275, 607, 438, 493, 1165, 1279. Key is a text, the text is about unforgettable history",
+        "link": "",
+        "hints": [
+          "this is book cipher that firstlt used by Beal, analysts took many years to understand how his cipher worked, he was linking the numbers with words of his book",
+          "I didn't use any book, I used my proper text that you already read and came from my heart"
+        ],
+        "answer": "SECRETHEART",
+        "reaction": "1088, 981, 65, 1177, 964, 1006, 665, 323, 896, 738, 308, 397, 506, 688, 1143, 930, 533, 62, X, 693, 1094, 955, 1139, 35, 119, 875, 509, 792, 940, 28, 76, 1252, 532, 730, 119, 168, 936, 770, 737, 673, 92"
+      },
+      {
+        "day": 3,
+        "title": "A world of abstraction",
+        "difficulty": "Really Hard",
+        "solved": false,
+        "cDay": "09/06/2025",
+        "sYear": 0,
+        "specialMess": "All right... here's the serious part, in this month chapter, you will gonna find out about the deepest ways how to hide secrets through natural abstraction: Atypography. I will give you 12 of them that are all really fun to decipher when taking your time to concentrate, I know you can do it!! In Atypographie, I will always a generous hint that will really help you if your head started burning, hhh",
+        "enigma": "Go to the link, a (message?) is waiting to be decrypted...",
+        "link": "https://drive.google.com/drive/u/1/folders/1o57ObKJxs57GAxhbgGSHGrkgEBHH73VR",
+        "hints": [
+        
+        ],
+        "answer": "ATYPOGRAPHY",
+        "reaction": "Wow... you're amazing !!! Masha'Allah"
+      },
+      {
+        "day": 4,
+        "title": "Unintuitive reading",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "09/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "My friend spilled his coffee on his keyboard, now when he send me text, it's not readable, but when I show it to him, he confirms that I have the ability to extract his message, how ?",
+        "link": "https://drive.google.com/drive/u/1/folders/1lBtsiGZuPAxomBUF7_ISba2oHv7G1utl",
+        "hints": [
+          "Do you know japanese people have two ways on how to write their text",
+          "Did you read that 'C T F' how was written ?"
+        ],
+        "answer": "SecretCTF{sn34ky_c01umn}",
+        "reaction": "Your eyes are worth diamonds to be able to read all what have been challenged to you so far, hhh"
+      },
+      {
+        "day": 5,
+        "title": "Abstracted wavelengths",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "09/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Have you ever wondered if you can send message with only straight lines ? Go to the link, a (message?) is waiting to be decrypted...",
+        "link": "https://drive.google.com/drive/u/1/folders/1vC_t1fEcwPoumIcDUJVHkzhZNmygM9u6",
+        "hints": [
+        
+        ],
+        "answer": "silver apples",
+        "reaction": "you did it !!!!! JCKJCKJNCKJNCK"
+      },
+      {
+        "day": 6,
+        "title": "Sneaky Characters",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "09/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Oh No! my coffee got spilled on my computer, now my keyboard starts talking about nature and all but the flag is still existing there, howwww?",
+        "link": "https://drive.google.com/drive/u/1/folders/1SjD8lycrJFrcf0n293qPyBPGMX3qxeqQ",
+        "hints": [
+          "anything particular on that text ? some unusual cases ?",
+          "where are upper cases ?"
+        ],
+        "answer": "SECRETCTF{EAGLEEYES}",
+        "reaction": "yOU hAve Done amazIngly CHArmIngly MArvelous !!!"
+      },
+      {
+        "day": 7,
+        "title": "Abstracted pillars",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "09/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Reading vertically has never been this easi- ( go to link to understand )",
+        "link": "https://drive.google.com/drive/u/1/folders/1yCcPu8htiGsrwxWbImOVYSQrKv52dwoW",
+        "hints": [
+        
+        ],
+        "answer": "INCreDIBLEBOB",
+        "reaction": "CONTInUE Like THIS, LZXJZJZJZB"
+      },
+      {
+        "day": 8,
+        "title": "Hidden 4th mystery: Kryptos",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "09/06/2025",
+        "sYear": 0,
+        "specialMess": "well, this isn't exactly a challenge, but rather a knowledge I want you to know because Kryptos is one of the unsolved crypted message that ever existed",
+        "enigma": "give me the final word decrypted of first section of Kryptos: EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJYQTQUXQBQVYUVLLTREVJYQTMKYRDMFDVFPJUDEEHZWETZYVGWHKK?",
+        "link": "",
+        "hints": [
+          "Search or ask chatgpt about Kryptos mystery"
+        ],
+        "answer": "IQLUSION",
+        "reaction": "4th section is till now haven't been yet solved"
+      },
+      {
+        "day": 9,
+        "title": "Time spelling words",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "09/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "each daytime you witness has a unique word of 5 letters , find them out and your flag will be revealed: 09/05/2022b_26/01/2025_08/03/2022_26/09/2023_27/10/2023",
+        "link": "",
+        "hints": [
+          "a word with 5 letters for each day, hmmm... doesn't that look familiar ?",
+          "Have you ever heard of wordle ?"
+        ],
+        "answer": "SHINE_SUNNY_SWEET_LOYAL_NOBLE",
+        "reaction": "Did you know these words describe the rea- ( and I am sincere in my perspective, hhh )"
+      },
+      {
+        "day": 10,
+        "title": "Horizontal abstraction",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "09/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Some lines could be seen as normal decorative lines, but... some could hide a secret within",
+        "link": "https://drive.google.com/drive/u/1/folders/10akJXgMCVTxuTx5nhmKvEreJxWC6lsWV",
+        "hints": [ 
+        
+        ],
+        "answer": "PEACEMAKERS",
+        "reaction": "Many secrets are way hidden around you than you think..."
+      },
+      {
+        "day": 11,
+        "title": "Mysterious killer",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "10/06/2025",
+        "sYear": 0,
+        "specialMess": "There existed in history a real person that challenged the world for declaring every single target he would kill in encrypted way, but nobody would be able to solve it till really lately",
+        "enigma": "mysterious letter was left on a crime scene, you are a detective who should find the location of the next target before so late",
+        "link": "https://drive.google.com/drive/u/1/folders/1z9Q6y01NKuLvwdwxmxLLRrjjONYmbLGG",
+        "hints": [ 
+          "the name given to this killer is 'Zodiac Killer'"
+        ],
+        "answer": "Okinawa",
+        "reaction": "Oh great, I may have annoyed hime a bit so much about Silksong..."
+      },
+      {
+        "day": 12,
+        "title": "Enigma in Pokemon",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "10/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Did you know even the Pokemon game has its own enigmas and mysteries, yup... decrypt the message and extract the flag with MD5",
+        "link": "https://drive.google.com/drive/u/1/folders/1qnOlJkGxVHp4EnH7NjT6iw-SpE3y-1pH",
+        "hints": [ 
+          "what an unown mystery"
+        ],
+        "answer": "b387e5017f514a770d03945c9b4e6ee3",
+        "reaction": "and they say why our generation is autistic while we have to experience this on our childhood, hhh"
+      },
+      {
+        "day": 13,
+        "title": "Abstracted dots",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "10/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "here's some geometrical shapes, nothing particular...",
+        "link": "https://drive.google.com/drive/u/1/folders/1rbkZudYVqPEHiwns_iA3f9cd8wpPuzc6",
+        "hints": [ 
+        
+        ],
+        "answer": "SVEMIrKO",
+        "reaction": "The squares CAN SPEAK ???"
+      },
+      {
+        "day": 14,
+        "title": "A particular portrait",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "10/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Look at this interesting painting, I wonder what was the autistic painter thinking doing that",
+        "link": "https://drive.google.com/drive/u/1/folders/1ueHqHA9--ldFTNyYxAltX_U-AY62BD3p",
+        "hints": [ 
+          "doesn't that bring you nostalgia about a particular enigma in the old days, hhh"
+        ],
+        "answer": "CryptoCTF{c0l0r_s3cr3ts}",
+        "reaction": "your favourite color is R+B = P , my favourite color is O + C = Bright light, hehe"
+      },
+      {
+        "day": 15,
+        "title": "Abstracted apartement",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "10/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "can apartements speak ? it might be just my imagination...",
+        "link": "https://drive.google.com/drive/u/1/folders/1lbXvM7b7uu9wvgGM2bato-zO0SKj31Fb",
+        "hints": [ 
+        
+        ],
+        "answer": "SviZAJEdNO",
+        "reaction": "what language is this ???"
+      },
+      {
+        "day": 16,
+        "title": "Spaghetti encryption",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "10/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Ceasar(14 , Ascii85(ROT13(ROT47(Reverse(Ceasar(10 , Vigenaire('sunshine' , Ascii85(Ceasar(7 , flag))))))))) was leaked down this link",
+        "link": "https://drive.google.com/drive/u/1/folders/1apxc1O7pb-9GeQHXwVsy4MTdv74Mr46Y",
+        "hints": [ 
+        
+        ],
+        "answer": "cd3ba48c3a2c09091b1d55e6fb1dbbd7",
+        "reaction": "And that was your last easy challenge in this month :3"
+      },
+      {
+        "day": 17,
+        "title": "Haunted manuscript",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "10/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "You are an archeologist, you were given an ancient writting that needs to be decrypted before 24h, we count on you!!!",
+        "link": "https://drive.google.com/drive/u/1/folders/104aTLktvh64rDMa6azn_woyls7ZTyG6T",
+        "hints": [ 
+          "you need some 'copi'um to read this code",
+          "this tastes some philipinian writing"
+        ],
+        "answer": "SHIAWASENA TSUKI",
+        "reaction": "a happy sun gives out always a bright happy moon, hehe"
+      },
+      {
+        "day": 18,
+        "title": "Game on the street",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "10/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I visited some capital of a country, and I found these dots on road, I just told myseld some children were just playing, right?.... RIGHT?",
+        "link": "https://drive.google.com/drive/u/1/folders/1w-YgFo_5KZ_ldGTHERvmS-tbXEjC7Hs3",
+        "hints": [ 
+          "could it be related to the name of a capital"
+        ],
+        "answer": "BERLIN",
+        "reaction": "you start getting use of atypography, I can feel it!!!"
+      },
+      {
+        "day": 19,
+        "title": "you know what you don't know",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "10/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "what if nothing is given, what if the answer is already known, what if the concept of this Enigma is enough to know the answer",
+        "link": "",
+        "hints": [ 
+          "Daily Enigma concept is easy, each day is unique flavored challenge, every single day",
+          "nothing was given, but you already know something about today",
+          "only the answer makes sense for just today"
+        ],
+        "answer": "19/08",
+        "reaction": "yeah I admit, I ran out of creativity when doing this, hhh"
+      },
+      {
+        "day": 20,
+        "title": "Just a decoration on a Tapis",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "10/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "what a delequant decoration on that carpet...",
+        "link": "https://drive.google.com/drive/u/1/folders/1mhcIXthfi5jVRTKyheiCm_LMi3QubIw3",
+        "hints": [ 
+        
+        ],
+        "answer": "TELEVISION",
+        "reaction": "don't ask me why the artist decided to put this cipher on a carpet..."
+      },
+      {
+        "day": 21,
+        "title": "Counting numbers",
+        "difficulty": "-2.1-12.2.21-2",
+        "solved": false,
+        "cDay": "11/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": ".2.211/-112-3.21/.111.1.11-12/-1.4.2.3-222/-112-3.21/-12.2-12/-21.111.1.11-1/.13-3-13/.211.2-11-12.2-11-21/-3.21-1/-1.4.1/.3.1-1111.111.1-1/-3.21-1/-3.211/.2-1/.121.111-3.31.2-11-21/-112-3.21.111/.121.11.3.3.2-3-11.11-11-1111.1/-3.31.1.111/-1.4.1/-12.1-1.11.2.112.3-222/.2/.12.2.112.112/.11.112.12.11-112.3/-13.1/-21.111.11-1.1.211.21.112/.211-3.111/-1.4.11-1-222/-1.4.11-11-111/-112-3.21/.3-3/.3-3/-2.21-1111.4/.12.2-1.4/-1.4.1/.3.2-22.1/-3.211/.21-11.2.31.1.111.3.1/.211-3.111/.3-1.2.112.112/.3.21.121.121-3.111-1.2-11-21/-1.4.1.3.1/.1-11.2-21-2.11.3/.12.2-1.4/-112-3.21.111/.1-121.2.3-1.11-11-1111.1-222/.2/.111.1.11.112.112-112/.11.121.121.111.1-1111.2.11-1.1/-1.4.2.3.111111/.211.112.11-21-33/-12.14.41-2-5-11-12.5-5.21.14",
+        "link": "",
+        "hints": [ 
+          ". - / where have I seen those special characters ?",
+          "if special characters needed to be shown, it was for what purpose ?"
+        ],
+        "answer": "D14m0nd50u1",
+        "reaction": "no way you did it!!!! AAJZJDZJNDKZjn, I am so so proud of you!!!"
+      },
+      {
+        "day": 22,
+        "title": "Dance of the Cs",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "11/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "a particular encryption was found on today's office, you are a detective that needs to decrypt this before 24h",
+        "link": "https://drive.google.com/drive/u/1/folders/10k45SMz58_0FLibFT617uwQqryEI8-WY",
+        "hints": [ 
+          "this is a real encryption found on a letter, maybe you should ask Dora ?"
+        ],
+        "answer": "Mayonaise",
+        "reaction": "I was hungry when doing this enigma, don't judge me..."
+      },
+      {
+        "day": 23,
+        "title": "Abstracted sticks",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "11/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "you found a weird stick, is it a secret message, maybe a wand ? or just a natural stick",
+        "link": "https://drive.google.com/drive/u/1/folders/1_Qk8BXazuSbIh_k_tBDQntJEty6ppC5-",
+        "hints": [ 
+        
+        ],
+        "answer": "Owadi",
+        "reaction": "I should take care of this stick, it seems precious to me"
+      },
+      {
+        "day": 24,
+        "title": "weird characters",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "11/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Oh no, coffee just got spilled on my calculator, now I can't type any number: à((ç -ç (& _à",
+        "link": "",
+        "hints": [ 
+          "my keyboard is a french Azerty"
+        ],
+        "answer": "0559 69 51 80",
+        "reaction": "hmmn what a weird number :3"
+      },
+      {
+        "day": 25,
+        "title": "Abstracted wall",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "11/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I was in a bathroom and I found some scratches on wall, meh, just some cracks... or IS IT???",
+        "link": "https://drive.google.com/drive/u/1/folders/1yIbrQImN3BCWo0V3c8U1j9MxE8JVpJ-p",
+        "hints": [ 
+        
+        ],
+        "answer": "stateofplay",
+        "reaction": "YOU ROCKING IT !!!"
+      },
+      {
+        "day": 26,
+        "title": "Tricky transposition",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "11/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Oh No !!! A camel came from Sahara and pushed me and spilled my coffee on my PC, now my keyboard can ony speak in Arabic: ؤقغحفخؤفب¤ضقضلاهؤ_سعحقثكضؤغ",
+        "link": "",
+        "hints": [ 
+        
+        ],
+        "answer": "cryptoctf{arabic_supremacy}",
+        "reaction":"!!! رائع"
+      },
+      {
+        "day": 27,
+        "title": "Minimised writing",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "11/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "The writing you will see soon is a kind of encryption but it simply simplifies the design of each character ",
+        "link": "https://drive.google.com/drive/u/1/folders/1EFO54NSqASlO1Yex9rFuzAUuWaXLAEVN",
+        "hints": [ 
+          "Elian might assist you"
+        ],
+        "answer": "pure soul",
+        "reaction": "and thus, cinammonRoll was the best king ever existed"
+      },
+      {
+        "day": 28,
+        "title": "Abstracted circles",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "11/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "As you almost reaching the end of atypography, this challenge won't give you a dictionary as a hint, cause most important thing is the intuition to understand the abstraction, good luck :3",
+        "link": "https://drive.google.com/drive/u/1/folders/1I_rs2yikR2Uz3ZL7vLiarq9tQaLK-gSg",
+        "hints": [ 
+        
+        ],
+        "answer": "NASELJE",
+        "reaction": "See ? you starting to adapt atypography, hhh, nice, Masha'Allah"
+      },
+      {
+        "day": 29,
+        "title": "bytes of a mysterious language",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "11/06/2025",
+        "sYear": 0,
+        "specialMess": "you can take today's Enigma as a fun fact",
+        "enigma": "e697a5 e69cac e8aa9e e381ae 415343 4949e3 8292e6 9a97e5 8fb7e5 8c96e3 8199e3 828be3 819fe3 8281e3 81ab33 e38390 e382a4 e38388 e3818c e5bf85 e8a681 e381a7 e38199 e38081 e69cac e5bd93 e381ab e88888 e591b3 e6b7b1 e38184 e381a7 e38199 e38081 e69797 e381af e38193 e381ae e8a880 e8aa9e e381ae e59bbd e381a7 e38199",
+        "link": "",
+        "hints": [ 
+        
+        ],
+        "answer": "Japan",
+        "reaction": "you realise also that their first byte is also particular, staring with e"
+      },
+      {
+        "day": 30,
+        "title": "Astronomical abstraction",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "11/06/2025",
+        "sYear": 0,
+        "specialMess": "this is the last atypography enigma, I know some of them were unfairly hard, but I did it cause I think it's fun to put time on perceiving our surroundings and realising some things aren't coincidence, I hope after this month, you can now observe our environment with more precision, and most importantly, I hope you did have fun !",
+        "enigma": "I wonder if I can write something that reminds us with universe and solar system",
+        "link": "https://drive.google.com/drive/u/1/folders/18Xmlxmu-zmhoE5jYy2u5BvtYRspU67FD",
+        "hints": [ 
+        
+        ],
+        "answer": "ECLIPSE",
+        "reaction": "Thank you again for making these challenges yet alive again after their long slumber"
+      },
+      {
+        "day": 31,
+        "title": "the war machine: Enigma",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "11/06/2025",
+        "sYear": 0,
+        "specialMess": "Ahhh yes, the E word, I wanted to finish this month with the most symbolic and inspiring encryption that both of us had knowledge about it, it was nostalgic and beautiful moment for both of us, hope you enjoy my last autistic story to tell",
+        "enigma": "As a second commander under the wing of higher admiral 'CinammonRoll the Pillar of North', we are in a war against Oscar's Soldiers, we keep intercepting their commander's letters but couldn't crack them at all, till the last one when we got an Intel about some machine configuration : 'Pick the rotors G43TE=== , the reflector is gonna be q%wx} , Based on small scale, ROTate carefully with high degree. The position of rings is our international Inigma day, the position of rotors is -1111.11-1'. I need to find their next attack as quick as possible",
+        "link": "https://drive.google.com/drive/u/1/folders/1u6cmDOp6uINYM7D4oKWcLYfHhJSlssQ6",
+        "hints": [ 
+        
+        ],
+        "answer": "Peach's castle",
+        "reaction": "I need to announce this alerting attack quickly, the war will finally shift to our side !!!"
+      }
+
     ]
   },
   {
