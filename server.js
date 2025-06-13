@@ -7,12 +7,22 @@ app.use(express.json());
 app.use(cors());
 
 const filePath = './data/quiz.json';
+const leakedPath = './data/leaked.json';
 
 // Load JSON data
 const loadData = () => JSON.parse(fs.readFileSync(filePath, 'utf8'));
+const loadLeakedData = () => JSON.parse(fs.readFileSync(leakedPath, 'utf8'));
 
 // Save JSON data
 const saveData = (data) => fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
+
+// Get leaked data
+app.get('/api/leaked', (req, res) => {
+  const data = loadLeakedData();
+
+  res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
+  res.send(JSON.stringify(data, null, 2)); // Pretty-print with 2 spaces
+});
 
 //Get all list of quizes
 app.get('/api/quiz', (req, res) => {

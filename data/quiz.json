@@ -3012,6 +3012,176 @@
     ]
   },
   {
+    "month": 9,
+    "solvedOne": false,
+    "name": "September",
+    "Theme": "Chaos",
+    "days": [
+      {
+        "day": 1,
+        "title": "mysterious pattern",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "13/06/2025",
+        "sYear": 0,
+        "specialMess": "Welcome to chaotic month !!! where I had no idea where to put these challenges, hhh. So, you gonna not expect what's expected, and you could expect the unexpected, as all things said, may this randomness be fun in your journey",
+        "enigma": "a + z = 97122 , z + a = 71229 , b + c = 6362 , t + a + t + i = 10511697116 , o + u + a + d + i = ?",
+        "link": "",
+        "hints": [
+          "a simple gesture is done for each operation",
+          "order of equalities does affect the result"
+        ],
+        "answer": "01051111179710",
+        "reaction": "I knew you would find the pattern, hhh"
+      },
+      {
+        "day": 2,
+        "title": "the secret IP",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "13/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Based on your PTSD knowledge, could you find what IP adress of the server hosting UnfazedTime. Due to some confusing results, I will let you know that it's X.X.X.4 ",
+        "link": "",
+        "hints": [
+          "DNS of Google is pretty interesting"
+        ],
+        "answer": "216.24.57.4",
+        "reaction": "unfortunately the server won't give you authority if reached by only IP"
+      },
+      {
+        "day": 3,
+        "title": "Leaked Data",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "13/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Oh No !!! Someone spilled coffe on my backend server, now some data has been leaked, I hope nobody realises it....",
+        "link": "https://drive.google.com/drive/u/1/folders/1ojQ5XOsOlqiCm0v71MhIJgXsBsu2847k",
+        "hints": [
+          "Remember Byul's story ? I think it's the same name temple"
+        ],
+        "answer": "SecretVaultKey",
+        "reaction": "Ahhh you also stole my reaction, then I won't react, hhh"
+      },
+      {
+        "day": 4,
+        "title": "What is this Pokemon?",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "13/06/2025",
+        "sYear": 0,
+        "specialMess": "I may or not left some pokemon challenges in this month...",
+        "enigma": "My favourite Gen5 Pokemon, grass/fairy type, fluffy and cute, a hint image was put in link",
+        "link": "",
+        "hints": [
+
+        ],
+        "answer": "Whimsicott",
+        "reaction": "ahhhhhh, my sweety Whimsicott, LJNXLXZNLKXNLZ"
+      },
+      {
+        "day": 5,
+        "title": "Priviledge absurdity",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "13/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I putted my flag on this doc, and yet I feared for some hackers would get it from me, now I changed it its location to a more secure place, *phew...",
+        "link": "https://drive.google.com/drive/u/1/folders/1l1SHvEyVnLqSyFMZTvB47fxZmsQpTyRP",
+        "hints": [
+          "did he just putted the flag on that doc"
+        ],
+        "answer": "SecretCTF{r34lly_s3cr3t_4nd_f0rg0tt3n}",
+        "reaction": "Ayyy, as expected from our chief hacker of the seas, hhh"
+      },
+      {
+        "day": 6,
+        "title": "Among us",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "13/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "do you remember MySQL ? cause you will need it here :3 . Basically if you remember DzFoot Database, a new player got added in but in the end he was an impostor, your objective is try to get the name of Impostor to find him. All data needed is in the link",
+        "link": "https://drive.google.com/drive/u/1/folders/1aXpMEEjKaTkehFFe7TfapUZKCYy1pA9s",
+        "hints": [
+          "Many solutions could be done, most original is using MySQL itself"
+        ],
+        "answer": "C1N4M0NR011",
+        "reaction": "I wonder if you expected SQL enigma would come here, hhh, well, it's chaotic theme :3"
+      },
+      {
+        "day": 7,
+        "title": "Art hunting",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "13/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "a flag has been chased, but its exact location seems unknown, take the link to see its last trace",
+        "link": "https://drive.google.com/drive/u/1/folders/16VocU0zJc2BwLezeoKJ5vvMFMtzcf5bW",
+        "hints": [
+          "'pdf files ARE PROHIBITED', bruh"
+        ],
+        "answer": "artCTF{sm011_s1z3d_fl4g}",
+        "reaction": "yaay, I missed artCTFs"
+      },
+      {
+        "day": 8,
+        "title": "Git gud",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "13/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "a commit has been found on some shared project done long ago...",
+        "link": "",
+        "hints": [
+          "Done by team frontenders..."
+        ],
+        "answer": "memoryCTF{n0st41g1c_d4y5}",
+        "reaction": "those days were precious to me excluding the project itself, hhh"
+      },
+      {
+        "day": 9,
+        "title": "unlocking the secret's chamber",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "13/06/2025",
+        "sYear": 0,
+        "specialMess": "Well, there are two possibilities when you reach here today, you either were so curious you found out about the secret link that archives all urls Drive I have been storing , or still couldn't figure out yet. I mean, if we think about it, you were since the beginning allowed to view and edit all those files while trusting you of course, but you never had a notification of shared access ? hmm",
+        "enigma": "The link for today is broken, so you had to find it manually. Find it and the flag for today's Enigma shall be yours",
+        "link": "https://youtu.be/dQw4w9WgXcQ?si=NZMlshnnH-mGZxg1",
+        "hints": [
+          "it should be somewhere where both of us can access to",
+          "try to check your 'memories', I know it's around there"
+        ],
+        "answer": "SecretCTF{r00t_v4ult_f0und}",
+        "reaction": "now you have the full power to check any other folder, damn..."
+      },
+      {
+        "day": 10,
+        "title": "No pirate can't play chess",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "13/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "A chess board exists in the link, but the solution is required in the white side, checkmate in 2 moves!!The password to the next challenge is the chess moves needed to make white wins in this format : Move1_Move2 (No need to write the black counter moves).You'll find also in link how to code chess moves",
+        "link": "https://drive.google.com/drive/u/1/folders/1dLvKwyY5UihYftaVGzTb8Gjee1IdRj98",
+        "hints": [
+          "Sacrifices are needed for better outcome"
+        ],
+        "answer": "Qd8+_Re8#",
+        "reaction": "yaaaay, you did it !!!"
+      }
+    ]
+  },
+  {
     "month": 10,
     "solvedOne": false,
     "name": "October",

@@ -1,0 +1,24 @@
+{
+  "month": 9,
+  "solvedOne": true,
+  "name": "September",
+  "Theme": "Chaos",
+  "days": [
+    {
+      "day": 3,
+      "title": "Leaked Data",
+      "difficulty": "Easy",
+      "solved": false,
+      "cDay": "13/06/2025",
+      "sYear": 0,
+      "specialMess": "",
+      "enigma": "Oh No !!! Someone spilled coffe on my backend server, now some data has been leaked, I hope nobody realises it....",
+      "link": "https://drive.google.com/drive/u/1/folders/1ojQ5XOsOlqiCm0v71MhIJgXsBsu2847k",
+      "hints": [
+        "Remember Byul's story ? I think it's the same name temple"
+      ],
+      "answer": "SecretVaultKey",
+      "reaction": "Ahhh you also stole my reaction, then I won't react, hhh"
+    }
+  ]
+}
