@@ -3178,6 +3178,172 @@
         ],
         "answer": "Qd8+_Re8#",
         "reaction": "yaaaay, you did it !!!"
+      },
+      {
+        "day": 11,
+        "title": "Who am I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "14/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I am a number, I can consider myself an identifier for the whole promo Esi 2022, I appear unofficially only on a single platform, nobody cares about my existence, and yet without me, the conversation community wouldn't exist, who am I?",
+        "link": "",
+        "hints": [
+          "community conversation should be some social app",
+          "it might bean inderct ID, like of a group or something",
+          "can the app be accessible by other means to seek the ID of promo group"
+        ],
+        "answer": "1302013096398946355",
+        "reaction": "Niiiiiice, good job!!!"
+      },
+      {
+        "day": 12,
+        "title": "sudo ku",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "14/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I couldn't implement sudoku on website, so I wanna apologise over lack of experience in web dev, I hope if you don't mind, I made it in a sheet file so you can play it. Concatenate all rows for the final answer",
+        "link": "https://drive.google.com/drive/u/1/folders/1eWJcZIbRLffu4YUTVEKEw0pMb5EnPGIK",
+        "hints": [
+
+        ],
+        "answer": "345817926726394851891265473254638197687951342913472568162589734479123685538746219",
+        "reaction": "You're so good !!! Masha'Allah !!!"
+      },
+      {
+        "day": 13,
+        "title": "Small rest",
+        "difficulty": "None",
+        "solved": false,
+        "cDay": "14/06/2025",
+        "sYear": 0,
+        "specialMess": "Today is rather a small healing session rather than enigma, so enjoy, hhh",
+        "enigma": "Yo !! how you doing future reader, my day is 14/06/2025 , 05:48AM , it is starts of Summer vacation, I am actually having fun doing these enigmas and getting more and more excited to show them to you, they are like now my small troops that their duty would at least make your journey brighter, special as you already are, and more fun nchllh, if you reading this, it means you didn't give up and still keeping your strike every day, I can never feel any prouder. Well, let's leave some other emotional messages in the final credits... anyways, here's a link that came randomly on my head while doing this, it's a 'random month' in the end, hhh.I am always here to listen to your thoughts, don't forget !! flag:Th4nk_Y0u_f0r_y0ur_pr3c10u5_t1me",
+        "link": "https://www.instagram.com/p/DEXnsJ-TX4a/",
+        "hints": [
+          "uhh... hello I guess ? hhh"
+        ],
+        "answer": "Th4nk_Y0u_f0r_y0ur_pr3c10u5_t1me",
+        "reaction": "reminder you can always go back to any other enigma successfully accomplished :3"
+      },
+      {
+        "day": 14,
+        "title": "Coincidence ?",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "14/06/2025",
+        "sYear": 0,
+        "specialMess": "Note: This challenge needs a good ammount of Enigmas being solved",
+        "enigma": "Somehow, out of all challenges and Enigmas existing daily, all of them posses a unique answer, except one... repeat the same answer here.",
+        "link": "",
+        "hints": [
+          "one exists in August",
+          "one exists in its neighbor month of the other",
+          "the answer has a meaning, and possess an interisting plot twist"
+        ],
+        "answer": "Eclipse",
+        "reaction": "Have I thought about this before or was it a coincidence? nobody knows, hhh"
+      },
+      {
+        "day": 15,
+        "title": "Follow the eyes",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "14/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "the eyes are the answer : Combee, Zubat , Unown, Regigigas , Joltik .",
+        "link": "",
+        "hints": [
+          "Count the eyes for each pokemon, careful for tricky ones"
+        ],
+        "answer": "60174",
+        "reaction": "Regigigas possesed fake eyes and you realised it, niice !!"
+      },
+      {
+        "day": 16,
+        "title": "Canonical name",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "14/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "the website name is actually masked on a real one, demask it and find the true name the web server",
+        "link": "",
+        "hints": [
+          "I know it's a PTSD, but some Res2 things needs to be done"
+        ],
+        "answer": "gcp-us-west1-1.origin.onrender.com.cdn.cloudflare.net.",
+        "reaction": "Ewww, put back the mask on that domain, hhh"
+      },
+      {
+        "day": 17,
+        "title": "Unexpected limital Encounter",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "14/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Let's suppose we are in 2022... yeah, let's really suppose that, hmmm, *pointing out randomly, here, try to find the limit (+infinity) of f(x) of exo04 subject 2 of our Bacalaurian maths... DID I STUTER ?",
+        "link": "",
+        "hints": [
+          "strongest factor shall lead the group in sum"
+        ],
+        "answer": "-infinity",
+        "reaction": "Ahh yes, back in the days when I didn't have backpain..."
+      },
+      {
+        "day": 18,
+        "title": "yezh iskis",
+        "difficulty": "kalet",
+        "solved": false,
+        "cDay": "14/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Brezhoneg eo anv ar yezh-mañ, unan eus ar yezhoù ralañ implijet eo abalamour d'he bevenn rannvroel ha d'he ankouaat kozh. Ar banniel eo anv ar yezh-mañ",
+        "link": "",
+        "hints": [
+
+        ],
+        "answer": "Breton",
+        "reaction": ""
+      },
+      {
+        "day": 19,
+        "title": "Void page",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "14/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Void consumes everything in its path, visit it in /#/Void",
+        "link": "",
+        "hints": [
+          "It even consumed the flag"
+        ],
+        "answer": "VoidCTF{v01d_p4ss3d_by_h3r3}",
+        "reaction": "I do love void tho, feels so cozy and calm rather than the society"
+      },
+      {
+        "day": 20,
+        "title": "Geo guesser",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "14/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Do you love maps ? do you love exploring it trying to find all interesting views? then you love this challenge, try to answer the name of the place on the map down this link, it's my dream to also go there, not the country, but the place",
+        "link": "",
+        "hints": [
+          "the country is known that both of use would like to visit it",
+          "it has a magneficent beach",
+          "existing south of a really really big island"
+        ],
+        "answer": "Okinawa",
+        "reaction": "One day nchllh, one day, hhh"
       }
     ]
   },
