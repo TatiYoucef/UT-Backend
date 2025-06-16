@@ -404,24 +404,6 @@
       },
       {
         "day": 26,
-        "title": "[_[-€¯|¯ $|°€/-\\|<",
-        "difficulty": "H/-\\|2D",
-        "solved": false,
-        "cDay": "07/06/2025",
-        "sYear": 0,
-        "specialMess": "",
-        "enigma": "!/= ¥()L| |2Ɛ/\\|] 7|~|!5 `/°µ ΛЯ☰ @ |=()|2|V|1|)/\\ß1_€ /*ƐЯ$[]|V `/()|_| §|-|0|_|1_|> 8Ɛ /*/2°L|[)  ©[][)Ɛ ]§ 7/-/€ 7]¯|¯1_[-",
-        "link": "",
-        "hints": [
-          "1337",
-          "435 is a symmetrical encryption",
-          "h3ll0_w0r1d"
-        ],
-        "answer": "[_[-€¯|¯ $|°€/-\\|<",
-        "reaction": "\\_:_/(-)/\\¯|¯ /-\\ ]-[0|\\|()|?/-\\8[_Ɛ Λ[|~|]Ɛ|/☰|V|☰|V† †() /2☰/\\[) 7:-:!5"
-      },
-      {
-        "day": 27,
         "title": "Gray trouble",
         "difficulty": "Medium",
         "solved": false,
@@ -438,7 +420,7 @@
         "reaction": "I wonder if you found out immedietluy or not, hhh, I tried my best to hint you, hehe"
       },
       {
-        "day": 28,
+        "day": 27,
         "title": "⠠⠮⠀⠇⠁⠝⠛⠥⠁⠛⠑⠀⠷⠀⠃⠇⠔⠙",
         "difficulty": "⠠⠑⠁⠎⠽",
         "solved": false,
@@ -454,7 +436,7 @@
         "reaction": "⠱⠽⠀⠙⠊⠙⠀⠠⠊⠀⠋⠁⠝⠞⠁⠎⠊⠵⠑⠀⠍⠽⠎⠑⠇⠋⠀⠊⠍⠁⠛⠔⠤⠀⠽⠳⠀⠋⠊⠗⠌⠇⠽⠀⠃⠑⠤⠀⠉⠇⠕⠎⠑⠀⠞⠕⠀⠍⠑⠀⠊⠋⠀⠠⠊⠀⠛⠑⠞⠀⠍⠽⠎⠑⠇⠋⠀⠃⠇⠔⠙"
       },
       {
-        "day": 29,
+        "day": 28,
         "title": "⏃⌰⟟⟒⋏ ⌰⏃⋏☌⎍⏃☌⟒",
         "difficulty": "⟒⏃⌇⊬",
         "solved": false,
@@ -470,7 +452,7 @@
         "reaction": "⏃⍀⟒ ⊬⍜⎍ ⏃⋏ ⏃⌰⟟⟒⋏ ? ☊⏃⎍⌇⟒ ⊬⍜⎍⍀ ⌇⍜⎍⌰ ⌿⎍⍀⟟⏁⊬ ⟟⌇ ⍜⎍⏁ ⍜⎎ ⏁⊑⟟⌇ ⍙⍜⍀⌰⎅"
       },
       {
-        "day": 30,
+        "day": 29,
         "title": "Oscar and his favourite game",
         "difficulty": "Medium",
         "solved": false,
@@ -3344,6 +3326,169 @@
         ],
         "answer": "Okinawa",
         "reaction": "One day nchllh, one day, hhh"
+      },
+      {
+        "day": 21,
+        "title": "Router Infiltration",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "15/06/2025",
+        "sYear": 0,
+        "specialMess": "In This enigma, you will for real attack my LAN, hhh",
+        "enigma": "Oh no!! A bird flied by my router now my IP got leaked: 105.98.221.177. I hope this shoudln't be enough to be able to find out my MAC address...",
+        "link": "",
+        "hints": [
+          "did you know some algerian routers host an http server",
+          "Did you also know that there's a default authentification on routers if not changed"
+        ],
+        "answer": "10:6F:D9:15:44:4D",
+        "reaction": "you can even shut down our Router..."
+      }, 
+      {
+        "day": 22,
+        "title": "History of Mewtwo",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "15/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Did you know that Mewtwo is an artificial Pokemon created through experiments? Mewtwo has deep lore and long beef against humans, try to search some of it or event watch the first Pokemon film ( one of the best movies ) , the answer is the Pokemon origin of Mewtwo",
+        "link": "",
+        "hints": [
+
+        ],
+        "answer": "Mew",
+        "reaction": "I loved both Pokemons in different aspects, they deserve the recognition of most well built stories out there"
+      }, 
+      {
+        "day": 23,
+        "title": "Zì bì zhèng shūxiě de yǔyán",
+        "difficulty": "Zhōngděng de",
+        "solved": false,
+        "cDay": "15/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Nín shìfǒu céng xiǎngxiàngguò túbù chuānyuè zhōngguó de wànlǐ chángchéng, zhè shìfǒu zhídé, kèfú kùnnán shìfǒu huì zhèngmíng shénme, wǒ bù zhīdào, dàn wǒ xiāngxìn zhè jiāng shì yīduàn nánwàng de huíyì, yóuqí shì hé nín qīnjìn de rén yīqǐ túbù bìng fēnxiǎng zhè zhǒng jīnglì, nín suǒ xúnqiú de dá'àn jiùshì zhè piān yǎnjiǎng zhōng suǒ shuō dì dìfāng",
+        "link": "",
+        "hints": [
+          "e682a8e698afe590a6e69bbee683b3e8b1a1e8bf87e5be92e6ada5e7a9bfe8b68ae4b8ade59bbde79a84e4b887e9878ce995bfe59f8eefbc8ce8bf99e698afe590a6e580bce5be97efbc8ce5858be69c8de59bb0e99abee698afe590a6e4bc9ae8af81e6988ee4bb80e4b988efbc8ce68891e4b88de79fa5e98193efbc8ce4bd86e68891e79bb8e4bfa1e8bf99e5b086e698afe4b880e6aeb5e99abee5bf98e79a84e59b9ee5bf86efbc8ce5b0a4e585b6e698afe5928ce682a8e4bab2e8bf91e79a84e4babae4b880e8b5b7e5be92e6ada5e5b9b6e58886e4baabe8bf99e7a78de7bb8fe58e86efbc8ce682a8e68980e5afbbe6b182e79a84e7ad94e6a188e5b0b1e698afe8bf99e7af87e6bc94e8aeb2e4b8ade68980e8afb4e79a84e59cb0e696b9"
+        ],
+        "answer": "Great Wall of China",
+        "reaction": "你做得很好，你是我最想分享经验的人"
+      }, 
+      {
+        "day": 24,
+        "title": "Secret memorisation",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "15/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "when I open up my PC, I have no need to memorise my password number to input, all I need to remember is the logo of VsCode which is far more easier and first digit being 1",
+        "link": "",
+        "hints": [
+          "forms can be used to track inputs and follow the direction"
+        ],
+        "answer": "1596357",
+        "reaction": "great, now I let you access to my PC..."
+      }, 
+      {
+        "day": 25,
+        "title": "Inivisible threat",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "15/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Welcome to yet another hint art hunt for you !! go check the link",
+        "link": "https://drive.google.com/drive/u/1/folders/1-4_YKovm7fdFVYJ6NhpjEp-9QXcRho4X",
+        "hints": [
+          "once, there was that annoying project in 1CS",
+          "Eyes can sometimes deceive you"
+        ],
+        "answer": "artCTF{h1d3_n_s33k}",
+        "reaction": "still remembering the final day of 1Cs, it was a wonderful day"
+      }, 
+      {
+        "day": 26,
+        "title": "Prehistorical RISC code",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "15/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Check the code you find in the link, try to find out the content of R03",
+        "link": "https://drive.google.com/drive/u/1/folders/1WL56qMFXEMRf8VVVQ_OqTMnQzY7aYp--",
+        "hints": [
+          "an old software needed to configure this"
+        ],
+        "answer": "14",
+        "reaction": "Can't believe this is the first time 14 was an answer, hhh"
+      }, 
+      {
+        "day": 27,
+        "title": "[_[-€¯|¯ $|°€/-\\|<",
+        "difficulty": "H/-\\|2D",
+        "solved": false,
+        "cDay": "07/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "!/= ¥()L| |2Ɛ/\\|] 7|~|!5 `/°µ ΛЯ☰ @ |=()|2|V|1|)/\\ß1_€ /*ƐЯ$[]|V `/()|_| §|-|0|_|1_|> 8Ɛ /*/2°L|[)  ©[][)Ɛ ]§ 7/-/€ 7]¯|¯1_[-",
+        "link": "",
+        "hints": [
+          "1337",
+          "h3ll0_w0r1d"
+        ],
+        "answer": "[_[-€¯|¯ $|°€/-\\|<",
+        "reaction": "\\_:_/(-)/\\¯|¯ /-\\ ]-[0|\\|()|?/-\\8[_Ɛ Λ[|~|]Ɛ|/☰|V|☰|V† †() /2☰/\\[) 7:-:!5"
+      }, 
+      {
+        "day": 28,
+        "title": "The northern Path",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "15/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "You found yourself on a country island you can see on the link and a manuscript, seek its knowledge and answer will be forspoken: by the long tail of the beast, seek North till you reach a big black Lake, continue North till you reach a land again, from there, go towards East till you reach the back of Blue Dragon, Reach its upper head and go East again, keep going till you cross boundary of a new country, Seek its heart, make a path towards South then East with the shape of L where the intersection point is where the Lands and Seas meet, you'll continue East till a you find the small golden Egg",
+        "link": "https://drive.google.com/drive/u/1/folders/169qpyG5eYiX31aJIE4tc28wM1S0pb3nq",
+        "hints": [
+
+        ],
+        "answer": "Taiwan",
+        "reaction": "May your traveling be blessed for this long journey"
+      }, 
+      {
+        "day": 29,
+        "title": "Root of all Pokemon",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "15/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Have you ever wondered, what is the story of Pokemon world ? what is the first Pokemon ever, which came first, egg or Pokemon ? Try to find this Pokemon that resolved this contradiction in the story",
+        "link": "",
+        "hints": [
+          "Canonically strongest Pokemon ever"
+        ],
+        "answer": "Arceus",
+        "reaction": "I catched that Pokemon by the way :3"
+      }, 
+      {
+        "day": 30,
+        "title": "Chaos control",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "15/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Nothing better than finishing this month with... chaos/randomness, let's throw a dice, a special dice with a secret face :3 , good luck !!, path : /#/games/dice",
+        "link": "",
+        "hints": [
+
+        ],
+        "answer": "ChaosMasterCTF{D1c3_m4st3r3d_1n_ch405}",
+        "reaction": "GG !! may only good chaos be with you nchllh"
       }
     ]
   },
