@@ -949,9 +949,9 @@
         "sYear": 0,
         "specialMess": "",
         "enigma": "What is even that, lol",
-        "link": "",
+        "link": "https://drive.google.com/drive/u/1/folders/1b1q_JjBpaVUN9SIQBdJZFSlnebLQWdU-",
         "hints": [
-          "A language that I think you only one and me have the ley to decioher it :3"
+          "A language that I think you only one and me have the ley to decipher it :3"
         ],
         "answer": "FONTCTFDONE",
         "reaction": "You can read this? wow, you're amazing !!!"
@@ -959,7 +959,7 @@
       {
         "day": 30,
         "title": "Guidance of Sunshine",
-        "difficulty": "Hard",
+        "difficulty": "Really Hard",
         "solved": false,
         "cDay": "",
         "sYear": 0,
@@ -3499,6 +3499,150 @@
     "Theme": "The Moon",
     "days": [
       {
+        "day": 1,
+        "title": "Owner Of The Vault",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "19/06/2025",
+        "sYear": 0,
+        "specialMess": "This month will talk about Lore of the Moon, basic history, some Enigma that has prefrences characteristics... This might be boring cause most of Enigmas will go around someone's preferences",
+        "enigma": "The Vault with Daily Trials to reader has an author symbolised as the Moon, state his full name",
+        "link": "",
+        "hints": [],
+        "answer": "Tati Youcef",
+        "reaction": "his main objective is to annoy the Sun as much as possible :3"
+      },
+      {
+        "day": 2,
+        "title": "Rare phenomenon",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "19/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "The Moon may have different natural pkeasing phenomenon depending on how it seek its gaze to the Sun and its position, one of them making the moon with particular color: what this moon called based on your telepathy?",
+        "link": "",
+        "hints": [
+          "the color might be confusing with the definition, but it was refered to like this cause it still has a small chance to happen"
+        ],
+        "answer": "Blue Moon",
+        "reaction": "Moon always happy on the side gazing on the Sun, hehe"
+      },
+      {
+        "day": 3,
+        "title": "Blessing of Grandmother",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "19/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I got a nickname from my very Grandma caming from my cheeks whom she said being sweet to kiss? I don't know, I never tasted it, the nickname is : XXXXX Da7lou / XXXX the sweet . Find the first word that I already yapped about, hhh",
+        "link": "",
+        "hints": [
+          "kind of close in derja the word kissed"
+        ],
+        "answer": "Boussou",
+        "reaction": "I am still embarassed about it, but it's still cute, hhhh"
+      },
+      {
+        "day": 4,
+        "title": "Moon riddles I",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "19/06/2025",
+        "sYear": 0,
+        "specialMess": "Moon proposed and challenged the Sun with 7 riddles of their own, solve them and path of wisdom will be yours",
+        "enigma": "What gets smaller every time it takes a bath?",
+        "link": "",
+        "hints": [
+          "it's an object used casually in bath"
+        ],
+        "answer": "Soap",
+        "reaction": "Wise riddles from Moon doesn't mean they are full of wisdom, hhh"
+      },
+      {
+        "day": 5,
+        "title": "Perceiving details",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "19/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "How much good can you get any information you want ? for example, can you get me the company name of the mouse I am using ?",
+        "link": "",
+        "hints": [
+          "it's all started when I needed to go alone with my car on that long journey road... and got lost..."
+        ],
+        "answer": "HAVIT",
+        "reaction": "your memory should be praised every single minute, masha'Allah"
+      },
+      {
+        "day": 6,
+        "title": "Start of an Era",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "19/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I went through many gaming console in my life, many appreciable memories, could you guess what was my first console ever?",
+        "link": "",
+        "hints": [
+          "It's a Nintendo Brand, has a weird hand controller"
+        ],
+        "answer": "Nintendo 64",
+        "reaction": "Damn, the memories, I wasn't even 5 years old, hhh"
+      },
+      {
+        "day": 7,
+        "title": "Miraculous number",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "19/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "number by itself is a blessing for many folks and culture, primary and most unpredictable in calculations, holds the dearest to me, I am...",
+        "link": "",
+        "hints": [
+          "your favourite number composes of this special number"
+        ],
+        "answer": "7",
+        "reaction": "I think I loved this number only for its mystery, hhh"
+      },
+      {
+        "day": 8,
+        "title": "Happy Moon",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "19/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "in some occasions, Moon could be found smiling and being so shiny and happy when facing the Sun that its crescent part glows even brighter then the face, how can we call this happy moment for the Moon",
+        "link": "",
+        "hints": [
+          "find a picture where the face of is visible, but even more the crescent shines brighter, it's a mix of two words"
+        ],
+        "answer": "EarthShine",
+        "reaction": "Sunshine, EarthShine, I like this rhyme, hhh"
+      },
+      {
+        "day": 9,
+        "title": "Moon riddles II",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "19/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I'm not a blanket, yet I cover the ground; a crystal from heaven that doesn't make a sound. What am I?",
+        "link": "",
+        "hints": [
+          "it's occasional on single Saison",
+          "That saison is Winter",
+          "It's white, the word you guessed if it didn't work, try finding a more precise word that includes that meaning of yours"
+        ],
+        "answer": "snowflake",
+        "reaction": "and that sound you walk on it feels so magicaln Sub7anallah"
+      },
+      {
         "day": 10,
         "title": "Unnoticed Enigma",
         "difficulty": "Medium",
@@ -3506,11 +3650,63 @@
         "cDay": "19/03/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Yes, I am autistic, I actually an Enigma to everyone's sight, but nobody noticed it I guess, I left a clue down this link",
+        "enigma": "Yes, I am autistic, I actually put an Enigma to everyone's sight, but nobody noticed it I guess, I left a clue down this link",
         "link": "https://drive.google.com/drive/u/1/folders/1spb5ozQJs9tOOFxa3scP2uPwDtOE73rn",
         "hints": [],
         "answer": "SUSSY BAKA",
         "reaction": "I am so embarassed... I will jump out of a cliff, hhh"
+      },
+      {
+        "day": 11,
+        "title": "Secret file",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "My Desktop never changed over the years, could you guess what was the file mostly changed every few days due to putting new ideas for some enigmas ?",
+        "link": "",
+        "hints": [
+          "I introduced it to you when I started the project, asking you: 'do you know what this is?' and then you proceeded to go to Google Translate ? hhh",
+          "the name by itself sounds like Japanese, but it doesn't make any sense, I just got it from my mind",
+          "starts with 'u' , ends with 'i.txt'"
+        ],
+        "answer": "Ubishi.txt",
+        "reaction": "I wonder if you still remember when I introduced you this file, hhh"
+      },
+      {
+        "day": 12,
+        "title": "Special Pokemon",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I do posess many favourite Pokemons across many games, I do have a particular one where it has an ability only unique for him even tho he's not rare in the wild, it's the ability for being immune to anything if it's not super effective, but he has only 1 HP, lol. So he is a double-edged Sword Pokemon that should be used strategically",
+        "link": "",
+        "hints": [
+          "he's typed as Insect/Ghost",
+          "even his evolution way is unique"
+        ],
+        "answer": "Shedinja",
+        "reaction": "It's also cute, so I really love accompnying this Pokemon a lot!!!"
+      },
+      {
+        "day": 13,
+        "title": "nightmare software",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I remember once I passed hours on a software that made me rate it as the worst experience ever for being absolutely insane to try it, try to find the name of this software with a video that I already shared with you long ago",
+        "link": "",
+        "hints": [
+          "It's an L",
+          "I rage baited a professor with it, hhh"
+        ],
+        "answer": "Latex",
+        "reaction": "Nah seriously, watch that video, you'll understand a portion of its power"
       },
       {
         "day": 14,
@@ -3529,20 +3725,776 @@
         "reaction": "Soulmates had met and made the best combo, nchllh the fate would bring them closer !!"
       },
       {
-        "day": 30,
-        "title": "The first Good Morning to The Moon",
+        "day": 15,
+        "title": "ID of the Moon",
         "difficulty": "Easy",
         "solved": false,
         "cDay": "20/03/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Do you wanna feel nostlagic ? There was a Time where we shared different yapping between, after that night, I think it was the first time you sent me Good Morning, DD/MM",
+        "enigma": "if the moon has an ID, what would it be ?",
+        "link": "",
+        "hints": [
+          "this is just an autistic question, no need to overthink it"
+        ],
+        "answer": "22/0174",
+        "reaction": "a historical number that shall be remembered over next generations, hhh"
+      },
+      {
+        "day": 16,
+        "title": "Favourite game",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I do have many many favourite games, so I will leave one that made me play it the most hours ever ( over +1000 hours on it ) and I still haven't finished but I am still motivated to do it",
+        "link": "",
+        "hints": [
+          "it has a character where it has same anniversary as mine",
+          "contains a world with 7 elements : fire, water, wind, earth, ice, electro, leaf",
+          "made by chinese company",
+          "it's a gacha game"
+        ],
+        "answer": "Genshin Impact",
+        "reaction": "still proud being geek to the lore of that game, hhh"
+      },
+      {
+        "day": 17,
+        "title": "Evil Void Moon",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "speaking of Void and darkness, in Super Smash Bros Ultimate. There was a big evil that represented the darkness itself, name it",
+        "link": "",
+        "hints": [],
+        "answer": "Dharkon",
+        "reaction": "if you make it here, DM me to show you a cool cutscene about him when he overstep the overworld"
+      },
+      {
+        "day": 18,
+        "title": "First Digital Encounter",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Could you try to find what was the first mail between you and me that has been sent?",
+        "link": "",
+        "hints": [
+          "Sent by me to you",
+          "Gmail has good filter system"
+        ],
+        "answer": "Merci ! Baraka llah fike",
+        "reaction": "it was a thank you message, even back then I was grateful, hhh"
+      },
+      {
+        "day": 19,
+        "title": "Moon riddles III",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I have a neck, but no head. I have two arms, but no hands. What am I?",
+        "link": "",
+        "hints": [
+          "Try to imagine the structure of the object, even draw it to help you, it's intuitive"
+        ],
+        "answer": "Shirt",
+        "reaction": "Small Fact: I could never answer a riddle with my autism"
+      },
+      {
+        "day": 20,
+        "title": "Treasure hunt experience",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "The Moon organised an event with her team members about playing many different mini games to find the treasure and to have fun, key of Todays's Enigma: $[EventName]CTF{$[LOCATION]_at_$[DD/MM/YYYY]}",
+        "link": "",
+        "hints": [
+          "our location were four rooms on same region, find the name of the region"
+        ],
+        "answer": "TreasureHuntCTF{NS_at_03/12/2024}",
+        "reaction": "Reminder I weared a Burnouss on that day and I think everyone loved it, hhh"
+      },
+      {
+        "day": 21,
+        "title": "私の夢の言語",
+        "difficulty": "簡単",
+        "solved": false,
+        "cDay": "2025年6月21日",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "どう説明すればいいのか分からないけど、この言語が大好きなんです。シンプルだけど意味が深くて、文字の書き方もすごく美しい。だからいつか学びたい。アッラー。国旗は、この言語の国名をその言語で書いたもの。",
+        "link": "",
+        "hints": [
+
+        ],
+        "answer": "日本",
+        "reaction": "もし日本と韓国が合併したら、何が起こるでしょうか..."
+      },
+      {
+        "day": 22,
+        "title": "Symbol of the Moon",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "21/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "There exists a legendary Pokemon that represents the Moon itself, try to find out his name",
+        "link": "",
+        "hints": [
+          "From Pokemon Sun&Moon itself, hhh",
+          "even tho it's a legendary, but it's actually an evolution from a cute looking cosmic Pokemon"
+        ],
+        "answer": "Lunala",
+        "reaction": "it's also purple in color, hmmm"
+      },
+      {
+        "day": 23,
+        "title": "Moon riddles IV",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "21/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Who makes it, has no need of it. Who buys it, has no use for it. Who uses it can neither see nor feel it. What is it?",
+        "link": "",
+        "hints": [
+          "if the person doesn't know he's using it, doesn't that mean he isn't conscious about it ?",
+          "if it's buyeable, it should be an object"
+        ],
+        "answer": "Coffin",
+        "reaction": "that's pretty a dark joke, hhh"
+      },
+      {
+        "day": 24,
+        "title": "current console",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "21/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I think you already know, but try to guess my current console, it was my first real console and take care of like a mother, it served me really well in passing years ",
+        "link": "",
+        "hints": [
+          "It's red colored theme"
+        ],
+        "answer": "Nintendo switch",
+        "reaction": "I loved it so much, still playing even when I am making these Enigmas"
+      },
+      {
+        "day": 25,
+        "title": "Familiar colors",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "21/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Look at the photo, it sounds... familiar ? what's that in the red circle",
+        "link": "https://drive.google.com/drive/u/1/folders/16l9goNP-8igyLuqjWsxls3aTgRsZIl6Q",
+        "hints": [
+          "the colors and shape should remind you of some...arts ?"
+        ],
+        "answer": "Pichu",
+        "reaction": "I will make sure to try more and more arts displayed in that figma file to be full of memories"
+      },
+      {
+        "day": 26,
+        "title": "Moon riddles V",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "21/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "What is more useful when it is broken?",
+        "link": "",
+        "hints": [
+          "hmm, tsemma *crack -> use it",
+          "useful to eat"
+        ],
+        "answer": "Egg",
+        "reaction": "I know Ghamla hadi, hhh"
+      },
+      {
+        "day": 27,
+        "title": "BirthPlace",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "21/06/2025",
+        "sYear": 0,
+        "specialMess": "if this time comes, even tho I don't know how much wait have been done to let you read this, but I hope you are still doing well, and I hope I will keep living next years till I fill promise and duty towards you inchallah",
+        "enigma": "Today I reached XX years old, wow, how much time have passed? Let's try to figure out my birthplace, its name is the same as a lengendary mythodologic creature",
+        "link": "",
+        "hints": [
+          "The creature is said to look like a Dragon",
+          "in some folklore in Japan, this creature is a main enemy of Godzilla",
+          "it has many heads, can even regenerate them if they are beheaded"
+        ],
+        "answer": "Hydra",
+        "reaction": "Precisely El-Koudss, yup, everything started there, Sub7anallah"
+      },
+      {
+        "day": 28,
+        "title": "Moon riddles VI",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "21/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": " I have a head like a cat and feet like a cat, but I am not a cat. What am I?",
+        "link": "",
+        "hints": [
+          "this one is tricky, it's kind of trying to mislead you"
+        ],
+        "answer": "Kitty",
+        "reaction": "Of course, who would have guessed..."
+      },
+      {
+        "day": 29,
+        "title": "Favourite console",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "21/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "We talked about my first console ever, my recent console ever, but there's a favourite one in the chain, nostalgic one",
+        "link": "",
+        "hints": [
+          "it's portable, Nintendo based"
+        ],
+        "answer": "Nintendo 3DS",
+        "reaction": "my 3DS was the source of my happiness when I was young"
+      },
+      {
+        "day": 30,
+        "title": "Moon riddles VII",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "21/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I am an odd number. Take away a letter and I become even. What number am I?",
+        "link": "",
+        "hints": [
+          "is that 'even' possible ?"
+        ],
+        "answer": "Seven",
+        "reaction": "How 'odd'"
+      },
+      {
+        "day": 31,
+        "title": "The first Good Morning to The Moon",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "20/03/2025",
+        "sYear": 0,
+        "specialMess": "let's end this month with my profeciency: autism, hhh jokes away, I wanna open up to a memory I would never forget, you are good searching messages, so you will find it nchllh",
+        "enigma": "Do you wanna feel nostlagic ? There was a Time where we shared different yapping between, after that night, I think it was the first time you sent me Good Morning, flag is that day: DD/MM",
         "link": "",
         "hints": [
           "Are you today's date ? Cause you're DD/MM"
         ],
         "answer": "31/10",
         "reaction": "It was really therapeutic and healing what you did to me, thank you again"
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "solvedOne": false,
+    "name": "November",
+    "Theme": "Sound",
+    "days": [
+      {
+        "day": 1,
+        "title": "Binary translation",
+        "difficulty": "",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "Welcome to The Sound month!!! where only ears will guide you to answer daily in this month, I hope inchallah you won't become deaf till this future so I wouldn't change the theme of this month... Okay, that was a dark joke...",
+        "enigma": "Close your eyes and try to hear the beep sounds you hear in this link",
+        "link": "https://drive.google.com/drive/u/1/folders/1b7BiK_W2M5HnYZNQ0oAxV6TwODRLwFcz",
+        "hints": [],
+        "answer": "SoundCTFStarted",
+        "reaction": ""
+      },
+      {
+        "day": 2,
+        "title": "Guess the game I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "Welcome to an Autistic mini game from this month !! you will hear some osts/sounds/noises of a game, your objectif is simple, it's to guess which game is that from, GOOD LUCK, LZJDLJZNLZNLXZ",
+        "enigma": "It's epic, it's motivating, definitely a battle from a game...",
+        "link": "https://drive.google.com/drive/u/1/folders/15pouo2hXvrjx8AXJGI4-OBsT05RdFk0y",
+        "hints": [
+          "From a game you played, but I don't think you have finished",
+          "It's a Pokemon game"
+        ],
+        "answer": "Pokemon Diamond",
+        "reaction": "Yet there are many beautiful sounds waiting for you to hear it"
+      },
+      {
+        "day": 3,
+        "title": "What is this Pokemon I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "Well... I think you alread know how much I LOVE Pokemons !!! So I said why not trying to guess a Pokemon from just the sound? Don't worry, I know you're still new for this, so I will add some more specification to ease out your search",
+        "enigma": "It's pretty iconic yet still pretty unrecognizable with 8-bit sound, you can hear small electronic sounds tho",
+        "link": "https://drive.google.com/drive/u/1/folders/1Q-_K7cxZcPXrvxGdpo-GTcCtAX9BZnYq",
+        "hints": [
+          "It IS THE MOST FAMOUS POKEMON EVER",
+          "IT'S A YELLOW RAT"
+        ],
+        "answer": "Pikachu",
+        "reaction": "Yup, that's how Pikachu sounded for about 5 generations, hhh"
+      },
+      {
+        "day": 4,
+        "title": "Guess the creature I",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "Welcome to ... yet another autistic set of minigame, this one is simple, you hear a cry from an animal, you guess what it is",
+        "enigma": "We start with something a bit obvious and relatable to reader:",
+        "link": "https://drive.google.com/drive/u/1/folders/1BuBZcHH982xBWQPOSUn3iKM6sHLswRRJ",
+        "hints": [
+          "it has flying Hardware implemented with Cat Software"
+        ],
+        "answer": "Owl",
+        "reaction": "OWO"
+      },
+      {
+        "day": 5,
+        "title": "Guess the game II",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "A kingdom crumbled to ground, Due to previous ruler's Own enviness, Hope removed through citizen's eyes, and yet, it has to be done, sacrifice needed to be done...",
+        "link": "https://drive.google.com/drive/u/1/folders/1f7ltswo4o3VFjlgK1rhCowLPsyzvyjwy",
+        "hints": [
+          "a favourite game for me I would say"
+        ],
+        "answer": "Hollow knight",
+        "reaction": "all sounds in this game are developped in such perfection"
+      },
+      {
+        "day": 6,
+        "title": "What is this Pokemon II",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Existed since the begining of era, I always nicknamed him Kaido",
+        "link": "https://drive.google.com/drive/u/1/folders/1z47UHbbwWQ62IhrUDfQxuxpj1Fexs-Kf",
+        "hints": [
+          "A water flying type Pokemon"
+        ],
+        "answer": "Gyarados",
+        "reaction": "He is always a must member on my team, cause he's reliable and well balanced Pokemon"
+      },
+      {
+        "day": 7,
+        "title": "Guess the creature II",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Let's try make a bath to this orange creature, nothing would go wrong",
+        "link": "https://drive.google.com/drive/u/1/folders/1eZ-E8XuSEGPsuuynRC50X15JV3sLIi9O",
+        "hints": [],
+        "answer": "Cat",
+        "reaction": "Ahh yess, I had many meme cats, so I picked this one, hhhh"
+      },
+      {
+        "day": 8,
+        "title": "Guess the game III",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "when you ride a horse at night, this amazing ost shows up, it seems normal at first, but patience is good while adventuring...",
+        "link": "https://drive.google.com/drive/u/1/folders/1YO1VQBoV97C4ETdyLvXh-j9SsySxrLSe",
+        "hints": [
+          "It's about a green hero, saving the kingdom from calamity"
+        ],
+        "answer": "Legend of Zelda Breath of The Wild",
+        "reaction": "This game is full of dynamic fluid sounds, YOU NEED TO TRY IT"
+      },
+      {
+        "day": 9,
+        "title": "Reverse Engineering",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "A tune you will hear in Violin, you need to reverse the sounds to Notes ( Do Ré Mi ... ) between them a single space",
+        "link": "https://drive.google.com/drive/u/1/folders/11thaPXsYlXKUcj_wQSlNSL6Xy1I5_wZ4",
+        "hints": [
+          "the same tune happens to exist on the really first Enigma ever, a particular letter"
+        ],
+        "answer": "Do Si Sol La Si Do Si Do Ré Mi Fa Mi Ré Do Ré Mi Do Do Do",
+        "reaction": ""
+      },
+      {
+        "day": 10,
+        "title": "Guess the creature III",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "It's smoll, fragile, Domestic, pretty memable with its pathetic face",
+        "link": "",
+        "hints": [
+          "They have a lot of higher screeching meme clips, hhh"
+        ],
+        "answer": "Hamster",
+        "reaction": "Hamster is pretty entertaining to watch for their cute face tho, hhh"
+      },
+      {
+        "day": 11,
+        "title": "Guess the game IV",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Imagine you're fighting a realistic Dragon with epic ost, but sometimes looks can trick you...",
+        "link": "https://drive.google.com/drive/u/1/folders/1su1CwPhP_NmteQGE7tnxA2yZ5shU5_P4",
+        "hints": [
+          "It's Just a plumber game, so how...",
+          "one of my favourites games, I 100% it and wished you would play it too inchallah for future"
+        ],
+        "answer": "Super Mario Odyssey",
+        "reaction": "I am looking forward seeing your face that this game has a realistic fight against a Dragon"
+      },
+      {
+        "day": 12,
+        "title": "What is this Pokemon III",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "A bird from gen 4",
+        "link": "https://drive.google.com/drive/u/1/folders/1WHHvPcGeNG2Xuo7DkBZ0x3K_CNOhLBKJ",
+        "hints": [
+          "Even you haven't played much, but I am sure you did encounter it at least once in your game"
+        ],
+        "answer": "Starly",
+        "reaction": "his evolution is a traumatic Pokemon for me to fight..."
+      },
+      {
+        "day": 13,
+        "title": "Guess the creature IV",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "A Bird chirping??",
+        "link": "https://drive.google.com/drive/u/1/folders/1yxcbxlPAALNHs4w-b4rK5_ssU2aWF7ZM",
+        "hints": [
+          "From Cat Family",
+          "He is rather friendly towards humans, not sure for other animals tho..."
+        ],
+        "answer": "Cheetah",
+        "reaction": "He has a cat software in the end, hhh"
+      },
+      {
+        "day": 14,
+        "title": "Guess the game V",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "An eery sound coming from deepest rooms...",
+        "link": "https://drive.google.com/drive/u/1/folders/13zmF4WkBhxC8iC0EyKAE_kNAsCp7xP2c",
+        "hints": [
+          "you played it, I played it, we both played it"
+        ],
+        "answer": "REPO",
+        "reaction": "I missed playing it with others..."
+      },
+      {
+        "day": 15,
+        "title": "What is this Pokemon IV",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Easily one of the most distinguished sounds for you",
+        "link": "https://drive.google.com/drive/u/1/folders/1JAPX9pPllr5ogSNB8QNpq7Y-1FMQOBAP",
+        "hints": [
+
+        ],
+        "answer": "Eevee",
+        "reaction": "I could have put 8-bit sound but I couldn't find one..."
+      },
+      {
+        "day": 16,
+        "title": "Guess the creature V",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "they are smart, and they can befriend humans:",
+        "link": "https://drive.google.com/drive/u/1/folders/1O91pBW3i6_3LVK888RjEHx7--Ka7rODw",
+        "hints": [
+          "Orange colored usually"
+        ],
+        "answer": "Fox",
+        "reaction": "Their genuine laughing is kind of healing in ears"
+      },
+      {
+        "day": 17,
+        "title": "Guess the creature VI",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "I realised this month is bit boring in ideas, I am really sorry that I couldn't find some creativity and innovativity",
+        "enigma": "A cutie creature with taupe color:",
+        "link": "https://drive.google.com/drive/u/1/folders/1r84cMQFFKRxQbXUZw5x4fzWPH6iQ1UUR",
+        "hints": [
+
+        ],
+        "answer": "Otter",
+        "reaction": "I consider them next to cats being the cutest animals I saw in my life"
+      },
+      {
+        "day": 18,
+        "title": "Guess the game VI",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "When the mushrooms finally take effect on the consumer",
+        "link": "https://drive.google.com/drive/u/1/folders/11xVHWXGX-jx2S21TeN_bVoIIySm2fCBK",
+        "hints": [
+          "a 2D mario game"
+        ],
+        "answer": "Super Mario Bros. Wonder",
+        "reaction": "A silly yet fun game that you can play also together with friends!!"
+      },
+      {
+        "day": 19,
+        "title": "Guess the creature VII",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "their cry is pretty misleading, but I know you can find it out!!",
+        "link": "https://drive.google.com/drive/u/1/folders/17x2U7HxHGhkPusgOsQz-fG8lCBp3ukUH",
+        "hints": [
+          "Their skin resists extreme temperatures"
+        ],
+        "answer": "Penguin",
+        "reaction": "\\| w |/ (me neither Don't know what's even that)"
+      },
+      {
+        "day": 20,
+        "title": "A mysterious rythm",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "23/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Analyse carefully the video of this link, try to extract the physical phenomenon from it",
+        "link": "https://drive.google.com/drive/u/1/folders/1rNtFRkVvtwGX_qdgivClXBmaH4vStqe3",
+        "hints": [
+          "Sounds like Oscilating Pendulumns playing on Piano"
+        ],
+        "answer": "Pendulum Snake",
+        "reaction": ""
+      },
+      {
+        "day": 21,
+        "title": "Guess the game VII",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "25/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "The closer it comes, the more dangerous the situation, we need to hide... and QUICKLY",
+        "link": "https://drive.google.com/drive/u/1/folders/1heSF0RUmmwXCVpErs7-xnRZmBrGN97Lf",
+        "hints": [
+          "It's about a game that peaked in memes in Corona Era",
+          "More Friends, more fun",
+          "Sussy Baka"
+        ],
+        "answer": "Among us",
+        "reaction": "It's still fire the game if you play it with friends"
+      },
+      {
+        "day": 22,
+        "title": "What is this Pokemon V",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "25/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "a Pokemon shy, yellow, loves his spoon",
+        "link": "https://drive.google.com/drive/u/1/folders/19mM-1xd1fEyEdZblnLslj7lT_AAOyqHu",
+        "hints": [
+          "magician when he throws a spell : 'XXXX XXXXXXX', knowing these two words is like knowing two Pokemons"
+        ],
+        "answer": "Kadabra",
+        "reaction": "he's my first main Pokemon that one shotted any units, shoutout for his long service he served for me"
+      },
+      {
+        "day": 23,
+        "title": "Guess the creature VIII",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "25/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "POV: It's Summer OVA episode",
+        "link": "https://drive.google.com/drive/u/1/folders/1suTbXOmAgCZuRUUxZyzYhlW-1rgYUg8n",
+        "hints": [
+          "if you said Cricket, kind of true, you're close"
+        ],
+        "answer": "Cicada",
+        "reaction": "they are kind of satisfying to hear, not bearing the heat tho..."
+      },
+      {
+        "day": 24,
+        "title": "Guess the game VIII",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "25/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "a game where Focusing is everything",
+        "link": "https://drive.google.com/drive/u/1/folders/1NU2vwANVXidJzf-XP0zwNolEAKs6fd7T",
+        "hints": [
+          "one of the most played games I had since really long time",
+          "the sound you hearing is the menu theme, it feels kind of 'steroic'"
+        ],
+        "answer": "Geometry Dash",
+        "reaction": "only memories with just menu theme..."
+      },
+      {
+        "day": 25,
+        "title": "What is this Pokemon VI",
+        "difficulty": "Mankey",
+        "solved": false,
+        "cDay": "Ou Ou A A",
+        "sYear": 0,
+        "specialMess": "Mankey",
+        "enigma": "Mankey",
+        "link": "https://drive.google.com/drive/u/1/folders/1YVFAFlEetKL7EnFxBLNcTahEhRIlqHJ-",
+        "hints": [
+          "Mankey, but Fire",
+          "Mankey, but gen4"
+        ],
+        "answer": "Chimchar",
+        "reaction": "Mankey"
+      },
+      {
+        "day": 26,
+        "title": "Guess the creature VIV",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "25/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "what a cute looking p-",
+        "link": "https://drive.google.com/drive/u/1/folders/1cAC0zF6n5Tvvlqxv9PyUw__-iiEu2aIe",
+        "hints": [
+          "no need to go to details about exact species"
+        ],
+        "answer": "parrot",
+        "reaction": "hope next time be aware for your ears, hhh"
+      },
+      {
+        "day": 27,
+        "title": "Guess the game VIV",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "25/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "when you level up, this little sound will be heard",
+        "link": "https://drive.google.com/drive/u/1/folders/1BrYHC6LKyWgtVQ6GDaCxD4P1PxfglSUh",
+        "hints": [
+          "without a joke, more than half of humanity knows this game, especially toddlers",
+          "the game that never gets any older"
+        ],
+        "answer": "Minecraft",
+        "reaction": "their sounds all are nostalgic to me, the game never gets old"
+      },
+      {
+        "day": 28,
+        "title": "What is this Pokemon VII",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "25/06/2025",
+        "sYear": 0,
+        "specialMess": "We need to end the series of Pokemon with a special one, shall we? hhh",
+        "enigma": "round and smoll, loves roaming through grass and make everything grateful in her surroundings",
+        "link": "https://drive.google.com/drive/u/1/folders/1s4kGbwwW8i5f7XkzKUl__64c1FTXvA2z",
+        "hints": [
+          "you know yourself...right ?"
+        ],
+        "answer": "Shaymin",
+        "reaction": "I may or not have gave way more hints by just introducing the sound, hhh"
+      },
+      {
+        "day": 29,
+        "title": "Guess the creature X",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "25/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "The creature might be a feature, where the creature featuring a... feature",
+        "link": "https://drive.google.com/drive/u/1/folders/1tDPo_wTnfK_-R8upviBgT-ndj_fORPQS",
+        "hints": [
+
+        ],
+        "answer": "Windows XP",
+        "reaction": "warned you since recent creature challenge for your ears, hhhh"
+      },
+      {
+        "day": 30,
+        "title": "Finding the Source",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "25/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Let's end this month with something interesting, I am gonna give you a reel sound, you need to give it's insta url, that's all you have !! good luck :3",
+        "link": "https://drive.google.com/drive/u/1/folders/1xmazXUFBb5SQlIqFqT_eYgLV-vUH1Vbf",
+        "hints": [
+          "It's a reel I already sent you"
+        ],
+        "answer": "https://www.instagram.com/p/DB4W_fnyvP8/",
+        "reaction": "You did it!!! You mastered the skill of hearing and hunting !!!"
       }
     ]
   },
