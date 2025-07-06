@@ -1,5 +1,515 @@
 [
   {
+    "month": 1,
+    "solvedOne": false,
+    "name": "January",
+    "Theme": "Universe",
+    "days": [
+      {
+        "day": 1,
+        "title": "Let a once-in-life journey begin",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "03/07/2025",
+        "sYear": 0,
+        "specialMess": "Welcome and hello !! if it's your first time being here and you are surprised what just happened in midnight, then I have successfully gifted this Moon quest to you. Anyways, hope you enjoy it and let me reexplain how this works, as the story said, the Moon got cracked into shards because of Space&Time Rift, now each shard could be visited on Earth's atmosphere on a specific day once per year, the other details were already shown in Canva why are there challenges related to each of them. the card you're reading in called special message, if the day is special enough or I needed to share something outside of the challenge itself shall be written here, optional to skip, but yeah, you can read those only once per year :3",
+        "enigma": "This is the card for the challenge itself to bring back the shard to you and collect it, some challenges are Science facts related, Enigma related, autistically related, many varieties that you will experience all by yourself !!! the shards are part of a crescent, and each creascent has a theme and got split in its month, so in conclusion. Each month will possess a theme on its challenges, good luck finding them out :3 ( they are also revealed on upper page with the date ). The challenge can have a link and hints, when a link is given is usually meaning the text here is not enough to express the challenge. Now to get this tutorial shard, try to go to link to find the flag for this challenge and get your first shard !!",
+        "link": "https://drive.google.com/drive/u/1/folders/1DQY-cxz_p9N-7TIq4ACSYCBVYuSQ6pmo",
+        "hints": [
+          "This is hint n°1 !!",
+          "This is hint n°2 !!"
+        ],
+        "answer": "MoonQuestCTF{l3t_y0ur_m00n_q35t_j0urn3y_b3g1n}",
+        "reaction": "Hope you can start the new year happily with this gift nchllh"
+      },
+      {
+        "day": 2,
+        "title": "Miraculous Seven",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "03/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "There exists a rare phenomenon visible through our telescope where some known 7 objects aligne perfectly in space, what is the name of this phenomenon that occurs roughly once per 15 years ?",
+        "link": "",
+        "hints": [
+          "the seven objects are the 7 visible planets of our solar system ( Mercury , Venus, Mars, Jupiter, .... )"
+        ],
+        "answer": "Planetary Parade",
+        "reaction": "Wonder if there would be a day we can witness it!!"
+      },
+      {
+        "day": 3,
+        "title": "bullying a password",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "03/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Black Hole had an account to for planet and star delivery to him, but some hecker managed breach the database and stole his hashed MD5 password: '710748256d487004aa0c1e59be6da1ec', I wonder if it could be breached",
+        "link": "",
+        "hints": [
+          "I wonder if a cat can hash",
+          "there are also useful online tools, like hash killer, you also know the algo, you can do it!!!"
+        ],
+        "answer": "blackhole14",
+        "reaction": "Black hole was not happy that someone stole all of his informations of the planets and stars he ate!!!"
+      },
+      {
+        "day": 4,
+        "title": "Word Wide Universe",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "03/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "The Universe is full of surprises, Sub7analah, if you see the observable from afar, you will see Stars, glaxies, clusters interconnectiong between them like the Internet, name this miraculous phenomenon",
+        "link": "",
+        "hints": [
+          
+        ],
+        "answer": "Cosmic web",
+        "reaction": "it also looks like neurons in our brains, Sub7anallah"
+      },
+      {
+        "day": 5,
+        "title": "Quantusanity",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "03/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "in naked eyes, if we put an object and then we block the vision with something, it should be hidden. However, if we block the vision with a massive mass, the object will be seen, insane but yeah, name this phenomenon ",
+        "link": "https://www.hku.hk/f/news/26056/900p600/Fig1a.png?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news",
+        "hints": [
+          "it contains two words, one that has intensity proportional with its mass"
+        ],
+        "answer": "Gravitational Mirages",
+        "reaction": "it's pretty insane how can something so massive has ability to bend light itself"
+      },
+      {
+        "day": 6,
+        "title": "Last survivor",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "03/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Imagine, a universe so alive would surely come to an end, but have you ever thouht what objects that last the longest, in the middle of all darkness, it roams around silently without even be heard or seen, a phobia that I also posses",
+        "link": "",
+        "hints": [
+          "The one that consumed light itself, only with gravitaional miraged would be seen"
+        ],
+        "answer": "Black hole",
+        "reaction": "these objects are the only ones that makes me amazed and terrified by them"
+      },
+      {
+        "day": 7,
+        "title": "never underestimate short ones",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "03/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I don't know if you already seen this your sibling Star, but it couldn't even be compared to a normal star, her width is barely 20-30km. However, It's so dense due to an old Star collapse that a teaspoon out of it weighs more than billions of tons... ",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "Neutron Star",
+        "reaction": "This star is so scary in mass, so never underestimate size for what their inner hiding..."
+      },
+      {
+        "day": 8,
+        "title": "Kaboom ?",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "03/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "I love that in the end of life of a star, it's be like: 'Oh, I gess gravity is winning over me, guess I will collapse and Kaboom', it will either leave dust to it's how star system and generate planets and more stars, or the collapse is failed it becomes a neutron star, OR, the collapse is so big that Star evolves into black hole... Anyways, name this Kaboom collapse",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "Supernova",
+        "reaction": "More Kabooms incoming in next days"
+      },
+      {
+        "day": 9,
+        "title": "Really big Kaboom?",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "03/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Now imagine this, you have a star of a mass about 30 times of the Sun, called supermassive stars, now imagine these will have an end of life and collapse, their explosions are 100 greater then yesterday's answer...",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "Hypernova",
+        "reaction": "They could even result creating massive dangerous black holes..."
+      },
+      {
+        "day": 10,
+        "title": "Extreme powerful merge",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "03/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "if you studied shards of recent days, you already know how much powerful Neutron stars and black hole could be, now imagine a ridiculous thought, what if they meet and merge, it already happened...a powerful astronomical event that occurs when two neutron stars or a neutron star and a black hole collide and merge, producing a bright burst of light across the electromagnetic spectrum, they can even create gold and platinum themselves, elements that needs intense energy to form out of nothing!!!!",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "Kilonova",
+        "reaction": "The merge was so powerful that it enlighten the whole world for black hole :3"
+      },
+      {
+        "day": 11,
+        "title": "the unscalable burst of death",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "did you ask this question once in your life? what is the most known deadliest unimaginable thing in the universe? well, I got you a challenge for today to know it. This event is thought to be associated with the formation of black holes or Due to Kilonova occuring and they are incredibly bright, sometimes outshining entire galaxie, While incredibly bright, they are also very brief, lasting from milliseconds to minutes. And... if it passed just even far away from us, like REALLY FAR AWAY FROM US, thousands light years let's say , it will wipe out the entire life on Earth, a truly terrifying energy",
+        "link": "",
+        "hints": [
+          "three words, the event is known to you I think"
+        ],
+        "answer": "Gamma ray burst",
+        "reaction": "but why did I witness something shinier in my lif-"
+      },
+      {
+        "day": 12,
+        "title": "if black hole chooses violence",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Now imagine black hole, imagine him now hold a gun laser, yeah but no kidding, hhh. There exists asome black holes where they deject huge energy rays from his two poles, they are also super bright, these black holes have a specific name",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "Quasar",
+        "reaction": "oh yeah, if also these rays passes just few light years away, bye bye Earth"
+      },
+      {
+        "day": 13,
+        "title": "path of chocolate",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "How can you name a road where milk trucks pass through?",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "milky way",
+        "reaction": "should I be ready to be dad, did I pass dad joke exam?"
+      },
+      {
+        "day": 14,
+        "title": "Quantum principle",
+        "difficulty": "Hard",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Now here's a small Quantum physics lesson, the most important principle, two known properties were found to be equivalent : XXXX<=>YYYY , the more object has mass, the more XXXX he has , and the more XXXX exists, the more YYYY flows fastly. Write XXXX<=>YYYY principle",
+        "link": "",
+        "hints": [
+          "a second besides black hole is almost 50 years on Earth"
+        ],
+        "answer": "Gravity<=>Time",
+        "reaction": "Interstellar is a good film to interpret it well"
+      },
+      {
+        "day": 15,
+        "title": "Miraculous planet",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Many exoplanets were found to have potentiel of life, but also some moons could have this property, there exists a planet on our solar system that has the most moons with this potential out of all other planets, name it",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "Saturn",
+        "reaction": "Coincidence? I think not, hhh"
+      },
+      {
+        "day": 16,
+        "title": "biggest ring worth the gift for",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Saturn does posses a beautiful ring that you already own, but I am not yet satisfied, is there somewhere in Universe where I can find the biggest known ring I can gift her for...",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "J1407b",
+        "reaction": "Naaah, still not enough"
+      },
+      {
+        "day": 17,
+        "title": "Speedrun orbit",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Earth takes about 364 days to make a tour around its star, Mercury needs 88 days. However, there's an exoplanet somewhere in observable Universe that just needs not 10 days, not 5 days, but just 8 hours to orbit its star, name this little speedrunner",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "GJ 367 b",
+        "reaction": "if you were to take this project on that planet, it would be just 1/4 day long, hhh"
+      },
+      {
+        "day": 18,
+        "title": "Perfect combination",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "XXX&YYY have an interesting factor between them, The XXX's diameter is ~400 times larger then YYY's diameter, but it's also ~400 times farther away, making these two perfect combination for astronomical beautiful enlignment. name XXX&YYY",
+        "link": "",
+        "hints": [
+          "you can stay in solar system for this one, hhh"
+        ],
+        "answer": "Sun&Moon",
+        "reaction": ":3"
+      },
+      {
+        "day": 19,
+        "title": "Teleportation",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "In Quantum physics, teleportation does really exist, where two opposite rotational particles can share same information even when put on extreme sides of Universe, so if we bound to share this tunnel between two group of particles( which is instantinious ), you create teleportation !!! name this phenomenon ",
+        "link": "",
+        "hints": [
+        
+        ],
+        "answer": "Quantum tunneling",
+        "reaction": "Quantum physics couldn't be any weirder, right... right?"
+      },
+      {
+        "day": 20,
+        "title": "Year calibration",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Answer with the exact number how long the orbit of Earth around the Sun in days",
+        "link": "",
+        "hints": [
+          "each four years, a day is added in the year for some reason"
+        ],
+        "answer": "365.25",
+        "reaction": "this explains why in Islam follow Moon time because of its accurate precision"
+      },
+      {
+        "day": 21,
+        "title": "Survival instincts",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Have you tried to imagine if there's any bio-multi-cellular creature on Earth that can resist to outer space with its coldness and heat? well, there's a surprinsing one, he can handle space pressure without atmosphere, radioactive wave rays, extreme heat and coldness and even survives in a vacuum space, name this creature with extreme survival",
+        "link": "",
+        "hints": [
+
+        ],
+        "answer": "tardigrade",
+        "reaction": "I remember seeing a post about it thinking it was a fake, hhh"
+      },
+      {
+        "day": 22,
+        "title": "a particle or a wave",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "The universe hides many mysteries that seems to us normal, for example, if you think about it, Light, is it composed as element/particle, because it interacts with our world, holding even energy, OR is it a wave due to how it's spreading, BUT a crazy person said once: 'It's a wave and a particle at the same time', name this Shrodinger particle",
+        "link": "",
+        "hints": [
+          "the crazy person is Einstein, proving after that E = M.C²"
+        ],
+        "answer": "photon",
+        "reaction": "Quantum physics is also filled with many twisted plot twists lol"
+      },
+      {
+        "day": 23,
+        "title": "Pokemon with Unique technique",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "There exists some Pokemon with a unique trait. it will do anything if its trainer is in danger, putting itself at risk by creating even a black hole to protect the trainer, state this protective Pokemon who can create a black hole !!!!",
+        "link": "",
+        "hints": [
+          "it has same color themes as Shaymin"
+        ],
+        "answer": "Gardevoir",
+        "reaction": "This Pokemon also looks like an evolution of Shaymin, hhh"
+      },
+      {
+        "day": 24,
+        "title": "Beyond and Beyond",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Physicists has been thinking a long time ago that Protons, Electrons, Neutrons were the smallest things in the Universe, and then yet again, life proved them wrong, these extremely small particules are also composed with other extreme extremely small particules!!!",
+        "link": "",
+        "hints": [
+          "what the duck say"
+        ],
+        "answer": "quarks",
+        "reaction": "there are also Bozons, but that's for another yapping session, hhh"
+      },
+      {
+        "day": 25,
+        "title": "How to heal oneself",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "This shard is holding a dream, a dream where it can use the universe sky as a way to heal itself, I also heard it's more impactful when someone does it besides you!!! name this activity for this shard",
+        "link": "",
+        "hints": [
+          "it's better when done at night with a clear sky on a plain grass"
+        ],
+        "answer": "Stargazing",
+        "reaction": "One day it will come nchllh"
+      },
+      {
+        "day": 26,
+        "title": "Time Traveler",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "Do you remember I sent you a photo of a hint of this challenge itself ? hhh",
+        "enigma": "This day is spoken to comemorate the journey of a little purple time traveler, Stories tell that she travels from space to space, from time to time, fixing problems and calamities that humans could not forseek or even aware of, a true hero working on the background. Once there was a blue wizard who dedicated his whole life to build her a home and temple that suits her status, because he recognised the sheer ammount of hardwork she puts everyday without anyone noticing, he knows she went through much, which is why he wished he could at least gift her a home where she can peacefully rest, a place independant from Time and Space. This purple traveler had the full name as...",
+        "link": "",
+        "hints": [
+          "her origin name was in Korean"
+        ],
+        "answer": "보라색 별빛",
+        "reaction": "folks say she is trying now to fix the moon itself shatered to pieces..."
+      },
+      {
+        "day": 27,
+        "title": "Hidden gift",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Moon wanted to give away more gifts to the bright sunshine, but he knew she would refuse, so he just said she can just hand it over and if she finishes using it, she would give it back. Three more words to hint the answer: Book/Universe/SouthEast",
+        "link": "",
+        "hints": [
+          "Maybe a book related to Universe?",
+          "South East could mean a direction should be followed on cover book"
+        ],
+        "answer": "FLEURUS",
+        "reaction": "my trick worked, you are owning the book, hehehe"
+      },
+      {
+        "day": 28,
+        "title": "Optical failure",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "There was a really big project to develop a scope where it can visualise distinct galaxies way afar, but it had a big failure during lunch. Name this telescope",
+        "link": "",
+        "hints": [
+          "During, 2CP, some teacher recommended watching a documentary about it"
+        ],
+        "answer": "Hubble",
+        "reaction": "I recommend watching the documentary of its history, pretty interesting !!!"
+      },
+      {
+        "day": 29,
+        "title": "Naruto particle",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "In November 2023, scientists from the Telescope Array Project in Utah detected an extremely high-energy cosmic ray.It was a discovery to find One of the most energetic cosmic rays ever detected, with an energy of about 244 Eev ( a really big energy for a particle!!! E = 10^18 , to put you into perpective, 1ev is the simple energy to Electron, THIS ONE HAS 10^18*224 SAME AMMOUNT WITH THE SAME DIMENSIONS). Find the name if this ray particle",
+        "link": "",
+        "hints": [
+          "Sasuke was silent since the name was dropped",
+          "XXXX particle as a full answer"
+        ],
+        "answer": "Amaterasu particle",
+        "reaction": "Yeah, physiscists nailed the naming, he was a Naruto fan, hhh"
+      },
+      {
+        "day": 30,
+        "title": "Sun outshine anything",
+        "difficulty": "Medium",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Look at the picture on that link, sounds like just a pixelated form of Sun, but there's a plot twist: This photo was taken at night while the camera facing down, facing Earth!!! Which means they captured not the photons, but particles barely interactable, but the Sun managed to do it but not the Earth, name these ghostly particles",
+        "link": "https://apod.nasa.gov/apod/image/9806/neusun1_superk.jpg",
+        "hints": [
+
+        ],
+        "answer": "neutrinos",
+        "reaction": "Our world is full of mysteries"
+      },
+      {
+        "day": 31,
+        "title": "Shard Lost in Time and Space",
+        "difficulty": "Really Hard",
+        "solved": false,
+        "cDay": "05/07/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "A shard was going to be seen today to capture, but something is wrong... the shard may have drifted away to a distorted space where time is meaningless, the only information you have is he got driven to 14/14 as a time...",
+        "link": "",
+        "hints": [
+          "Not enough information? it might mean you need to wait another shard to give you some more valuable information...",
+          "Does a calendar has a meaningful time when you walk through it"
+        ],
+        "answer": "TimeTravelCTF{l05t_1n_5p4c3T1m30}",
+        "reaction": "you saved him, yaaaay !!! ( I wonder how much years have passed, hhh )"
+      }
+
+    ]
+  },
+  {
     "month": 2,
     "solvedOne": false,
     "name": "February",
@@ -458,7 +968,7 @@
         "solved": false,
         "cDay": "08/06/2025",
         "sYear": 0,
-        "specialMess": "",
+        "specialMess": "Fun fact: you can witness this shard only once per 4 years :3",
         "enigma": "We rescued Sunshine!!! The message was well received and decrypted by our higher admiral 'CinammonRoll' and he provided us the best rescue team, but... I am seeing in the far north the worst enemy, Oscar... I heard he can decrypt literally anything, he even decrypted my message I sent to my admiral about our localisation, he has the perfect intel and brute force techniques to do that. I need to send one final message to my chef:'Going East.14.7.174 at dawn 07:14', but how can I send this with Oscar intercepting everything... I heard he's blind tho, and my admiral is not far away, hmmm... maybe I can ask princess to help me send the message using her ray of lights, is there a useful code to be able to comminucate with light with my chef?",
         "link": "",
         "hints": [
@@ -467,7 +977,7 @@
           "maybe binary language could help us here"
         ],
         "answer": "--. --- .. -. --. / . .- ... - .-.-.- .---- ....- .-.-.- --... .-.-.- .---- --... ....- / .- - / -.. .- .-- -. / ----- --... ---... .---- ....-",
-        "reaction": "after the long journey, Oscar couldn't see our message and sunshine was returned safely to her homeland, GLORY TO SUNSHINE, YATAAAAAAAA"
+        "reaction": "after the long war, Oscar couldn't see our message and sunshine was returned safely to her homeland, GLORY TO SUNSHINE, YATAAAAAAAA"
       }
     ]
   },
@@ -2192,14 +2702,14 @@
         "solved": false,
         "cDay": "03/05/2025",
         "sYear": 0,
-        "specialMess": "",
+        "specialMess": "in memorial for this special day, Thanks for giving me the enlightment that this day 14/07 does exist, so even tho all flowers are special, today's flower is really special :3",
         "enigma": "This Flower symbolizes a long life and lasting happiness as it represents Sun itself (*cough *cough just like the one reading it, *cough *cough)",
         "link": "",
         "hints": [
           "seeing the title and the day number, isn't the answer a bit obvious ..."
         ],
         "answer": "Sunflower",
-        "reaction": "Did you know they are also source for oil ?"
+        "reaction": "Can I gift this to you on 14/07 on the day of our we-"
       },
       {
         "day": 15,
@@ -4502,7 +5012,7 @@
     "month": 12,
     "solvedOne": false,
     "name": "December",
-    "Theme": "Sun and Moon",
+    "Theme": "Sun&Moon",
     "days": [
       {
         "day": 1,
