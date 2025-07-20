@@ -76,6 +76,10 @@ app.get('/api/quiz/:month/:day/solve/:year', (req, res) => {
   dayData.solved = true ;
   dayData.sYear = year; //which year was solved
 
+  if(monthData.solvedOne === false) {
+    monthData.solvedOne = true; // Mark the month as solved if it's the first solved day
+  }
+
   saveData(data);
 
   res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
@@ -95,6 +99,15 @@ app.get('/api/quiz/:month/:day/unsolve', (req, res) => {
   if (!dayData) return res.status(404).send({ error: "Day not found" });
 
   dayData.solved = false ;
+  dayData.sYear = 0; // Reset the year when unsolved
+
+  //find the month and check if it has any solved days left
+  const hasSolvedDays = monthData.days.some(d => d.solved);
+  if (!hasSolvedDays) {
+    monthData.solvedOne = false; // Mark the month as not solved if no days are solved
+  }
+
+
   saveData(data);
 
   res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
