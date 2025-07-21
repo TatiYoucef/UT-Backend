@@ -8,13 +8,16 @@ app.use(cors());
 
 const filePath = './data/quiz.json';
 const leakedPath = './data/leaked.json';
+const achievementsPath = './data/achievements.json';
 
 // Load JSON data
 const loadData = () => JSON.parse(fs.readFileSync(filePath, 'utf8'));
 const loadLeakedData = () => JSON.parse(fs.readFileSync(leakedPath, 'utf8'));
+const loadachievementsData = () => JSON.parse(fs.readFileSync(achievementsPath, 'utf8'));
 
 // Save JSON data
 const saveData = (data) => fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
+const saveAchievementsData = (data) => fs.writeFileSync(achievementsPath, JSON.stringify(data, null, 2), 'utf8');
 
 // Get leaked data
 app.get('/api/leaked', (req, res) => {
@@ -73,6 +76,12 @@ app.get('/api/quiz/:month/:day/solve/:year', (req, res) => {
   const dayData = monthData.days.find(d => d.day === day);
   if (!dayData) return res.status(404).send({ error: "Day not found" });
 
+  if(!dayData.solved) {
+    achieveData = loadachievementsData();
+    achieveData.nbrSolved++; // Increment the number of solved quizzes
+    saveAchievementsData(achieveData);
+  }
+
   dayData.solved = true ;
   dayData.sYear = year; //which year was solved
 
@@ -112,6 +121,117 @@ app.get('/api/quiz/:month/:day/unsolve', (req, res) => {
 
   res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
   res.send(JSON.stringify({ message: "Quiz marked as unsolved", dayData }, null, 2));
+});
+
+// Get achievements
+app.get('/api/achievements', (req, res) => {
+  const data = loadachievementsData();
+
+  res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
+  res.send(JSON.stringify(data, null, 2)); // Pretty-print with 2 spaces
+});
+
+// set nbr of solved quizzes
+app.get('/api/achievements/nbrSolved/:nbr', (req, res) => {
+  const nbr = parseInt(req.params.nbr);
+  const data = loadachievementsData();
+
+  if (isNaN(nbr) || nbr < 0) {
+    return res.status(400).send({ error: "Invalid number of solved quizzes" });
+  }
+
+  data.nbrSolved = nbr;
+  saveAchievementsData(data);
+
+  res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
+  res.send(JSON.stringify({ message: "Number of solved quizzes updated", nbrSolved: nbr }, null, 2));
+});
+
+// set current streak
+app.get('/api/achievements/streak/:nbr', (req, res) => {
+  const nbr = parseInt(req.params.nbr);
+  const data = loadachievementsData();
+
+  if (isNaN(nbr) || nbr < 0) {
+    return res.status(400).send({ error: "Invalid number of Streaks" });
+  }
+
+  data.Streak = nbr;
+  if(nbr > data.BestStreak) data.BestStreak = nbr; // Update BestStreak if current streak is greater
+  if(nbr === 0) data.BrokenStreak = true; // If current streak is 0, mark as broken streak
+
+  saveAchievementsData(data);
+
+  res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
+  res.send(JSON.stringify({ message: "Current Streak updated", nbrSolved: nbr }, null, 2));
+});
+
+// set best streak
+app.get('/api/achievements/bestStreak/:nbr', (req, res) => {
+  const nbr = parseInt(req.params.nbr);
+  const data = loadachievementsData();
+
+  if (isNaN(nbr) || nbr < 0) {
+    return res.status(400).send({ error: "Invalid number of Streaks" });
+  }
+
+  data.BestStreak = nbr;
+  saveAchievementsData(data);
+
+  res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
+  res.send(JSON.stringify({ message: "Best Streak updated", nbrSolved: nbr }, null, 2));
+});
+
+// set nbr of failures
+app.get('/api/achievements/nbrFails/:nbr', (req, res) => {
+  const nbr = parseInt(req.params.nbr);
+  const data = loadachievementsData();
+
+  if (isNaN(nbr) || nbr < 0) {
+    return res.status(400).send({ error: "Invalid number of Fails" });
+  }
+
+  data.nbrFailures = nbr;
+  saveAchievementsData(data);
+
+  res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
+  res.send(JSON.stringify({ message: "Fails updated", nbrSolved: nbr }, null, 2));
+});
+
+// set broken streak
+app.get('/api/achievements/brokenStreak/:status', (req, res) => {
+  const status = req.params.status === 'true';
+  const data = loadachievementsData();
+
+  data.BrokenStreak = status;
+  saveAchievementsData(data);
+
+  res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
+  res.send(JSON.stringify({ message: "Broken Streak updated", BrokenStreak: status }, null, 2));
+});
+
+// set early bird status
+app.get('/api/achievements/earlyBird/:status', (req, res) => {
+  const status = req.params.status === 'true';
+  const data = loadachievementsData();
+
+  data.EarlyBird = status;
+  saveAchievementsData(data);
+
+  res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
+  res.send(JSON.stringify({ message: "EarlyBird updated", EarlyBird: status }, null, 2));
+});
+
+// set night owl status
+app.get('/api/achievements/nightOwl/:status', (req, res) => {
+  const status = req.params.status === 'true';
+  const data = loadachievementsData();
+
+  data.NightOwl = status;
+  saveAchievementsData(data);
+
+  res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
+  res.send(JSON.stringify({ message: "NightOwl updated", NightOwl: status }, null, 2));
 });
 
 // Start server
