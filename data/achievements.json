@@ -5,5 +5,5 @@
   "nbrFailures": 10,
   "BrokenStreak": false,
   "EarlyBird": false,
-  "NightOwl": false
+  "NightOwl": true
 }
