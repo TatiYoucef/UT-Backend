@@ -12,7 +12,7 @@
         "solved": false,
         "cDay": "03/07/2025",
         "sYear": 0,
-        "specialMess": "Welcome and hello !! if it's your first time being here and you are surprised what just happened in midnight, then I have successfully gifted this Moon quest to you. Anyways, hope you enjoy it and let me reexplain how this works, as the story said, the Moon got cracked into shards because of Space&Time Rift, now each shard could be visited on Earth's atmosphere on a specific day once per year, the other details were already shown in Canva why are there challenges related to each of them. the card you're reading in called special message, if the day is special enough or I needed to share something outside of the challenge itself shall be written here, optional to skip, but yeah, you can read those only once per year :3",
+        "specialMess": "Welcome and hello !! if it's your first time being here and you are surprised what just happened in midnight, then I have successfully gifted this Moon quest to you. Anyways, hope you enjoy it and let me reexplain how this works, as the story said, the Moon got cracked into shards because of Space&Time Rift, now each shard could be visited on Earth's atmosphere on a specific day once per year, the other details were already shown in Canva why are there challenges related to each of them. the card you're reading in called special message, if the day is special enough or I needed to share something outside of the challenge itself shall be written here, optional to skip, but yeah, you can read those only once per year :3. PS: Some plans got changed and it seems that you started on September, Whoops...",
         "enigma": "This is the card for the challenge itself to bring back the shard to you and collect it, some challenges are Science facts related, Enigma related, autistically related, many varieties that you will experience all by yourself !!! the shards are part of a crescent, and each creascent has a theme and got split in its month, so in conclusion. Each month will possess a theme on its challenges, good luck finding them out :3 ( they are also revealed on upper page with the date ). The challenge can have a link and hints, when a link is given is usually meaning the text here is not enough to express the challenge. Now to get this tutorial shard, try to go to link to find the flag for this challenge and get your first shard !!",
         "link": "https://drive.google.com/drive/u/1/folders/1DQY-cxz_p9N-7TIq4ACSYCBVYuSQ6pmo",
         "hints": [
@@ -866,7 +866,7 @@
         "sYear": 0,
         "specialMess": "",
         "enigma": "Someone keep sending secrets using simply Xor with a binray alternate key ( repetitive 10101010.... ) but when I decrypt I still find a weird message, not a secret, what is he doing to his message before encrypting it ??? See the link for C and the key K ",
-        "link": "",
+        "link": "https://drive.google.com/drive/folders/1w_ifpEteysJ_pA4k4tu8NLDdPGMsKO4C",
         "hints": [
           "hmmm, what a weird gray problem",
           "maybe he didn't like the standard binary version of his characters"
@@ -928,453 +928,475 @@
     "month": 3,
     "solvedOne": false,
     "name": "March",
-    "Theme": "Cats",
+    "Theme": "Chaos",
     "days": [
       {
         "day": 1,
-        "title": "Favourite cat",
+        "title": "mysterious pattern",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "11/07/2025",
+        "cDay": "13/06/2025",
         "sYear": 0,
-        "specialMess": "Who would have thought there would be cats related to this journey? hhh. A moon without the Sun or cats is a mere floating rock",
-        "enigma": "Name me the cat of decade for me when I was studying in ESI (just in case you reading this after graduation, hhh). the cat was so lovely that you adopted him as your son",
+        "specialMess": "Welcome to chaotic month !!! where I had no idea where to put these challenges, hhh. So, you gonna not expect what's expected, and you could expect the unexpected, as all things said, may this randomness be fun in your journey",
+        "enigma": "a + z = 97122 , z + a = 71229 , b + c = 6362 , t + a + t + i = 10511697116 , o + u + a + d + i = ?",
         "link": "",
         "hints": [
-          "it's colorful, sometimes sends me angry jealousy towards me...."
+          "a simple gesture is done for each operation",
+          "order of equalities does affect the result"
         ],
-        "answer": "Niwa",
-        "reaction": "Niiiiiwaaaa, I do really wanna own him as our cat ( yes, I said 'our', not 'my'), hhh"
+        "answer": "01051111179710",
+        "reaction": "I knew you would find the pattern, hhh"
       },
       {
         "day": 2,
-        "title": "Medecine to humans",
+        "title": "the secret IP",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "11/07/2025",
+        "cDay": "13/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Cats are not just creatures that entertain humans, it's more than that. Cats have an effect that if they do it, they lower blood pressure and stress and heals humans besides it. what is this cure that cats posess to make the effects  happen? ",
+        "enigma": "Based on your PTSD knowledge, could you find what IP adress of the server hosting UnfazedTime. Due to some confusing results, I will let you know that it's X.X.X.4 ",
         "link": "",
         "hints": [
-          "It's more effective if you hug your cat while he's making this cure",
-          "if there's ambiguity, it ends with suffix 'ing'"
+          "DNS of Google is pretty interesting"
         ],
-        "answer": "purring",
-        "reaction": "if you get to witness this ability every day, I am sure your health will stay intact inchallah, hhh"
+        "answer": "216.24.57.4",
+        "reaction": "unfortunately the server won't give you authority if reached by only IP"
       },
       {
         "day": 3,
-        "title": "Cat families I",
-        "difficulty": "Medium",
+        "title": "Leaked Data",
+        "difficulty": "Easy",
         "solved": false,
-        "cDay": "11/07/2025",
+        "cDay": "13/06/2025",
         "sYear": 0,
-        "specialMess": "Welcome to cat families Category !!! there are 10 shards you can collect in this month by only guessing what breed is a cat by only seeing their photos. I am sure you will also gain experince for some breeds how are they named!!!",
-        "enigma": "Go to the link, analyse the photos of cats that shares the same breed name.",
-        "link": "https://drive.google.com/drive/u/1/folders/1hGdXyt3e3IzLl_z24xje12pXotYoh5I4",
+        "specialMess": "",
+        "enigma": "Oh No !!! Someone spilled coffe on my backend server, now some data has been leaked, I hope nobody realises it....",
+        "link": "https://drive.google.com/drive/u/1/folders/1ojQ5XOsOlqiCm0v71MhIJgXsBsu2847k",
         "hints": [
-          "this one has two words, first one is related to its region origin"
+          "Remember Byul's story ? I think it's the same name temple"
         ],
-        "answer": "Thai Siamese",
-        "reaction": "'they are known for their loyal and affectionate nature' - quote"
+        "answer": "SecretVaultKey",
+        "reaction": "Ahhh you also stole my reaction, then I won't react, hhh"
       },
       {
         "day": 4,
-        "title": "Company with a loner",
-        "difficulty": "Easy",
+        "title": "What is this Pokemon?",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "11/07/2025",
+        "cDay": "13/06/2025",
         "sYear": 0,
-        "specialMess": "",
-        "enigma": "back in the first years of ESI, I usually go back alone to home on first half road, then I wait for someone to pick me up. While I am waiting, I usually find cats wait with me or even play, hhh, I shared one of the photos on the Link. what is the place that this photo taken where I usually wait",
-        "link": "https://drive.google.com/drive/u/1/folders/1UZpIn-RtYzeSm3dTHnTpC_78HNl2-2sI",
-        "hints": [
-          "I usually use Metro to go to the checkpoint"
-        ],
-        "answer": "Ruisseau",
-        "reaction": "thanks to them I can pass time without feeling lonely, El7emdoulillah"
+        "specialMess": "I may or not left some pokemon challenges in this month...",
+        "enigma": "My favourite Gen5 Pokemon, grass/fairy type, fluffy and cute, a hint image was put in link",
+        "link": "https://drive.google.com/drive/folders/145udZOa63TmYI46i7eCVB9yANfcfbOu_",
+        "hints": [],
+        "answer": "Whimsicott",
+        "reaction": "ahhhhhh, my sweety Whimsicott, LJNXLXZNLKXNLZ"
       },
       {
         "day": 5,
-        "title": "Fingerprint of cats",
+        "title": "Priviledge absurdity",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "11/07/2025",
+        "cDay": "13/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "I wonder if there is a part on cats that can athentificate uniquely that cat on others",
-        "link": "",
-        "hints": [],
-        "answer": "nose",
-        "reaction": "It was a weird fact for me, soo I really don't know how to put it as a challenge, hhh"
+        "enigma": "I putted my flag on this doc, and yet I feared for some hackers would get it from me, now I changed it its location to a more secure place, *phew...",
+        "link": "https://drive.google.com/drive/u/1/folders/1l1SHvEyVnLqSyFMZTvB47fxZmsQpTyRP",
+        "hints": [
+          "Before is is is, is was was"
+        ],
+        "answer": "SecretCTF{r34lly_s3cr3t_4nd_f0rg0tt3n}",
+        "reaction": "Ayyy, as expected from our chief hacker of the seas, hhh"
       },
       {
         "day": 6,
-        "title": "Cat families II",
-        "difficulty": "Medium",
+        "title": "Among us",
+        "difficulty": "Hard",
         "solved": false,
-        "cDay": "11/07/2025",
+        "cDay": "13/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "They have sharp long ears, with a body that seems fragile with small ammount of fur, sometimes their face gets memeable",
-        "link": "https://drive.google.com/drive/u/1/folders/1h922yyBxAS4CJuZuItmiEf3zDm5fgEaF",
+        "enigma": "do you remember MySQL ? cause you will need it here :3 . Basically if you remember DzFoot Database, a new player got added in but in the end he was an impostor, your objective is try to get the name of Impostor to find him. All data needed is in the link",
+        "link": "https://drive.google.com/drive/u/1/folders/1aXpMEEjKaTkehFFe7TfapUZKCYy1pA9s",
         "hints": [
-          "their face looks like a T-'Rex'"
+          "Many solutions could be done, most original is using MySQL itself"
         ],
-        "answer": "Cornish Rex",
-        "reaction": "they seem old that needs support all the time, I love them!!!"
+        "answer": "C1N4M0NR011",
+        "reaction": "I wonder if you expected SQL enigma would come here, hhh, well, it's chaotic theme :3"
       },
       {
         "day": 7,
-        "title": "Cat of wisdom and annoyance",
+        "title": "Art hunting",
         "difficulty": "Medium",
         "solved": false,
-        "cDay": "11/07/2025",
+        "cDay": "13/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "There was a cat I witnessed in ESI that may have annoyed me. Using your telepathy and mouktassabate l9eblya, try to guess what did this Cat of Wisdom and annoyance sitted on to use as a throne",
-        "link": "",
+        "enigma": "a flag has been chased, but its exact location seems unknown, take the link to see its last trace",
+        "link": "https://drive.google.com/drive/u/1/folders/16VocU0zJc2BwLezeoKJ5vvMFMtzcf5bW",
         "hints": [
-          "he was known to you, same also for the silly story",
-          "I couldn't go studying because of his wise mind"
+          "'pdf files ARE PROHIBITED', bruh, boomer humor"
         ],
-        "answer": "backpack",
-        "reaction": "yeah anyways, he seemed kind enough to let me take it, hhh"
+        "answer": "artCTF{sm011_s1z3d_fl4g}",
+        "reaction": "yaay, I missed artCTFs"
       },
       {
         "day": 8,
-        "title": "Historical record",
-        "difficulty": "Easy",
+        "title": "Git gud",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "11/07/2025",
+        "cDay": "13/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "today's is a honorification for a cat that aged the most historically, name this cat",
+        "enigma": "a commit has been found on some shared project done long ago...",
         "link": "",
-        "hints": [],
-        "answer": "Creme Puff",
-        "reaction": "38 years... this is insane, sub7anallah"
+        "hints": [
+          "Done by team frontenders..."
+        ],
+        "answer": "memoryCTF{n0st41g1c_d4y5}",
+        "reaction": "those days were precious to me excluding the project itself, hhh"
       },
       {
         "day": 9,
-        "title": "Cat families III",
+        "title": "unlocking the secret's chamber",
         "difficulty": "Medium",
         "solved": false,
-        "cDay": "11/07/2025",
+        "cDay": "13/06/2025",
         "sYear": 0,
-        "specialMess": "",
-        "enigma": "They have the funniest looking face with wide cheeks that are so cute",
-        "link": "https://drive.google.com/drive/u/1/folders/1Ha7z_Px2hNwfaSL1fBEvx8KQ6kzLcwIR",
+        "specialMess": "Well, there are two possibilities when you reach here today, you either were so curious you found out about the secret link that archives all urls Drive I have been storing , or still couldn't figure out yet. I mean, if we think about it, you were since the beginning allowed to view and edit all those files while trusting you of course, but you never had a notification of shared access ? hmm",
+        "enigma": "The link for today is broken, so you had to find it manually. Find it and the flag for today's Enigma shall be yours",
+        "link": "https://youtu.be/dQw4w9WgXcQ?feature=shared",
         "hints": [
-          "two words, second one is characteristic about thei fur"
+          "it should be somewhere where both of us can access to",
+          "try to check your 'memories', I know it's around there"
         ],
-        "answer": "Exotic Shorthair",
-        "reaction": "look at their face, I wanna see them whole day, hhh"
+        "answer": "SecretCTF{r00t_v4ult_f0und}",
+        "reaction": "now you have the full power to check any other folder, damn..."
       },
       {
         "day": 10,
-        "title": "First time",
-        "difficulty": "Easy",
+        "title": "No pirate can't play chess",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "11/07/2025",
+        "cDay": "13/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "In this photo, you are witnessing my first time ever a cat sitted on my laps, the feeling was unforgettable for me. Name the place I were in",
-        "link": "https://drive.google.com/drive/u/1/folders/17fh2MFdqiD0yxnAfFj9qe8y9LW75MHTe",
+        "enigma": "A chess board exists in the link, but the solution is required in the white side, checkmate in 2 moves!!The password to the next challenge is the chess moves needed to make white wins in this format : Move1_Move2 (No need to write the black counter moves).You'll find also in link how to code chess moves",
+        "link": "https://drive.google.com/drive/u/1/folders/1dLvKwyY5UihYftaVGzTb8Gjee1IdRj98",
         "hints": [
-          "my bare feet might already gave you answer, hhh"
+          "Sacrifices are needed for better outcome"
         ],
-        "answer": "mosque",
-        "reaction": "he just came and sitted on me, did I finally converged to your magnet skill..."
+        "answer": "Qd8+_Re8#",
+        "reaction": "yaaaay, you did it !!!"
       },
       {
         "day": 11,
-        "title": "tricky manipulation",
+        "title": "Who am I",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "12/07/2025",
+        "cDay": "14/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Cats do hide a secret weapon within their, with they can manipulate their prey's mind that they are friendly, it was even seen sometimes mouses play with Cat as if it's a norm. It's kind of a parasite thet even humans can get infected with it but with no serious effects",
+        "enigma": "I am a number, I can consider myself an identifier for the whole promo Esi 2022, I appear unofficially only on a single platform, nobody cares about my existence, and yet without me, the conversation community wouldn't exist, who am I?",
         "link": "",
-        "hints": [],
-        "answer": "Toxoplasma gondii",
-        "reaction": "I wonder if we are already manupilated by a cat now, hhh"
+        "hints": [
+          "community conversation should be some social app",
+          "it might bean inderct ID, like of a group or something",
+          "can the app be accessible by other means to seek the ID of promo group"
+        ],
+        "answer": "1302013096398946355",
+        "reaction": "Niiiiiice, good job!!!"
       },
       {
         "day": 12,
-        "title": "Cat families IV",
+        "title": "sudo ku",
         "difficulty": "Medium",
         "solved": false,
-        "cDay": "12/07/2025",
+        "cDay": "14/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "their coat is filled with dotted patterns, usually their color is dark or grey, they have almost a round face",
-        "link": "https://drive.google.com/drive/u/1/folders/1Fqh18lKBMazOy2ScHcuHz5PIu_aE3dNg",
-        "hints": [
-          "this one has two words, first one is related to its region origin",
-          "the second word sounds like meow :3, hhh"
-        ],
-        "answer": "Egyptian Mau",
-        "reaction": "theyr are pretty common in Cat families"
+        "enigma": "I couldn't implement sudoku on website, so I wanna apologise over lack of experience in web dev, I hope if you don't mind, I made it in a sheet file so you can play it. Concatenate all rows for the final answer",
+        "link": "https://drive.google.com/drive/u/1/folders/1eWJcZIbRLffu4YUTVEKEw0pMb5EnPGIK",
+        "hints": [],
+        "answer": "345817926726394851891265473254638197687951342913472568162589734479123685538746219",
+        "reaction": "You're so good !!! Masha'Allah !!!"
       },
       {
         "day": 13,
-        "title": "memorial day",
-        "difficulty": "...",
+        "title": "Small rest",
+        "difficulty": "None",
         "solved": false,
-        "cDay": "12/07/2025",
+        "cDay": "14/06/2025",
         "sYear": 0,
-        "specialMess": "because this month is related to cats, and you are one of a kind that has deep affection to these cute innocent creatures. I wanna comemorate in this day all the lost kitties, abused cats, abondoned ones that have lost their lives in an unfair way. I wanna also highlight in this day a particular kitty",
-        "enigma": "there was a kitty you cared for and took care of him just like a mother. Due to some unfortunate events, he didn't live much to see how much he grew and see her mom with her established family, but he finished his last minutes with warmness and food hopefully. Write the day DD/MM/YYYY you met this little soul that left us early.",
-        "link": "",
-        "hints": [],
-        "answer": "13/04/2025",
-        "reaction": "I am sure he is now in a pleasant place seeing us afar, and I am sure you got a beautiful Jaza2 for your genuine kindness"
+        "specialMess": "Today is rather a small healing session rather than enigma, so enjoy, hhh",
+        "enigma": "Yo !! how you doing future reader, my day is 14/06/2025 , 05:48AM , it is starts of Summer vacation, I am actually having fun doing these enigmas and getting more and more excited to show them to you, they are like now my small troops that their duty would at least make your journey brighter, special as you already are, and more fun nchllh, if you reading this, it means you didn't give up and still keeping your strike every day, I can never feel any prouder. Well, let's leave some other emotional messages in the final credits... anyways, here's a link that came randomly on my head while doing this, it's a 'random month' in the end, hhh.I am always here to listen to your thoughts, don't forget !! flag:Th4nk_Y0u_f0r_y0ur_pr3c10u5_t1me",
+        "link": "https://www.instagram.com/p/DEXnsJ-TX4a/",
+        "hints": [
+          "uhh... hello I guess ? hhh"
+        ],
+        "answer": "Th4nk_Y0u_f0r_y0ur_pr3c10u5_t1me",
+        "reaction": "reminder you can always go back to any other enigma successfully accomplished :3"
       },
       {
         "day": 14,
-        "title": "Sister of meow",
-        "difficulty": "Easy",
+        "title": "Coincidence ?",
+        "difficulty": "Hard",
         "solved": false,
-        "cDay": "12/07/2025",
+        "cDay": "14/06/2025",
         "sYear": 0,
-        "specialMess": "",
-        "enigma": "when we pspspsps, we generally wanna  hear 'meow' as a reaction, but did you know in some region, folks there have another type of meow, pronounce it",
+        "specialMess": "Note: This challenge needs a good ammount of Enigmas being solved",
+        "enigma": "Somehow, out of all challenges and Enigmas existing daily, all of them posses a unique answer, except one... repeat the same answer here.",
         "link": "",
         "hints": [
-          "in a land where we both dream to visit"
+          "one exists in August",
+          "one exists in its neighbor month of the other",
+          "the answer has a meaning, and possess an interisting plot twist"
         ],
-        "answer": "Nya",
-        "reaction": "wonder how they did came out with this..."
+        "answer": "Eclipse",
+        "reaction": "Have I thought about this before or was it a coincidence? nobody knows, hhh"
       },
       {
         "day": 15,
-        "title": "Cat families V",
-        "difficulty": "Easy",
+        "title": "Follow the eyes",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "12/07/2025",
+        "cDay": "14/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "One of the most common looking cats seen in the world, with sharp black line patterns on their whole body",
-        "link": "https://drive.google.com/drive/u/1/folders/17jas_k_V3-lF2GrVpSvmkwiVl3FHo9hm",
+        "enigma": "the eyes are the answer : Combee, Zubat , Unown, Regigigas , Joltik .",
+        "link": "",
         "hints": [
-          "named after a known corresponding felin"
+          "Count the eyes for each pokemon, careful for tricky ones"
         ],
-        "answer": "Toyger",
-        "reaction": "they might have installed Tiger's Hardware, but their software is always of a cat"
+        "answer": "60174",
+        "reaction": "Regigigas possesed fake eyes and you realised it, niice !!"
       },
       {
         "day": 16,
-        "title": "How many",
+        "title": "Canonical name",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "12/07/2025",
+        "cDay": "14/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "in my timeline, it's 12/07/2025, back in that time, we were having if you remember mother cat with some kitties besides our home residing, how many cats were there based on what I told you",
+        "enigma": "the website name is actually masked on a real one, demask it and find the true name the web server",
         "link": "",
         "hints": [
-          "Use either telepathy or Insta search chat skill of yours, hhh"
+          "I know it's a PTSD, but some Res2 things needs to be done"
         ],
-        "answer": "3",
-        "reaction": "the two kitties are growing healthy, hope the same in your timeline"
+        "answer": "gcp-us-west1-1.origin.onrender.com.cdn.cloudflare.net.",
+        "reaction": "Ewww, put back the mask on that domain, hhh"
       },
       {
         "day": 17,
-        "title": "Most Cat looking Pokemon",
-        "difficulty": "Easy",
+        "title": "Unexpected limital Encounter",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "12/07/2025",
+        "cDay": "14/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "State the name of the Pokemon that is the most cat looking, I have even a mug of it that I shared it with you if you remember lol",
+        "enigma": "Let's suppose we are in 2022... yeah, let's really suppose that, hmmm, *pointing out randomly, here, try to find the limit (+infinity) of f(x) of exo04 subject 2 of our Bacalaurian maths... DID I STUTER ?",
         "link": "",
         "hints": [
-          "an iconic character in Pokemon anime"
+          "strongest factor shall lead the group in sum"
         ],
-        "answer": "Meowth",
-        "reaction": "he even has the OwO"
+        "answer": "-infinity",
+        "reaction": "Ahh yes, back in the days when I didn't have backpain..."
       },
       {
         "day": 18,
-        "title": "Cat families VI",
-        "difficulty": "Medium",
+        "title": "yezh iskis",
+        "difficulty": "kalet",
         "solved": false,
-        "cDay": "12/07/2025",
+        "cDay": "14/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "they gained their name thanks to their special ears look",
-        "link": "https://drive.google.com/drive/u/1/folders/18CLw7ViuCA5E_RCkq7ePQT-H5vZlYTyW",
-        "hints": [
-          "this one has two words, first one is related to its region origin"
-        ],
-        "answer": "Scottish Fold",
-        "reaction": "I wanna touch their ears to study its physics lol"
+        "enigma": "Brezhoneg eo anv ar yezh-mañ, unan eus ar yezhoù ralañ implijet eo abalamour d'he bevenn rannvroel ha d'he ankouaat kozh. Ar banniel eo anv ar yezh-mañ",
+        "link": "",
+        "hints": [],
+        "answer": "Breton",
+        "reaction": ""
       },
       {
         "day": 19,
-        "title": "The council will decide",
+        "title": "Void page",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "12/07/2025",
+        "cDay": "14/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "so I have not so old nor not so recent photo of interesting cats laying close to each other like guardians, I just wanna show it to you, hhh. Guess the year that this photo was taken",
-        "link": "https://drive.google.com/drive/u/1/folders/1gu2-TlimJA_zUKrYNGEswhq0PlO60Hgs",
+        "enigma": "Void consumes everything in its path, visit it in /#/Void",
+        "link": "",
         "hints": [
-          "based on the land and texture, you should already know the location, yapping also happened about it once"
+          "It even consumed the flag"
         ],
-        "answer": "2022",
-        "reaction": "it was a time I was roaming alone in Esi, haha...ha.ha..."
+        "answer": "VoidCTF{v01d_p4ss3d_by_h3r3}",
+        "reaction": "I do love void tho, feels so cozy and calm rather than the society"
       },
       {
         "day": 20,
-        "title": "I died...BUT I LIVED",
-        "difficulty": "Medium",
+        "title": "Geo guesser",
+        "difficulty": "Hard",
         "solved": false,
-        "cDay": "12/07/2025",
+        "cDay": "14/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "A historical cat theorically died and lived at an instance in time, name its owner",
-        "link": "",
+        "enigma": "Do you love maps ? do you love exploring it trying to find all interesting views? then you love this challenge, try to answer the name of the place on the map down this link, it's my dream to also go there, not the country, but the place",
+        "link": "https://drive.google.com/drive/folders/1bVGF-ryaIE9JdFEHJ6OD02FuLVRRVbhx",
         "hints": [
-          "it was about Quantum theory of electrons",
-          "the german characters like ö might be needed"
+          "the country is known that both of use would like to visit it",
+          "it has a magneficent beach",
+          "existing south of a really really big island"
         ],
-        "answer": "Schrödinger",
-        "reaction": "so if I don't see outside ,it's peaceful and apocalypse at the same time... (my ADHD anxiety be like)"
+        "answer": "Okinawa",
+        "reaction": "One day nchllh, one day, hhh"
       },
       {
         "day": 21,
-        "title": "Cat families VII",
-        "difficulty": "Medium",
+        "title": "Router Infiltration",
+        "difficulty": "Hard",
         "solved": false,
-        "cDay": "13/07/2025",
+        "cDay": "15/06/2025",
         "sYear": 0,
-        "specialMess": "",
-        "enigma": "This breed of cats is known for their extreme intellegence and loyalty to house owner, usually white coated and irises of different colors!!!",
-        "link": "https://drive.google.com/drive/u/1/folders/1c5B7ldfHI3ONhhhTaAGyMrRIfRkCYeb_",
+        "specialMess": "In This enigma, you will for real attack my LAN, hhh",
+        "enigma": "Oh no!! A bird flied by my router now my IP got leaked: 105.98.221.177. I hope this shoudln't be enough to be able to find out my MAC address...",
+        "link": "",
         "hints": [
-          "this one has two words, first one is related to its region origin"
+          "did you know some algerian routers host an http server",
+          "Did you also know that there's a default authentification on routers if not changed"
         ],
-        "answer": "Turkish Angora",
-        "reaction": "this one seems way so noble to be just called a cat, hhh"
+        "answer": "10:6F:D9:15:44:4D",
+        "reaction": "you can even shut down our Router..."
       },
       {
         "day": 22,
-        "title": "Young visitors",
-        "difficulty": "Hard",
+        "title": "History of Mewtwo",
+        "difficulty": "Easy",
         "solved": false,
-        "cDay": "13/07/2025",
+        "cDay": "15/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Can you guess the date time that this photo was taken in DD/MM/YYYY ? same time three kittens visited CACE",
+        "enigma": "Did you know that Mewtwo is an artificial Pokemon created through experiments? Mewtwo has deep lore and long beef against humans, try to search some of it or event watch the first Pokemon film ( one of the best movies ) , the answer is the Pokemon origin of Mewtwo",
         "link": "",
-        "hints": [
-          "You named one of them Tiger if I remember, lol",
-          "if I remember correctly, two to three kittens visited local, apparently a girl took them with her outside i9ama to secure them and then took them back",
-          "there were a small quest of finding them again cause they roamed around till they got lost, I found the void one, lol"
-        ],
-        "answer": "04/03/2025",
-        "reaction": "the good ending they were back to her owner safely, El7emdoulillah"
+        "hints": [],
+        "answer": "Mew",
+        "reaction": "I loved both Pokemons in different aspects, they deserve the recognition of most well built stories out there"
       },
       {
         "day": 23,
-        "title": "On my puter",
-        "difficulty": "Medium",
+        "title": "Zì bì zhèng shūxiě de yǔyán",
+        "difficulty": "Zhōngděng de",
         "solved": false,
-        "cDay": "13/07/2025",
+        "cDay": "15/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "while I was working on planning to attack Oscar with my computer, I opened a new doc file with its default settings, I was just about starting to type then a cat walked through my keyboard, first paw landed on '0' key till it reached scale 1, then her second paw touched the key 'k' till it touched scale 3, finally she putted her head on key 'f' till end of third line and then she left. Write the masterpiece plan suggested by my cat",
+        "enigma": "Nín shìfǒu céng xiǎngxiàngguò túbù chuānyuè zhōngguó de wànlǐ chángchéng, zhè shìfǒu zhídé, kèfú kùnnán shìfǒu huì zhèngmíng shénme, wǒ bù zhīdào, dàn wǒ xiāngxìn zhè jiāng shì yīduàn nánwàng de huíyì, yóuqí shì hé nín qīnjìn de rén yīqǐ túbù bìng fēnxiǎng zhè zhǒng jīnglì, nín suǒ xúnqiú de dá'àn jiùshì zhè piān yǎnjiǎng zhōng suǒ shuō dì dìfāng",
         "link": "",
         "hints": [
-          "scale is that ruler above the paper page in doc file"
+          "e682a8e698afe590a6e69bbee683b3e8b1a1e8bf87e5be92e6ada5e7a9bfe8b68ae4b8ade59bbde79a84e4b887e9878ce995bfe59f8eefbc8ce8bf99e698afe590a6e580bce5be97efbc8ce5858be69c8de59bb0e99abee698afe590a6e4bc9ae8af81e6988ee4bb80e4b988efbc8ce68891e4b88de79fa5e98193efbc8ce4bd86e68891e79bb8e4bfa1e8bf99e5b086e698afe4b880e6aeb5e99abee5bf98e79a84e59b9ee5bf86efbc8ce5b0a4e585b6e698afe5928ce682a8e4bab2e8bf91e79a84e4babae4b880e8b5b7e5be92e6ada5e5b9b6e58886e4baabe8bf99e7a78de7bb8fe58e86efbc8ce682a8e68980e5afbbe6b182e79a84e7ad94e6a188e5b0b1e698afe8bf99e7af87e6bc94e8aeb2e4b8ade68980e8afb4e79a84e59cb0e696b9"
         ],
-        "answer": "000000000000kkkkkkkkkkkkkkkkkkkkkkkkkkffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
-        "reaction": "hmmm interesting, can't beleive couldn't think of that"
+        "answer": "Great Wall of China",
+        "reaction": "你做得很好，你是我最想分享经验的人"
       },
       {
         "day": 24,
-        "title": "Cat families VIII",
+        "title": "Secret memorisation",
         "difficulty": "Medium",
         "solved": false,
-        "cDay": "13/07/2025",
+        "cDay": "15/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Known for their cute little tail they have",
-        "link": "https://drive.google.com/drive/u/1/folders/1I3_pz6B_mrQ6bROfeuwkd3ljlMxn8jee",
+        "enigma": "when I open up my PC, I have no need to memorise my password number to input, all I need to remember is the logo of VsCode which is far more easier and first digit being 1",
+        "link": "",
         "hints": [
-          "this one has two words, first one is related to its region origin"
+          "forms can be used to track inputs and follow the direction"
         ],
-        "answer": "Japanese Bobtail",
-        "reaction": "they are athletic cats with really high energy!!"
+        "answer": "1596357",
+        "reaction": "great, now I let you access to my PC..."
       },
       {
         "day": 25,
-        "title": "emotional support",
-        "difficulty": "Easy",
+        "title": "Inivisible threat",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "13/07/2025",
+        "cDay": "15/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "the cat has brought you bed, breakfast, warmness, food, all kind of physical/emotional supports, even himself, name this legendary cat",
-        "link": "",
+        "enigma": "Welcome to yet another hint art hunt for you !! go check the link",
+        "link": "https://drive.google.com/drive/u/1/folders/1-4_YKovm7fdFVYJ6NhpjEp-9QXcRho4X",
         "hints": [
-          "It's also used between us when we support each other, hhh"
+          "once, there was that annoying project in 1CS",
+          "Eyes can sometimes deceive you"
         ],
-        "answer": "Gary",
-        "reaction": "Gary has brought you a shard!! hope it will reassure you more :3"
+        "answer": "artCTF{h1d3_n_s33k}",
+        "reaction": "still remembering the final day of 1Cs, it was a wonderful day"
       },
       {
         "day": 26,
-        "title": "power of pspspspsps",
-        "difficulty": "Really Hard",
+        "title": "Prehistorical RISC code",
+        "difficulty": "Hard",
         "solved": false,
-        "cDay": "13/07/2025",
+        "cDay": "15/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "you heard a sound transmitting from a cat lover far away, unfortunately it was so late to decipher as it was hashed in MD5. but you did got data of hash for first 5 characters, hash for first 10 character, and hash of everything that consists of 15 characters. You also know that Cat lovers speaks only with binary: 'p' or 's' , two Ps cannot be adjacent. what is the secret chain that this folk said to attract cats",
-        "link": "https://drive.google.com/drive/u/1/folders/14hqmAMMlMeExUs0-TufWvarehZHUyQmh",
-        "hints": [],
-        "answer": "pspsspspspsssps",
-        "reaction": "with this power, I summon... CHIAMOI"
+        "enigma": "Check the code you find in the link, try to find out the content of R03",
+        "link": "https://drive.google.com/drive/u/1/folders/1WL56qMFXEMRf8VVVQ_OqTMnQzY7aYp--",
+        "hints": [
+          "an old software needed to configure this"
+        ],
+        "answer": "14",
+        "reaction": "Can't believe this is the first time 14 was an answer, hhh"
       },
       {
         "day": 27,
-        "title": "Cat families IX",
-        "difficulty": "Medium",
+        "title": "[_[-€¯|¯ $|°€/-\\|<",
+        "difficulty": "H/-\\|2D",
         "solved": false,
-        "cDay": "13/07/2025",
+        "cDay": "07/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "possessing the largest body with a destinguished face and fur, they are considered the royalty of cats families",
-        "link": "https://drive.google.com/drive/u/1/folders/1Z9RPqvvvBVdpE5P_JzNPyLUD_0awsTUt",
-        "hints": [],
-        "answer": "Maine Coon",
-        "reaction": "if Cats had a kingdom, it should be this breed to rule as kings"
+        "enigma": "!/= ¥()L| |2Ɛ/\\|] 7|~|!5 `/°µ ΛЯ☰ @ |=()|2|V|1|)/\\ß1_€ /*ƐЯ$[]|V `/()|_| §|-|0|_|1_|> 8Ɛ /*/2°L|[)  ©[][)Ɛ ]§ 7/-/€ 7]¯|¯1_[-",
+        "link": "",
+        "hints": [
+          "1337",
+          "h3ll0_w0r1d"
+        ],
+        "answer": "[_[-€¯|¯ $|°€/-\\|<",
+        "reaction": "\\_:_/(-)/\\¯|¯ /-\\ ]-[0|\\|()|?/-\\8[_Ɛ Λ[|~|]Ɛ|/☰|V|☰|V† †() /2☰/\\[) 7:-:!5"
       },
       {
         "day": 28,
-        "title": "The evil lurking",
-        "difficulty": "Easy",
+        "title": "The northern Path",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "13/07/2025",
+        "cDay": "15/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "if cats have nightmares, who would be their worst fear...",
-        "link": "",
-        "hints": [
-          "it's void and dangerous",
-          "a name that shouldn't be named, a forbidden name"
-        ],
-        "answer": "Larry",
-        "reaction": "Gary said he will talk to him to ease us out, how gentle of him, but still worried..."
+        "enigma": "You found yourself on a country island you can see on the link and a manuscript, seek its knowledge and answer will be forspoken: by the long tail of the beast, seek North till you reach a big black Lake, continue North till you reach a land again, from there, go towards East till you reach the back of Blue Dragon, Reach its upper head and go East again, keep going till you cross boundary of a new country, Seek its heart, make a path towards South then East with the shape of L where the intersection point is where the Lands and Seas meet, you'll continue East till a you find the small golden Egg",
+        "link": "https://drive.google.com/drive/u/1/folders/169qpyG5eYiX31aJIE4tc28wM1S0pb3nq",
+        "hints": [],
+        "answer": "Taiwan",
+        "reaction": "May your traveling be blessed for this long journey"
       },
       {
         "day": 29,
+        "title": "Root of all Pokemon",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "15/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "Have you ever wondered, what is the story of Pokemon world ? what is the first Pokemon ever, which came first, egg or Pokemon ? Try to find this Pokemon that resolved this contradiction in the story",
+        "link": "",
+        "hints": [
+          "Canonically strongest Pokemon ever"
+        ],
+        "answer": "Arceus",
+        "reaction": "I catched that Pokemon by the way :3"
+      },
+      {
+        "day": 30,
         "title": "smoll reminder",
         "difficulty": "Medium",
         "solved": false,
@@ -1388,34 +1410,18 @@
         "reaction": "hope this will bright your day more nchllh!!!"
       },
       {
-        "day": 30,
-        "title": "Cat families X",
-        "difficulty": "Medium",
+        "day": 31,
+        "title": "Chaos control",
+        "difficulty": "Easy",
         "solved": false,
-        "cDay": "13/07/2025",
+        "cDay": "15/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "I left my favourite for the last: gorgeous eys, beuatiful fur, a gem in Cat families",
-        "link": "https://drive.google.com/drive/u/1/folders/15Dtl802sBpAVy6dvUFe40YmDYJfx7-Zj",
-        "hints": [],
-        "answer": "Birman",
-        "reaction": "AHHHHH MY HEART, I CAN'T TAKE THIS CUTENESS, ZNCLKZNLCKZNl"
-      },
-      {
-        "day": 31,
-        "title": "a lost kitten",
-        "difficulty": "Really Hard",
-        "solved": false,
-        "cDay": "15/07/2025",
-        "sYear": 0,
-        "specialMess": "Small fact: this was the last challenge developped in my timeline, and longest one to create, hope you enjoy it",
-        "enigma": "as you were walking while stargazing the nature, you were hearing crying not so far away, you found a little kitten powerless and lost her mother that resides in a city of cats. the roads in this world is hierarchical organised with Thrinary Tree ( each node has three children ), the road numbers are enumerated horizentally for each depth/level of the tree. the city of cats exists in address n°14077 and its depth is Level 10 in the tree, you found the kitten at root as starting point. Lead kitten to her mother to make her less worried. the answer flag is the path of each road number as: root/X/Y/Z/...../14077",
+        "enigma": "Nothing better than finishing this month with... chaos/randomness, let's throw a dice, a special dice with a secret face :3 , good luck !!, path : /#/games/dice",
         "link": "",
-        "hints": [
-          "it's a simple algorithm, make a small tree as an example to crack it out!!!"
-        ],
-        "answer": "root/1/3/7/20/58/174/522/1565/4693/14077",
-        "reaction": "Congrats, Mother of kitten hugged you and showed you all her kittens as a trust bound towards you!!"
+        "hints": [],
+        "answer": "ChaosMasterCTF{D1c3_m4st3r3d_1n_ch405}",
+        "reaction": "GG !! may only good chaos be with you nchllh"
       }
     ]
   },
@@ -2684,7 +2690,7 @@
         "cDay": "01/04/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Are you ready to challenge a bingo game with Master? all knowledge you have is enough to try it and have fun !!! message me when you're ready!!!",
+        "enigma": "Are you ready to challenge a bingo game with a moon shard? all knowledge you have is enough to try it and have fun !!! message me when you're ready!!!",
         "link": "",
         "hints": [],
         "answer": "BingoCTF{I_LOVE_BINGO}",
@@ -2811,7 +2817,7 @@
         "sYear": 0,
         "specialMess": "",
         "enigma": "Go to this Drive link to accomplish a simple task",
-        "link": "https://docs.google.com/document/d/17E2c2hMVGRTVRXyzscbqSIfVkvxctpWdJYi4hak0R-4/edit?tab=t.0",
+        "link": "https://drive.google.com/drive/folders/1q9EwXQKqndfYf1b1k1_Uz6w_5643nZIB",
         "hints": [],
         "answer": "GentleReminderCTF{small_act_can_change_everything}",
         "reaction": "you did good, rebbi y7efdek nchllh, precious one"
@@ -2862,7 +2868,7 @@
   },
   {
     "month": 7,
-    "solvedOne": true,
+    "solvedOne": false,
     "name": "July",
     "Theme": "Nature",
     "days": [
@@ -3149,7 +3155,7 @@
         "day": 19,
         "title": "Glowing Fungi",
         "difficulty": "Medium",
-        "solved": true,
+        "solved": false,
         "cDay": "17/05/2025",
         "sYear": 2025,
         "specialMess": "",
@@ -3180,7 +3186,7 @@
         "day": 21,
         "title": "Flying cat software",
         "difficulty": "Easy",
-        "solved": true,
+        "solved": false,
         "cDay": "17/05/2025",
         "sYear": 2025,
         "specialMess": "",
@@ -3196,7 +3202,7 @@
         "day": 22,
         "title": "The Seven wonders of the Seven V",
         "difficulty": "Easy",
-        "solved": true,
+        "solved": false,
         "cDay": "17/05/2025",
         "sYear": 2025,
         "specialMess": "",
@@ -3244,7 +3250,7 @@
         "day": 25,
         "title": "Cure of Soul&Mind",
         "difficulty": "Medium",
-        "solved": true,
+        "solved": false,
         "cDay": "17/05/2025",
         "sYear": 2025,
         "specialMess": "",
@@ -3335,7 +3341,7 @@
         "day": 31,
         "title": "A cure from Fungi",
         "difficulty": "Medium",
-        "solved": true,
+        "solved": false,
         "cDay": "04/06/2025",
         "sYear": 2025,
         "specialMess": "",
@@ -3351,7 +3357,7 @@
   },
   {
     "month": 8,
-    "solvedOne": true,
+    "solvedOne": false,
     "name": "August",
     "Theme": "Cryptography II",
     "days": [
@@ -3359,7 +3365,7 @@
         "day": 1,
         "title": "Bill's Book",
         "difficulty": "Easy",
-        "solved": true,
+        "solved": false,
         "cDay": "09/06/2025",
         "sYear": 2025,
         "specialMess": "Welcome to the second volume of Cryptography, you will find the weirdest and intriguing encryptions in our world, There are secrets way more deeper and more frequent than you think...",
@@ -3375,7 +3381,7 @@
         "day": 2,
         "title": "The numbers Beal, WHAT DO THEY MEAN ?",
         "difficulty": "Medium",
-        "solved": true,
+        "solved": false,
         "cDay": "09/06/2025",
         "sYear": 2025,
         "specialMess": "",
@@ -3835,486 +3841,480 @@
     "month": 9,
     "solvedOne": false,
     "name": "September",
-    "Theme": "Chaos",
+    "Theme": "Cats",
     "days": [
       {
         "day": 1,
-        "title": "mysterious pattern",
+        "title": "Favourite cat",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "13/06/2025",
+        "cDay": "11/07/2025",
         "sYear": 0,
-        "specialMess": "Welcome to chaotic month !!! where I had no idea where to put these challenges, hhh. So, you gonna not expect what's expected, and you could expect the unexpected, as all things said, may this randomness be fun in your journey",
-        "enigma": "a + z = 97122 , z + a = 71229 , b + c = 6362 , t + a + t + i = 10511697116 , o + u + a + d + i = ?",
+        "specialMess": "Who would have thought there would be cats related to this journey? hhh. A moon without the Sun or cats is a mere floating rock. PS: It seems this is your first time trying my daily Quest. Basically, each day has a unique Enigma, and for each solve you do on a day, you retrieve its shard of the moon :3",
+        "enigma": "Name me the cat of decade for me when I was studying in ESI (just in case you reading this after graduation, hhh). the cat was so lovely that you adopted him as your son",
         "link": "",
         "hints": [
-          "a simple gesture is done for each operation",
-          "order of equalities does affect the result"
+          "it's colorful, sometimes sends me angry jealousy towards me...."
         ],
-        "answer": "01051111179710",
-        "reaction": "I knew you would find the pattern, hhh"
+        "answer": "Niwa",
+        "reaction": "Niiiiiwaaaa, I do really wanna own him as our cat ( yes, I said 'our', not 'my'), hhh"
       },
       {
         "day": 2,
-        "title": "the secret IP",
+        "title": "Medecine to humans",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "13/06/2025",
+        "cDay": "11/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Based on your PTSD knowledge, could you find what IP adress of the server hosting UnfazedTime. Due to some confusing results, I will let you know that it's X.X.X.4 ",
+        "enigma": "Cats are not just creatures that entertain humans, it's more than that. Cats have an effect that if they do it, they lower blood pressure and stress and heals humans besides it. what is this cure that cats posess to make the effects  happen? ",
         "link": "",
         "hints": [
-          "DNS of Google is pretty interesting"
+          "It's more effective if you hug your cat while he's making this cure",
+          "if there's ambiguity, it ends with suffix 'ing'"
         ],
-        "answer": "216.24.57.4",
-        "reaction": "unfortunately the server won't give you authority if reached by only IP"
+        "answer": "purring",
+        "reaction": "if you get to witness this ability every day, I am sure your health will stay intact inchallah, hhh"
       },
       {
         "day": 3,
-        "title": "Leaked Data",
-        "difficulty": "Easy",
+        "title": "Cat families I",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "13/06/2025",
+        "cDay": "11/07/2025",
         "sYear": 0,
-        "specialMess": "",
-        "enigma": "Oh No !!! Someone spilled coffe on my backend server, now some data has been leaked, I hope nobody realises it....",
-        "link": "https://drive.google.com/drive/u/1/folders/1ojQ5XOsOlqiCm0v71MhIJgXsBsu2847k",
+        "specialMess": "Welcome to cat families Category !!! there are 10 shards you can collect in this month by only guessing what breed is a cat by only seeing their photos. I am sure you will also gain experince for some breeds how are they named!!!",
+        "enigma": "Go to the link, analyse the photos of cats that shares the same breed name.",
+        "link": "https://drive.google.com/drive/u/1/folders/1hGdXyt3e3IzLl_z24xje12pXotYoh5I4",
         "hints": [
-          "Remember Byul's story ? I think it's the same name temple"
+          "this one has two words, first one is related to its region origin"
         ],
-        "answer": "SecretVaultKey",
-        "reaction": "Ahhh you also stole my reaction, then I won't react, hhh"
+        "answer": "Thai Siamese",
+        "reaction": "'they are known for their loyal and affectionate nature' - quote"
       },
       {
         "day": 4,
-        "title": "What is this Pokemon?",
-        "difficulty": "Medium",
+        "title": "Company with a loner",
+        "difficulty": "Easy",
         "solved": false,
-        "cDay": "13/06/2025",
+        "cDay": "11/07/2025",
         "sYear": 0,
-        "specialMess": "I may or not left some pokemon challenges in this month...",
-        "enigma": "My favourite Gen5 Pokemon, grass/fairy type, fluffy and cute, a hint image was put in link",
-        "link": "",
-        "hints": [],
-        "answer": "Whimsicott",
-        "reaction": "ahhhhhh, my sweety Whimsicott, LJNXLXZNLKXNLZ"
+        "specialMess": "",
+        "enigma": "back in the first years of ESI, I usually go back alone to home on first half road, then I wait for someone to pick me up. While I am waiting, I usually find cats wait with me or even play, hhh, I shared one of the photos on the Link. what is the place that this photo taken where I usually wait",
+        "link": "https://drive.google.com/drive/u/1/folders/1UZpIn-RtYzeSm3dTHnTpC_78HNl2-2sI",
+        "hints": [
+          "I usually use Metro to go to the checkpoint"
+        ],
+        "answer": "Ruisseau",
+        "reaction": "thanks to them I can pass time without feeling lonely, El7emdoulillah"
       },
       {
         "day": 5,
-        "title": "Priviledge absurdity",
+        "title": "Fingerprint of cats",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "13/06/2025",
+        "cDay": "11/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "I putted my flag on this doc, and yet I feared for some hackers would get it from me, now I changed it its location to a more secure place, *phew...",
-        "link": "https://drive.google.com/drive/u/1/folders/1l1SHvEyVnLqSyFMZTvB47fxZmsQpTyRP",
-        "hints": [
-          "did he just putted the flag on that doc"
-        ],
-        "answer": "SecretCTF{r34lly_s3cr3t_4nd_f0rg0tt3n}",
-        "reaction": "Ayyy, as expected from our chief hacker of the seas, hhh"
+        "enigma": "I wonder if there is a part on cats that can athentificate uniquely that cat on others",
+        "link": "",
+        "hints": [],
+        "answer": "nose",
+        "reaction": "It was a weird fact for me, soo I really don't know how to put it as a challenge, hhh"
       },
       {
         "day": 6,
-        "title": "Among us",
-        "difficulty": "Hard",
+        "title": "Cat families II",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "13/06/2025",
+        "cDay": "11/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "do you remember MySQL ? cause you will need it here :3 . Basically if you remember DzFoot Database, a new player got added in but in the end he was an impostor, your objective is try to get the name of Impostor to find him. All data needed is in the link",
-        "link": "https://drive.google.com/drive/u/1/folders/1aXpMEEjKaTkehFFe7TfapUZKCYy1pA9s",
+        "enigma": "They have sharp long ears, with a body that seems fragile with small ammount of fur, sometimes their face gets memeable",
+        "link": "https://drive.google.com/drive/u/1/folders/1h922yyBxAS4CJuZuItmiEf3zDm5fgEaF",
         "hints": [
-          "Many solutions could be done, most original is using MySQL itself"
+          "their face looks like a T-'Rex'"
         ],
-        "answer": "C1N4M0NR011",
-        "reaction": "I wonder if you expected SQL enigma would come here, hhh, well, it's chaotic theme :3"
+        "answer": "Cornish Rex",
+        "reaction": "they seem old that needs support all the time, I love them!!!"
       },
       {
         "day": 7,
-        "title": "Art hunting",
+        "title": "Cat of wisdom and annoyance",
         "difficulty": "Medium",
         "solved": false,
-        "cDay": "13/06/2025",
+        "cDay": "11/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "a flag has been chased, but its exact location seems unknown, take the link to see its last trace",
-        "link": "https://drive.google.com/drive/u/1/folders/16VocU0zJc2BwLezeoKJ5vvMFMtzcf5bW",
+        "enigma": "There was a cat I witnessed in ESI that may have annoyed me. Using your telepathy and mouktassabate l9eblya, try to guess what did this Cat of Wisdom and annoyance sitted on to use as a throne",
+        "link": "",
         "hints": [
-          "'pdf files ARE PROHIBITED', bruh"
+          "he was known to you, same also for the silly story",
+          "I couldn't go studying because of his wise mind"
         ],
-        "answer": "artCTF{sm011_s1z3d_fl4g}",
-        "reaction": "yaay, I missed artCTFs"
+        "answer": "backpack",
+        "reaction": "yeah anyways, he seemed kind enough to let me take it, hhh"
       },
       {
         "day": 8,
-        "title": "Git gud",
-        "difficulty": "Medium",
+        "title": "Historical record",
+        "difficulty": "Easy",
         "solved": false,
-        "cDay": "13/06/2025",
+        "cDay": "11/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "a commit has been found on some shared project done long ago...",
+        "enigma": "today's is a honorification for a cat that aged the most historically, name this cat",
         "link": "",
-        "hints": [
-          "Done by team frontenders..."
-        ],
-        "answer": "memoryCTF{n0st41g1c_d4y5}",
-        "reaction": "those days were precious to me excluding the project itself, hhh"
+        "hints": [],
+        "answer": "Creme Puff",
+        "reaction": "38 years... this is insane, sub7anallah"
       },
       {
         "day": 9,
-        "title": "unlocking the secret's chamber",
+        "title": "Cat families III",
         "difficulty": "Medium",
         "solved": false,
-        "cDay": "13/06/2025",
+        "cDay": "11/07/2025",
         "sYear": 0,
-        "specialMess": "Well, there are two possibilities when you reach here today, you either were so curious you found out about the secret link that archives all urls Drive I have been storing , or still couldn't figure out yet. I mean, if we think about it, you were since the beginning allowed to view and edit all those files while trusting you of course, but you never had a notification of shared access ? hmm",
-        "enigma": "The link for today is broken, so you had to find it manually. Find it and the flag for today's Enigma shall be yours",
-        "link": "https://youtu.be/dQw4w9WgXcQ?si=NZMlshnnH-mGZxg1",
+        "specialMess": "",
+        "enigma": "They have the funniest looking face with wide cheeks that are so cute",
+        "link": "https://drive.google.com/drive/u/1/folders/1Ha7z_Px2hNwfaSL1fBEvx8KQ6kzLcwIR",
         "hints": [
-          "it should be somewhere where both of us can access to",
-          "try to check your 'memories', I know it's around there"
+          "two words, second one is characteristic about thei fur"
         ],
-        "answer": "SecretCTF{r00t_v4ult_f0und}",
-        "reaction": "now you have the full power to check any other folder, damn..."
+        "answer": "Exotic Shorthair",
+        "reaction": "look at their face, I wanna see them whole day, hhh"
       },
       {
         "day": 10,
-        "title": "No pirate can't play chess",
-        "difficulty": "Medium",
+        "title": "First time",
+        "difficulty": "Easy",
         "solved": false,
-        "cDay": "13/06/2025",
+        "cDay": "11/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "A chess board exists in the link, but the solution is required in the white side, checkmate in 2 moves!!The password to the next challenge is the chess moves needed to make white wins in this format : Move1_Move2 (No need to write the black counter moves).You'll find also in link how to code chess moves",
-        "link": "https://drive.google.com/drive/u/1/folders/1dLvKwyY5UihYftaVGzTb8Gjee1IdRj98",
+        "enigma": "In this photo, you are witnessing my first time ever a cat sitted on my laps, the feeling was unforgettable for me. Name the place I were in",
+        "link": "https://drive.google.com/drive/u/1/folders/17fh2MFdqiD0yxnAfFj9qe8y9LW75MHTe",
         "hints": [
-          "Sacrifices are needed for better outcome"
+          "my bare feet might already gave you answer, hhh"
         ],
-        "answer": "Qd8+_Re8#",
-        "reaction": "yaaaay, you did it !!!"
+        "answer": "mosque",
+        "reaction": "he just came and sitted on me, did I finally converged to your magnet skill..."
       },
       {
         "day": 11,
-        "title": "Who am I",
+        "title": "tricky manipulation",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "14/06/2025",
+        "cDay": "12/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "I am a number, I can consider myself an identifier for the whole promo Esi 2022, I appear unofficially only on a single platform, nobody cares about my existence, and yet without me, the conversation community wouldn't exist, who am I?",
+        "enigma": "Cats do hide a secret weapon within their, with they can manipulate their prey's mind that they are friendly, it was even seen sometimes mouses play with Cat as if it's a norm. It's kind of a parasite thet even humans can get infected with it but with no serious effects",
         "link": "",
-        "hints": [
-          "community conversation should be some social app",
-          "it might bean inderct ID, like of a group or something",
-          "can the app be accessible by other means to seek the ID of promo group"
-        ],
-        "answer": "1302013096398946355",
-        "reaction": "Niiiiiice, good job!!!"
+        "hints": [],
+        "answer": "Toxoplasma gondii",
+        "reaction": "I wonder if we are already manupilated by a cat now, hhh"
       },
       {
         "day": 12,
-        "title": "sudo ku",
+        "title": "Cat families IV",
         "difficulty": "Medium",
         "solved": false,
-        "cDay": "14/06/2025",
+        "cDay": "12/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "I couldn't implement sudoku on website, so I wanna apologise over lack of experience in web dev, I hope if you don't mind, I made it in a sheet file so you can play it. Concatenate all rows for the final answer",
-        "link": "https://drive.google.com/drive/u/1/folders/1eWJcZIbRLffu4YUTVEKEw0pMb5EnPGIK",
-        "hints": [],
-        "answer": "345817926726394851891265473254638197687951342913472568162589734479123685538746219",
-        "reaction": "You're so good !!! Masha'Allah !!!"
+        "enigma": "their coat is filled with dotted patterns, usually their color is dark or grey, they have almost a round face",
+        "link": "https://drive.google.com/drive/u/1/folders/1Fqh18lKBMazOy2ScHcuHz5PIu_aE3dNg",
+        "hints": [
+          "this one has two words, first one is related to its region origin",
+          "the second word sounds like meow :3, hhh"
+        ],
+        "answer": "Egyptian Mau",
+        "reaction": "theyr are pretty common in Cat families"
       },
       {
         "day": 13,
-        "title": "Small rest",
-        "difficulty": "None",
+        "title": "memorial day",
+        "difficulty": "...",
         "solved": false,
-        "cDay": "14/06/2025",
+        "cDay": "12/07/2025",
         "sYear": 0,
-        "specialMess": "Today is rather a small healing session rather than enigma, so enjoy, hhh",
-        "enigma": "Yo !! how you doing future reader, my day is 14/06/2025 , 05:48AM , it is starts of Summer vacation, I am actually having fun doing these enigmas and getting more and more excited to show them to you, they are like now my small troops that their duty would at least make your journey brighter, special as you already are, and more fun nchllh, if you reading this, it means you didn't give up and still keeping your strike every day, I can never feel any prouder. Well, let's leave some other emotional messages in the final credits... anyways, here's a link that came randomly on my head while doing this, it's a 'random month' in the end, hhh.I am always here to listen to your thoughts, don't forget !! flag:Th4nk_Y0u_f0r_y0ur_pr3c10u5_t1me",
-        "link": "https://www.instagram.com/p/DEXnsJ-TX4a/",
-        "hints": [
-          "uhh... hello I guess ? hhh"
-        ],
-        "answer": "Th4nk_Y0u_f0r_y0ur_pr3c10u5_t1me",
-        "reaction": "reminder you can always go back to any other enigma successfully accomplished :3"
+        "specialMess": "because this month is related to cats, and you are one of a kind that has deep affection to these cute innocent creatures. I wanna comemorate in this day all the lost kitties, abused cats, abondoned ones that have lost their lives in an unfair way. I wanna also highlight in this day a particular kitty",
+        "enigma": "there was a kitty you cared for and took care of him just like a mother. Due to some unfortunate events, he didn't live much to see how much he grew and see her mom with her established family, but he finished his last minutes with warmness and food hopefully. Write the day DD/MM/YYYY you met this little soul that left us early.",
+        "link": "",
+        "hints": [],
+        "answer": "13/04/2025",
+        "reaction": "I am sure he is now in a pleasant place seeing us afar, and I am sure you got a beautiful Jaza2 for your genuine kindness"
       },
       {
         "day": 14,
-        "title": "Coincidence ?",
-        "difficulty": "Hard",
+        "title": "Sister of meow",
+        "difficulty": "Easy",
         "solved": false,
-        "cDay": "14/06/2025",
+        "cDay": "12/07/2025",
         "sYear": 0,
-        "specialMess": "Note: This challenge needs a good ammount of Enigmas being solved",
-        "enigma": "Somehow, out of all challenges and Enigmas existing daily, all of them posses a unique answer, except one... repeat the same answer here.",
+        "specialMess": "",
+        "enigma": "when we pspspsps, we generally wanna  hear 'meow' as a reaction, but did you know in some region, folks there have another type of meow, pronounce it",
         "link": "",
         "hints": [
-          "one exists in August",
-          "one exists in its neighbor month of the other",
-          "the answer has a meaning, and possess an interisting plot twist"
+          "in a land where we both dream to visit"
         ],
-        "answer": "Eclipse",
-        "reaction": "Have I thought about this before or was it a coincidence? nobody knows, hhh"
+        "answer": "Nya",
+        "reaction": "wonder how they did came out with this..."
       },
       {
         "day": 15,
-        "title": "Follow the eyes",
-        "difficulty": "Medium",
+        "title": "Cat families V",
+        "difficulty": "Easy",
         "solved": false,
-        "cDay": "14/06/2025",
+        "cDay": "12/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "the eyes are the answer : Combee, Zubat , Unown, Regigigas , Joltik .",
-        "link": "",
+        "enigma": "One of the most common looking cats seen in the world, with sharp black line patterns on their whole body",
+        "link": "https://drive.google.com/drive/u/1/folders/17jas_k_V3-lF2GrVpSvmkwiVl3FHo9hm",
         "hints": [
-          "Count the eyes for each pokemon, careful for tricky ones"
+          "named after a known corresponding felin"
         ],
-        "answer": "60174",
-        "reaction": "Regigigas possesed fake eyes and you realised it, niice !!"
+        "answer": "Toyger",
+        "reaction": "they might have installed Tiger's Hardware, but their software is always of a cat"
       },
       {
         "day": 16,
-        "title": "Canonical name",
+        "title": "How many",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "14/06/2025",
+        "cDay": "12/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "the website name is actually masked on a real one, demask it and find the true name the web server",
+        "enigma": "in my timeline, it's 12/07/2025, back in that time, we were having if you remember mother cat with some kitties besides our home residing, how many cats were there based on what I told you",
         "link": "",
         "hints": [
-          "I know it's a PTSD, but some Res2 things needs to be done"
+          "Use either telepathy or Insta search chat skill of yours, hhh"
         ],
-        "answer": "gcp-us-west1-1.origin.onrender.com.cdn.cloudflare.net.",
-        "reaction": "Ewww, put back the mask on that domain, hhh"
+        "answer": "3",
+        "reaction": "the two kitties are growing healthy, hope the same in your timeline"
       },
       {
         "day": 17,
-        "title": "Unexpected limital Encounter",
-        "difficulty": "Medium",
+        "title": "Most Cat looking Pokemon",
+        "difficulty": "Easy",
         "solved": false,
-        "cDay": "14/06/2025",
+        "cDay": "12/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Let's suppose we are in 2022... yeah, let's really suppose that, hmmm, *pointing out randomly, here, try to find the limit (+infinity) of f(x) of exo04 subject 2 of our Bacalaurian maths... DID I STUTER ?",
+        "enigma": "State the name of the Pokemon that is the most cat looking, I have even a mug of it that I shared it with you if you remember lol",
         "link": "",
         "hints": [
-          "strongest factor shall lead the group in sum"
+          "an iconic character in Pokemon anime"
         ],
-        "answer": "-infinity",
-        "reaction": "Ahh yes, back in the days when I didn't have backpain..."
+        "answer": "Meowth",
+        "reaction": "he even has the OwO"
       },
       {
         "day": 18,
-        "title": "yezh iskis",
-        "difficulty": "kalet",
+        "title": "Cat families VI",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "14/06/2025",
+        "cDay": "12/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Brezhoneg eo anv ar yezh-mañ, unan eus ar yezhoù ralañ implijet eo abalamour d'he bevenn rannvroel ha d'he ankouaat kozh. Ar banniel eo anv ar yezh-mañ",
-        "link": "",
-        "hints": [],
-        "answer": "Breton",
-        "reaction": ""
+        "enigma": "they gained their name thanks to their special ears look",
+        "link": "https://drive.google.com/drive/u/1/folders/18CLw7ViuCA5E_RCkq7ePQT-H5vZlYTyW",
+        "hints": [
+          "this one has two words, first one is related to its region origin"
+        ],
+        "answer": "Scottish Fold",
+        "reaction": "I wanna touch their ears to study its physics lol"
       },
       {
         "day": 19,
-        "title": "Void page",
+        "title": "The council will decide",
         "difficulty": "Easy",
         "solved": false,
-        "cDay": "14/06/2025",
+        "cDay": "12/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Void consumes everything in its path, visit it in /#/Void",
-        "link": "",
+        "enigma": "so I have not so old nor not so recent photo of interesting cats laying close to each other like guardians, I just wanna show it to you, hhh. Guess the year that this photo was taken",
+        "link": "https://drive.google.com/drive/u/1/folders/1gu2-TlimJA_zUKrYNGEswhq0PlO60Hgs",
         "hints": [
-          "It even consumed the flag"
+          "based on the land and texture, you should already know the location, yapping also happened about it once"
         ],
-        "answer": "VoidCTF{v01d_p4ss3d_by_h3r3}",
-        "reaction": "I do love void tho, feels so cozy and calm rather than the society"
+        "answer": "2022",
+        "reaction": "it was a time I was roaming alone in Esi, haha...ha.ha..."
       },
       {
         "day": 20,
-        "title": "Geo guesser",
-        "difficulty": "Hard",
+        "title": "I died...BUT I LIVED",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "14/06/2025",
+        "cDay": "12/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Do you love maps ? do you love exploring it trying to find all interesting views? then you love this challenge, try to answer the name of the place on the map down this link, it's my dream to also go there, not the country, but the place",
+        "enigma": "A historical cat theorically died and lived at an instance in time, name its owner",
         "link": "",
         "hints": [
-          "the country is known that both of use would like to visit it",
-          "it has a magneficent beach",
-          "existing south of a really really big island"
+          "it was about Quantum theory of electrons",
+          "the german characters like ö might be needed"
         ],
-        "answer": "Okinawa",
-        "reaction": "One day nchllh, one day, hhh"
+        "answer": "Schrödinger",
+        "reaction": "so if I don't see outside ,it's peaceful and apocalypse at the same time... (my ADHD anxiety be like)"
       },
       {
         "day": 21,
-        "title": "Router Infiltration",
-        "difficulty": "Hard",
+        "title": "Cat families VII",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "15/06/2025",
+        "cDay": "13/07/2025",
         "sYear": 0,
-        "specialMess": "In This enigma, you will for real attack my LAN, hhh",
-        "enigma": "Oh no!! A bird flied by my router now my IP got leaked: 105.98.221.177. I hope this shoudln't be enough to be able to find out my MAC address...",
-        "link": "",
+        "specialMess": "",
+        "enigma": "This breed of cats is known for their extreme intellegence and loyalty to house owner, usually white coated and irises of different colors!!!",
+        "link": "https://drive.google.com/drive/u/1/folders/1c5B7ldfHI3ONhhhTaAGyMrRIfRkCYeb_",
         "hints": [
-          "did you know some algerian routers host an http server",
-          "Did you also know that there's a default authentification on routers if not changed"
+          "this one has two words, first one is related to its region origin"
         ],
-        "answer": "10:6F:D9:15:44:4D",
-        "reaction": "you can even shut down our Router..."
+        "answer": "Turkish Angora",
+        "reaction": "this one seems way so noble to be just called a cat, hhh"
       },
       {
         "day": 22,
-        "title": "History of Mewtwo",
-        "difficulty": "Easy",
+        "title": "Young visitors",
+        "difficulty": "Hard",
         "solved": false,
-        "cDay": "15/06/2025",
+        "cDay": "13/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Did you know that Mewtwo is an artificial Pokemon created through experiments? Mewtwo has deep lore and long beef against humans, try to search some of it or event watch the first Pokemon film ( one of the best movies ) , the answer is the Pokemon origin of Mewtwo",
-        "link": "",
-        "hints": [],
-        "answer": "Mew",
-        "reaction": "I loved both Pokemons in different aspects, they deserve the recognition of most well built stories out there"
+        "enigma": "Can you guess the date time that this photo from the link was taken in DD/MM/YYYY ? same time three kittens visited CACE",
+        "link": "https://drive.google.com/drive/folders/1_2f1ZUjc6xmzclY3CHQkI-hkZyuI7pzN",
+        "hints": [
+          "You named one of them Tiger if I remember, lol",
+          "if I remember correctly, two to three kittens visited local, apparently a girl took them with her outside i9ama to secure them and then took them back",
+          "there were a small quest of finding them again cause they roamed around till they got lost, I found the void one, lol"
+        ],
+        "answer": "04/03/2025",
+        "reaction": "the good ending they were back to her owner safely, El7emdoulillah"
       },
       {
         "day": 23,
-        "title": "Zì bì zhèng shūxiě de yǔyán",
-        "difficulty": "Zhōngděng de",
+        "title": "On my puter",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "15/06/2025",
+        "cDay": "13/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Nín shìfǒu céng xiǎngxiàngguò túbù chuānyuè zhōngguó de wànlǐ chángchéng, zhè shìfǒu zhídé, kèfú kùnnán shìfǒu huì zhèngmíng shénme, wǒ bù zhīdào, dàn wǒ xiāngxìn zhè jiāng shì yīduàn nánwàng de huíyì, yóuqí shì hé nín qīnjìn de rén yīqǐ túbù bìng fēnxiǎng zhè zhǒng jīnglì, nín suǒ xúnqiú de dá'àn jiùshì zhè piān yǎnjiǎng zhōng suǒ shuō dì dìfāng",
+        "enigma": "while I was working on planning to attack Oscar with my computer, I opened a new doc file with its default settings, I was just about starting to type then a cat walked through my keyboard, first paw landed on '0' key till it reached scale 1, then her second paw touched the key 'k' till it touched scale 3, finally she putted her head on key 'f' till end of third line and then she left. Write the masterpiece plan suggested by my cat",
         "link": "",
         "hints": [
-          "e682a8e698afe590a6e69bbee683b3e8b1a1e8bf87e5be92e6ada5e7a9bfe8b68ae4b8ade59bbde79a84e4b887e9878ce995bfe59f8eefbc8ce8bf99e698afe590a6e580bce5be97efbc8ce5858be69c8de59bb0e99abee698afe590a6e4bc9ae8af81e6988ee4bb80e4b988efbc8ce68891e4b88de79fa5e98193efbc8ce4bd86e68891e79bb8e4bfa1e8bf99e5b086e698afe4b880e6aeb5e99abee5bf98e79a84e59b9ee5bf86efbc8ce5b0a4e585b6e698afe5928ce682a8e4bab2e8bf91e79a84e4babae4b880e8b5b7e5be92e6ada5e5b9b6e58886e4baabe8bf99e7a78de7bb8fe58e86efbc8ce682a8e68980e5afbbe6b182e79a84e7ad94e6a188e5b0b1e698afe8bf99e7af87e6bc94e8aeb2e4b8ade68980e8afb4e79a84e59cb0e696b9"
+          "scale is that ruler above the paper page in doc file"
         ],
-        "answer": "Great Wall of China",
-        "reaction": "你做得很好，你是我最想分享经验的人"
+        "answer": "000000000000kkkkkkkkkkkkkkkkkkkkkkkkkkffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+        "reaction": "hmmm interesting, can't beleive couldn't think of that"
       },
       {
         "day": 24,
-        "title": "Secret memorisation",
+        "title": "Cat families VIII",
         "difficulty": "Medium",
         "solved": false,
-        "cDay": "15/06/2025",
+        "cDay": "13/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "when I open up my PC, I have no need to memorise my password number to input, all I need to remember is the logo of VsCode which is far more easier and first digit being 1",
-        "link": "",
+        "enigma": "Known for their cute little tail they have",
+        "link": "https://drive.google.com/drive/u/1/folders/1I3_pz6B_mrQ6bROfeuwkd3ljlMxn8jee",
         "hints": [
-          "forms can be used to track inputs and follow the direction"
+          "this one has two words, first one is related to its region origin"
         ],
-        "answer": "1596357",
-        "reaction": "great, now I let you access to my PC..."
+        "answer": "Japanese Bobtail",
+        "reaction": "they are athletic cats with really high energy!!"
       },
       {
         "day": 25,
-        "title": "Inivisible threat",
-        "difficulty": "Medium",
+        "title": "emotional support",
+        "difficulty": "Easy",
         "solved": false,
-        "cDay": "15/06/2025",
+        "cDay": "13/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Welcome to yet another hint art hunt for you !! go check the link",
-        "link": "https://drive.google.com/drive/u/1/folders/1-4_YKovm7fdFVYJ6NhpjEp-9QXcRho4X",
+        "enigma": "the cat has brought you bed, breakfast, warmness, food, all kind of physical/emotional supports, even himself, name this legendary cat",
+        "link": "",
         "hints": [
-          "once, there was that annoying project in 1CS",
-          "Eyes can sometimes deceive you"
+          "It's also used between us when we support each other, hhh"
         ],
-        "answer": "artCTF{h1d3_n_s33k}",
-        "reaction": "still remembering the final day of 1Cs, it was a wonderful day"
+        "answer": "Gary",
+        "reaction": "Gary has brought you a shard!! hope it will reassure you more :3"
       },
       {
         "day": 26,
-        "title": "Prehistorical RISC code",
-        "difficulty": "Hard",
+        "title": "power of pspspspsps",
+        "difficulty": "Really Hard",
         "solved": false,
-        "cDay": "15/06/2025",
+        "cDay": "13/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Check the code you find in the link, try to find out the content of R03",
-        "link": "https://drive.google.com/drive/u/1/folders/1WL56qMFXEMRf8VVVQ_OqTMnQzY7aYp--",
-        "hints": [
-          "an old software needed to configure this"
-        ],
-        "answer": "14",
-        "reaction": "Can't believe this is the first time 14 was an answer, hhh"
+        "enigma": "you heard a sound transmitting from a cat lover far away, unfortunately it was so late to decipher as it was hashed in MD5. but you did got data of hash for first 5 characters, hash for first 10 character, and hash of everything that consists of 15 characters. You also know that Cat lovers speaks only with binary: 'p' or 's' , two Ps cannot be adjacent. what is the secret chain that this folk said to attract cats",
+        "link": "https://drive.google.com/drive/u/1/folders/14hqmAMMlMeExUs0-TufWvarehZHUyQmh",
+        "hints": [],
+        "answer": "pspsspspspsssps",
+        "reaction": "with this power, I summon... CHIAMOI"
       },
       {
         "day": 27,
-        "title": "[_[-€¯|¯ $|°€/-\\|<",
-        "difficulty": "H/-\\|2D",
+        "title": "Cat families IX",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "07/06/2025",
+        "cDay": "13/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "!/= ¥()L| |2Ɛ/\\|] 7|~|!5 `/°µ ΛЯ☰ @ |=()|2|V|1|)/\\ß1_€ /*ƐЯ$[]|V `/()|_| §|-|0|_|1_|> 8Ɛ /*/2°L|[)  ©[][)Ɛ ]§ 7/-/€ 7]¯|¯1_[-",
-        "link": "",
-        "hints": [
-          "1337",
-          "h3ll0_w0r1d"
-        ],
-        "answer": "[_[-€¯|¯ $|°€/-\\|<",
-        "reaction": "\\_:_/(-)/\\¯|¯ /-\\ ]-[0|\\|()|?/-\\8[_Ɛ Λ[|~|]Ɛ|/☰|V|☰|V† †() /2☰/\\[) 7:-:!5"
+        "enigma": "possessing the largest body with a destinguished face and fur, they are considered the royalty of cats families",
+        "link": "https://drive.google.com/drive/u/1/folders/1Z9RPqvvvBVdpE5P_JzNPyLUD_0awsTUt",
+        "hints": [],
+        "answer": "Maine Coon",
+        "reaction": "if Cats had a kingdom, it should be this breed to rule as kings"
       },
       {
         "day": 28,
-        "title": "The northern Path",
-        "difficulty": "Medium",
+        "title": "The evil lurking",
+        "difficulty": "Easy",
         "solved": false,
-        "cDay": "15/06/2025",
+        "cDay": "13/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "You found yourself on a country island you can see on the link and a manuscript, seek its knowledge and answer will be forspoken: by the long tail of the beast, seek North till you reach a big black Lake, continue North till you reach a land again, from there, go towards East till you reach the back of Blue Dragon, Reach its upper head and go East again, keep going till you cross boundary of a new country, Seek its heart, make a path towards South then East with the shape of L where the intersection point is where the Lands and Seas meet, you'll continue East till a you find the small golden Egg",
-        "link": "https://drive.google.com/drive/u/1/folders/169qpyG5eYiX31aJIE4tc28wM1S0pb3nq",
-        "hints": [],
-        "answer": "Taiwan",
-        "reaction": "May your traveling be blessed for this long journey"
+        "enigma": "if cats have nightmares, who would be their worst fear...",
+        "link": "",
+        "hints": [
+          "it's void and dangerous",
+          "a name that shouldn't be named, a forbidden name"
+        ],
+        "answer": "Larry",
+        "reaction": "Gary said he will talk to him to ease us out, how gentle of him, but still worried..."
       },
       {
         "day": 29,
-        "title": "Root of all Pokemon",
-        "difficulty": "Easy",
+        "title": "Cat families X",
+        "difficulty": "Medium",
         "solved": false,
-        "cDay": "15/06/2025",
+        "cDay": "13/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Have you ever wondered, what is the story of Pokemon world ? what is the first Pokemon ever, which came first, egg or Pokemon ? Try to find this Pokemon that resolved this contradiction in the story",
-        "link": "",
-        "hints": [
-          "Canonically strongest Pokemon ever"
-        ],
-        "answer": "Arceus",
-        "reaction": "I catched that Pokemon by the way :3"
+        "enigma": "I left my favourite for the last: gorgeous eys, beuatiful fur, a gem in Cat families",
+        "link": "https://drive.google.com/drive/u/1/folders/15Dtl802sBpAVy6dvUFe40YmDYJfx7-Zj",
+        "hints": [],
+        "answer": "Birman",
+        "reaction": "AHHHHH MY HEART, I CAN'T TAKE THIS CUTENESS, ZNCLKZNLCKZNl"
       },
       {
         "day": 30,
-        "title": "Chaos control",
-        "difficulty": "Easy",
+        "title": "a lost kitten",
+        "difficulty": "Really Hard",
         "solved": false,
-        "cDay": "15/06/2025",
+        "cDay": "15/07/2025",
         "sYear": 0,
-        "specialMess": "",
-        "enigma": "Nothing better than finishing this month with... chaos/randomness, let's throw a dice, a special dice with a secret face :3 , good luck !!, path : /#/games/dice",
-        "link": "",
-        "hints": [],
-        "answer": "ChaosMasterCTF{D1c3_m4st3r3d_1n_ch405}",
-        "reaction": "GG !! may only good chaos be with you nchllh"
+        "specialMess": "Small fact: this was the last challenge developped in my timeline, and longest one to create, hope you enjoy it",
+        "enigma": "as you were walking while stargazing the nature, you were hearing crying not so far away, you found a little kitten powerless and lost her mother that resides in a city of cats. the roads in this world is hierarchical organised with Thrinary Tree ( each node has three children ), the road numbers are enumerated horizentally for each depth/level of the tree. the city of cats exists in address n°14077 and its depth is Level 10 in the tree, you found the kitten at root as starting point. Lead kitten to her mother to make her less worried. the answer flag is the path of each road number as: root/X/Y/Z/...../14077",
+        "link": "https://drive.google.com/drive/u/0/folders/18BPCLalaiB6T0soNPCB90yp4dWxJq5pC",
+        "hints": [
+          "it's a simple algorithm, make a small tree as an example to crack it out!!!"
+        ],
+        "answer": "root/1/3/7/20/58/174/522/1565/4693/14077",
+        "reaction": "Congrats, Mother of kitten hugged you and showed you all her kittens as a trust bound towards you!!"
       }
     ]
   },
@@ -4495,7 +4495,7 @@
         "hints": [
           "I introduced it to you when I started the project, asking you: 'do you know what this is?' and then you proceeded to go to Google Translate ? hhh",
           "the name by itself sounds like Japanese, but it doesn't make any sense, I just got it from my mind",
-          "starts with 'u' , ends with 'i.txt'"
+          "starts with 'U' , ends with 'i.txt'"
         ],
         "answer": "Ubishi.txt",
         "reaction": "I wonder if you still remember when I introduced you this file, hhh"
@@ -4986,7 +4986,7 @@
         "sYear": 0,
         "specialMess": "",
         "enigma": "It's smoll, fragile, Domestic, pretty memable with its pathetic face",
-        "link": "",
+        "link": "https://drive.google.com/drive/folders/15o86JPd_h2tNiNcn001YYESITZcF0u_1",
         "hints": [
           "They have a lot of higher screeching meme clips, hhh"
         ],

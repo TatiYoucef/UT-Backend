@@ -19,6 +19,15 @@ const loadachievementsData = () => JSON.parse(fs.readFileSync(achievementsPath, 
 const saveData = (data) => fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
 const saveAchievementsData = (data) => fs.writeFileSync(achievementsPath, JSON.stringify(data, null, 2), 'utf8');
 
+// get date
+const getCurrentDate = () => {
+  const now = new Date();
+  return `${now.getFullYear()}-${(now.getMonth() + 1).toString().padStart(2, '0')}-${now.getDate().toString().padStart(2, '0')}`;
+};
+app.get('/api/date', (req, res) => {
+  res.send({ date: getCurrentDate() });
+});
+
 // Get leaked data
 app.get('/api/leaked', (req, res) => {
   const data = loadLeakedData();

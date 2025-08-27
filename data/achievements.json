@@ -1,9 +1,9 @@
 {
-  "nbrSolved": 7,
+  "nbrSolved": 0,
   "Streak": 0,
-  "BestStreak": 10,
-  "nbrFailures": 10,
-  "BrokenStreak": true,
+  "BestStreak": 0,
+  "nbrFailures": 0,
+  "BrokenStreak": false,
   "EarlyBird": false,
-  "NightOwl": true
+  "NightOwl": false
 }
