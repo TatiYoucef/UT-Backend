@@ -9,7 +9,7 @@ app.use(cors());
 const filePath = './data/quiz.json';
 const leakedPath = './data/leaked.json';
 const achievementsPath = './data/achievements.json';
-
+//
 // Load JSON data
 const loadData = () => JSON.parse(fs.readFileSync(filePath, 'utf8'));
 const loadLeakedData = () => JSON.parse(fs.readFileSync(leakedPath, 'utf8'));
