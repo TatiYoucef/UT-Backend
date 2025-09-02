@@ -19,10 +19,11 @@ const loadachievementsData = () => JSON.parse(fs.readFileSync(achievementsPath, 
 const saveData = (data) => fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
 const saveAchievementsData = (data) => fs.writeFileSync(achievementsPath, JSON.stringify(data, null, 2), 'utf8');
 
-// get date
+// get date on Algeria
 const getCurrentDate = () => {
   const now = new Date();
-  return `${now.getFullYear()}-${(now.getMonth() + 1).toString().padStart(2, '0')}-${now.getDate().toString().padStart(2, '0')}`;
+  const options = { timeZone: 'Africa/Algiers', year: 'numeric', month: '2-digit', day: '2-digit'};
+  return now.toLocaleDateString('en-CA', options);
 };
 app.get('/api/date', (req, res) => {
   res.send({ date: getCurrentDate() });
@@ -241,6 +242,18 @@ app.get('/api/achievements/nightOwl/:status', (req, res) => {
 
   res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
   res.send(JSON.stringify({ message: "NightOwl updated", NightOwl: status }, null, 2));
+});
+
+// set lostFragment fragment status
+app.get('/api/achievements/lostFragment/:status', (req, res) => {
+  const status = req.params.status === 'true';
+  const data = loadachievementsData();
+
+  data.lostFragment = status;
+  saveAchievementsData(data);
+
+  res.setHeader('Content-Type', 'application/json');  // Ensure JSON type
+  res.send(JSON.stringify({ message: "Broken Fragment updated", BrokenFragment: status }, null, 2));
 });
 
 // Start server
