@@ -3880,9 +3880,9 @@
         "day": 3,
         "title": "Cat families I",
         "difficulty": "Medium",
-        "solved": false,
+        "solved": true,
         "cDay": "11/07/2025",
-        "sYear": 0,
+        "sYear": 2025,
         "specialMess": "Welcome to cat families Category !!! there are 10 shards you can collect in this month by only guessing what breed is a cat by only seeing their photos. I am sure you will also gain experince for some breeds how are they named!!!",
         "enigma": "Go to the link, analyse the photos of cats that shares the same breed name.",
         "link": "https://drive.google.com/drive/u/1/folders/1hGdXyt3e3IzLl_z24xje12pXotYoh5I4",
@@ -5789,8 +5789,7 @@
         "specialMess": "This fragment might have derived to a rift for many years, it has memories of a long forgotten past, yet here you are found out about it, hear his story, it might contain some lore dump",
         "enigma": "She was bright, smiling, and a figure I could never reach, the way she elighten Neons so easily with just her presence always made me inspired to be like her, meanwhile me I will get broken in a few years is just disappointing... her plan felt like a sacrifice to herself to rescue us, to make my prophecy comes true, I just hope... we can meet again. Collect flag:SunCTF{S4cr1f1c3_0f_unf0rg0tt3n_h3r0}",
         "link": "",
-        "hints": [
-        ],
+        "hints": [],
         "answer": "SunCTF{S4cr1f1c3_0f_unf0rg0tt3n_h3r0}",
         "reaction": "why do I feel the same warmth as the Sun when I met you..."
       }
