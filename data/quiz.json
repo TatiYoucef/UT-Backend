@@ -3896,9 +3896,9 @@
         "day": 4,
         "title": "Company with a loner",
         "difficulty": "Easy",
-        "solved": false,
+        "solved": true,
         "cDay": "11/07/2025",
-        "sYear": 0,
+        "sYear": 2025,
         "specialMess": "",
         "enigma": "back in the first years of ESI, I usually go back alone to home on first half road, then I wait for someone to pick me up. While I am waiting, I usually find cats wait with me or even play, hhh, I shared one of the photos on the Link. what is the place that this photo taken where I usually wait",
         "link": "https://drive.google.com/drive/u/1/folders/1UZpIn-RtYzeSm3dTHnTpC_78HNl2-2sI",
@@ -3910,17 +3910,19 @@
       },
       {
         "day": 5,
-        "title": "Fingerprint of cats",
+        "title": "Auth of cats",
         "difficulty": "Easy",
         "solved": false,
         "cDay": "11/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "I wonder if there is a part on cats that can athentificate uniquely that cat on others",
+        "enigma": "I wonder if there is a part on cats that can authentificate uniquely that cat from others",
         "link": "",
-        "hints": [],
+        "hints": [
+          "boop"
+        ],
         "answer": "nose",
-        "reaction": "It was a weird fact for me, soo I really don't know how to put it as a challenge, hhh"
+        "reaction": "Not only they have cute nose, but it's unique to that cat, Sub7anallah"
       },
       {
         "day": 6,
@@ -4009,7 +4011,7 @@
         "cDay": "12/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Cats do hide a secret weapon within their, with they can manipulate their prey's mind that they are friendly, it was even seen sometimes mouses play with Cat as if it's a norm. It's kind of a parasite thet even humans can get infected with it but with no serious effects",
+        "enigma": "Cats do hide a secret weapon, with it they can manipulate their prey's mind so they become friendly to the cat, it was even seen sometimes mouses play with Cat as if it's a norm. It's kind of a parasite thet even humans can get infected with it but with no serious effects",
         "link": "",
         "hints": [],
         "answer": "Toxoplasma gondii",
@@ -4054,7 +4056,7 @@
         "cDay": "12/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "when we pspspsps, we generally wanna  hear 'meow' as a reaction, but did you know in some region, folks there have another type of meow, pronounce it",
+        "enigma": "when we pspspsps, we generally wanna  hear 'meow' as a reaction, but did you know in some region, people pronounce meow differently",
         "link": "",
         "hints": [
           "in a land where we both dream to visit"
@@ -4150,7 +4152,7 @@
         "cDay": "12/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "A historical cat theorically died and lived at an instance in time, name its owner",
+        "enigma": "A historical cat theorically died and lived at the same time, name its owner",
         "link": "",
         "hints": [
           "it was about Quantum theory of electrons",
