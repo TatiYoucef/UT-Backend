@@ -1,8 +1,16 @@
 const express = require('express');
 const fs = require('fs');
 const cors = require('cors');
-
+const nodemailer = require('nodemailer');
 const app = express();
+// Setup nodemailer transporter (replace with real credentials or use environment variables)
+const transporter = nodemailer.createTransport({
+  service: 'gmail',
+  auth: {
+    user: 'youcef.tati04@gmail.com', // replace with your Gmail address
+    pass: 'krud rusy tocb sucp'     // replace with your Gmail app password
+  }
+});
 app.use(express.json());
 app.use(cors());
 
@@ -74,7 +82,7 @@ app.get('/api/quiz/:month/:day', (req, res) => {
 });
 
 // Mark quiz as solved
-app.get('/api/quiz/:month/:day/solve/:year', (req, res) => {
+app.get('/api/quiz/:month/:day/solve/:year', async (req, res) => {
   const month = parseInt(req.params.month);
   const day = parseInt(req.params.day);
   const year = parseInt(req.params.year);
@@ -89,6 +97,30 @@ app.get('/api/quiz/:month/:day/solve/:year', (req, res) => {
   if(!dayData.solved) {
     achieveData = loadachievementsData();
     achieveData.nbrSolved++; // Increment the number of solved quizzes
+
+    // Send Gmail notification to youcef.tati04@gmail.com
+    const failures = achieveData.nbrFailures || 0;
+    const now = new Date();
+    const timeString = now.toLocaleString('en-GB', { timeZone: 'Africa/Algiers' });
+    const mailOptions = {
+      from: 'your.email@gmail.com', // replace with your Gmail address
+      to: 'youcef.tati04@gmail.com',
+      subject: 'Enigma Solved ' + dayData.day+'/'+ monthData.month ,
+      text: ` Yo to my real self!
+
+      Your little sunshine has solved an enigma today named ${dayData.title} at ${timeString}.
+      Current number of errors accumulated: ${failures}
+
+      Make sure to update her work to let her enjoy her agenda.`
+    };
+    try {
+      console.log('Attempting to send email to youcef.tati04@gmail.com...');
+      const info = await transporter.sendMail(mailOptions);
+      console.log('Email sent:', info.response);
+    } catch (error) {
+      console.error('Error sending email:', error);
+    }
+    console.log('sendMail callback finished.');
     saveAchievementsData(achieveData);
   }
 
