@@ -2,7 +2,6 @@ const express = require('express');
 const fs = require('fs');
 const cors = require('cors');
 
-const { google } = require("googleapis");
 
 const app = express();
 app.use(express.json());
@@ -11,36 +10,6 @@ app.use(cors());
 const filePath = './data/quiz.json';
 const leakedPath = './data/leaked.json';
 const achievementsPath = './data/achievements.json';
-
-// Load service account JSON
-const credentials = JSON.parse(fs.readFileSync("./data/smart-monitor-473518-q8-17ac6cb9f199.json"));
-
-// Normalize line endings to \n (important on Windows)
-if (typeof credentials.private_key === 'string') {
-  credentials.private_key = credentials.private_key.replace(/\r\n/g, '\n');
-}
-
-const SCOPES = ["https://www.googleapis.com/auth/spreadsheets"];
-const auth = new google.auth.JWT({
-  keyFile: "./data/smart-monitor-473518-q8-17ac6cb9f199.json",
-  scopes: SCOPES
-});
-const sheets = google.sheets({ version: "v4", auth });
-
-async function logApiRequest(data) {
-
-  await auth.authorize();
-  const spreadsheetId = "1Xdhb3z5irOtWxeAZK_8rwt5n5aXX0zCCA7iDnwSYelI"; // from sheet URL
-
-  await sheets.spreadsheets.values.append({
-    spreadsheetId,
-    range: "Sheet1!A:Z",
-    valueInputOption: "RAW",
-    requestBody: { values: [data] },
-  });
-
-  console.log("Appended row:", data);
-}
 
 // Load JSON data
 const loadData = () => JSON.parse(fs.readFileSync(filePath, 'utf8'));
@@ -122,12 +91,6 @@ app.get('/api/quiz/:month/:day/solve/:year', (req, res) => {
     achieveData = loadachievementsData();
     achieveData.nbrSolved++; // Increment the number of solved quizzes
     saveAchievementsData(achieveData);
-
-    // Log the API request : Date , time , Enigma title , number of failed attempts
-    const now = new Date();
-    const dateStr = now.toISOString().split('T')[0]; // YYYY-MM-DD
-    const timeStr = now.toTimeString().split(' ')[0]; // HH:MM:SS
-    logApiRequest([dateStr, timeStr, dayData.title, achieveData.nbrFailures]);
   }
 
   dayData.solved = true ;
