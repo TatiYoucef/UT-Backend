@@ -13,12 +13,6 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-# Data and sensitive files
-data/*.json
-!data/quiz.json
-!data/leaked.json
-!data/achievements.json
-
 # Logs
 logs/
 *.log
