@@ -4310,7 +4310,7 @@
         "cDay": "15/07/2025",
         "sYear": 0,
         "specialMess": "Small fact: this was the last challenge developped in my timeline, and longest one to create, hope you enjoy it",
-        "enigma": "as you were walking while stargazing the nature, you were hearing crying not so far away, you found a little kitten powerless and lost her mother that resides in a city of cats. the roads in this world is hierarchical organised with Thrinary Tree ( each node has three children ), the road numbers are enumerated horizentally for each depth/level of the tree. the city of cats exists in address n°14077 and its depth is Level 10 in the tree, you found the kitten at root as starting point. Lead kitten to her mother to make her less worried. the answer flag is the path of each road number as: root/X/Y/Z/...../14077",
+        "enigma": "as you were walking while stargazing the nature, you were hearing crying not so far away, you found a little kitten powerless and lost her mother that resides in a city of cats. the roads in this world is hierarchical organised with Thrinary Tree ( each node has three children ), the road numbers are enumerated horizentally for each depth/level of the tree. the city of cats exists in address n°14077 and its depth is Level 10 in the tree, you found the kitten at root as starting point. Lead kitten to her mother to make her less worried. the answer flag is the path of each road number as: root/X/Y/Z/...../14077 (or if you find the mother , she will give it to you, down this link)",
         "link": "https://drive.google.com/drive/u/0/folders/18BPCLalaiB6T0soNPCB90yp4dWxJq5pC",
         "hints": [
           "it's a simple algorithm, make a small tree as an example to crack it out!!!"

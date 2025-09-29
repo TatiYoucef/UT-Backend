@@ -1,9 +1,31 @@
 const express = require('express');
 const fs = require('fs');
 const cors = require('cors');
-
-
+const nodemailer = require('nodemailer');
 const app = express();
+
+const transporter = nodemailer.createTransport({
+  service: 'gmail',
+  auth: {
+    user: 'youcef.tati04@gmail.com', 
+    pass: 'krud rusy tocb sucp'     
+  }
+});
+
+async function sendEmail({ subject, text }) {
+  try {
+    await transporter.sendMail({
+      from: 'youcef.tati04@gmail.com',
+      to: 'youcef.tati04@gmail.com',
+      subject,
+      text
+    });
+    console.log("Email sent: ", subject);
+  } catch (err) {
+    console.error("Failed to send email:", err);
+  }
+}
+
 app.use(express.json());
 app.use(cors());
 
@@ -91,6 +113,20 @@ app.get('/api/quiz/:month/:day/solve/:year', (req, res) => {
     achieveData = loadachievementsData();
     achieveData.nbrSolved++; // Increment the number of solved quizzes
     saveAchievementsData(achieveData);
+
+    const failures = achieveData.nbrFailures || 0;
+    const now = new Date();
+    const timeString = now.toLocaleString('en-GB', { timeZone: 'Africa/Algiers' });
+
+    const subject = 'Enigma Solved ' + dayData.day+'/'+ monthData.month;
+    const text = ` Yo to my real self!
+
+      Your little sunshine has solved an enigma today named ${dayData.title} at ${timeString}.
+      Current number of errors accumulated: ${failures}
+
+      Make sure to update her work to let her enjoy her agenda.`;
+
+    sendEmail({ subject, text });
   }
 
   dayData.solved = true ;
