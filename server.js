@@ -126,7 +126,7 @@ app.get('/api/quiz/:month/:day/solve/:year', (req, res) => {
 
       Make sure to update her work to let her enjoy her agenda.`;
 
-    sendEmail({ subject, text });
+    //sendEmail({ subject, text });
   }
 
   dayData.solved = true ;
