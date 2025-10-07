@@ -112,23 +112,9 @@ app.get('/api/quiz/:month/:day/solve/:year', (req, res) => {
   if(!dayData.solved) {
     achieveData = loadachievementsData();
     achieveData.nbrSolved++; // Increment the number of solved quizzes
+    achieveData.Streak++; // Increment the current streak
+    achieveData.BestStreak++; // Increment the best streak
     saveAchievementsData(achieveData);
-
-    const failures = achieveData.nbrFailures || 0;
-    const now = new Date();
-    const timeString = now.toLocaleString('en-GB', { timeZone: 'Africa/Algiers' });
-
-    const subject = 'Enigma Solved ' + dayData.day+'/'+ monthData.month;
-    const text = ` Yo to my real self!
-
-      Your little sunshine has solved an enigma today named ${dayData.title} at ${timeString}.
-      Current number of errors accumulated: ${failures}
-
-      Make sure to update her work to let her enjoy her agenda.`;
-
-    //sendEmail({ subject, text });
-
-    console.log("Email content: ", subject, text);
   }
 
   dayData.solved = true ;
