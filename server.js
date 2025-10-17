@@ -113,7 +113,7 @@ app.get('/api/quiz/:month/:day/solve/:year', (req, res) => {
     achieveData = loadachievementsData();
     achieveData.nbrSolved++; // Increment the number of solved quizzes
     achieveData.Streak++; // Increment the current streak
-    achieveData.BestStreak++; // Increment the best streak
+    if(achieveData.Streak > achieveData.BestStreak) achieveData.BestStreak++; // Increment the best streak
     saveAchievementsData(achieveData);
   }
 
