@@ -4833,7 +4833,7 @@
   },
   {
     "month": 11,
-    "solvedOne": false,
+    "solvedOne": true,
     "name": "November",
     "Theme": "Sound",
     "days": [
@@ -4841,9 +4841,9 @@
         "day": 1,
         "title": "Binary translation",
         "difficulty": "",
-        "solved": false,
+        "solved": true,
         "cDay": "23/06/2025",
-        "sYear": 0,
+        "sYear": 2025,
         "specialMess": "Welcome to The Sound month!!! where only ears will guide you to answer daily in this month, I hope inchallah you won't become deaf till this future so I wouldn't change the theme of this month... Okay, that was a dark joke...",
         "enigma": "Close your eyes and try to hear the beep sounds you hear in this link",
         "link": "https://drive.google.com/drive/u/1/folders/1b7BiK_W2M5HnYZNQ0oAxV6TwODRLwFcz",
