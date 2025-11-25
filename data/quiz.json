@@ -5207,9 +5207,9 @@
         "day": 24,
         "title": "Finding the Source",
         "difficulty": "Hard",
-        "solved": false,
+        "solved": true,
         "cDay": "25/06/2025",
-        "sYear": 0,
+        "sYear": 2025,
         "specialMess": "",
         "enigma": "I am gonna give you a reel sound, you need to give it's insta url, that's all you have !! good luck :3",
         "link": "https://drive.google.com/drive/u/0/folders/1NU2vwANVXidJzf-XP0zwNolEAKs6fd7T",
@@ -5321,7 +5321,7 @@
     "month": 12,
     "solvedOne": false,
     "name": "December",
-    "Theme": "Sun&Moon",
+    "Theme": "Eclipse",
     "days": [
       {
         "day": 1,
@@ -5330,7 +5330,7 @@
         "solved": false,
         "cDay": "28/06/2025",
         "sYear": 0,
-        "specialMess": "Welcome to.... memories month, a month where you will meet all kind if memories shared between Sun and Moon till the time I am writing this, cause I am sure those memories will keep blooming more and more nchllh. This month is surely my favourite one, it is reason I kept making each day unique to my soulmate, it's a way on how can I show my gratefullness as for holding all sharable experience dear to me, so you can take this month as... a secret diary, hhh, hope you enjoy it!!!",
+        "specialMess": "Welcome to.... memories month, a month where you will meet all kind of memories shared between Sun and Moon till the time I am writing this, cause I am sure those memories will keep blooming more and more nchllh. This month is surely my favourite one, it is reason I kept making each day unique to my soulmate, it's a way on how can I show my gratefullness as for holding all sharable experience dear to me, so you can take this month as... a secret diary, hhh, hope you enjoy it!!!",
         "enigma": "Before opening any Book, before starting your journey, before exploring a diary, you need to prepare something your heart",
         "link": "",
         "hints": [
@@ -5439,20 +5439,6 @@
       },
       {
         "day": 9,
-        "title": "let the fun begin",
-        "difficulty": "Easy",
-        "solved": false,
-        "cDay": "28/06/2025",
-        "sYear": 0,
-        "specialMess": "",
-        "enigma": "There's a really particular day where from that point on, a lot of fun challenges were made and many ideas came to me, an eventful day that also shouldn't be forgotten, write it in : DD/MM/YYYY",
-        "link": "",
-        "hints": [],
-        "answer": "10/12/2024",
-        "reaction": "Inigma day was a really inspiring to me to make you more these kind of challenges because I loooove the mystery behind puzzles !!"
-      },
-      {
-        "day": 10,
         "title": "Learning most important number",
         "difficulty": "Medium",
         "solved": false,
@@ -5466,6 +5452,20 @@
         ],
         "answer": "14/12/2024",
         "reaction": "14th huh, the world is really small..."
+      },
+      {
+        "day": 10,
+        "title": "let the fun begin",
+        "difficulty": "Easy",
+        "solved": false,
+        "cDay": "28/06/2025",
+        "sYear": 0,
+        "specialMess": "",
+        "enigma": "There's a really particular day where from that point on, a lot of fun challenges were made and many ideas came to me, an eventful day that also shouldn't be forgotten, write it in : DD/MM/YYYY",
+        "link": "",
+        "hints": [],
+        "answer": "10/12/2024",
+        "reaction": "Inigma day was a really inspiring to me to make you more these kind of challenges because I loooove the mystery behind puzzles !!"
       },
       {
         "day": 11,
@@ -5585,19 +5585,17 @@
       },
       {
         "day": 19,
-        "title": "fateful Pokemon",
-        "difficulty": "Medium",
+        "title": "fateful day",
+        "difficulty": "Special",
         "solved": false,
         "cDay": "28/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "We all know what I will talk about:  Shaymin, but do you have powerful search techniques to find what day DD/MM/YYYY you found out about this Pokemon and then making the first pfp about it",
-        "link": "",
-        "hints": [
-          "I remember started randomly yapping about it in Insta"
-        ],
-        "answer": "23/12/2024",
-        "reaction": "I wonder if you still having it, hhh, That Pokemon did really matches you on everything"
+        "enigma": ":3",
+        "link": "https://www.canva.com/design/DAG5rsgvJI4/JaEqHNRp3BMISCOzxNJFvQ/edit?utm_content=DAG5rsgvJI4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+        "hints": [],
+        "answer": "EclipseCTF{Sun&Moon_reunited}",
+        "reaction": "may rebbi sub7anou ydewwen this ni3ma upon us inchallah"
       },
       {
         "day": 20,
