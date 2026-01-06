@@ -42,9 +42,9 @@
         "day": 3,
         "title": "bullying a password",
         "difficulty": "Medium",
-        "solved": false,
+        "solved": true,
         "cDay": "03/07/2025",
-        "sYear": 0,
+        "sYear": 2026,
         "specialMess": "",
         "enigma": "Black Hole had an account to for planet and star delivery to him, but some hecker managed breach the database and stole his hashed MD5 password: '710748256d487004aa0c1e59be6da1ec', I wonder if it could be cracked",
         "link": "",
@@ -59,9 +59,9 @@
         "day": 4,
         "title": "Word Wide Universe",
         "difficulty": "Easy",
-        "solved": false,
+        "solved": true,
         "cDay": "03/07/2025",
-        "sYear": 0,
+        "sYear": 2026,
         "specialMess": "",
         "enigma": "The Universe is full of surprises, Sub7analah, if you see the observable from afar, you will see Stars, glaxies, clusters interconnectiong between them like the Internet, name this miraculous phenomenon",
         "link": "",
@@ -73,9 +73,9 @@
         "day": 5,
         "title": "Quantusanity",
         "difficulty": "Medium",
-        "solved": false,
+        "solved": true,
         "cDay": "03/07/2025",
-        "sYear": 0,
+        "sYear": 2026,
         "specialMess": "",
         "enigma": "in naked eyes, if we put an object and then we block the vision with something, it should be hidden. However, if we block the vision with a massive mass, the object will be seen, insane but yeah, name this phenomenon ",
         "link": "https://www.hku.hk/f/news/26056/900p600/Fig1a.png?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news",
@@ -89,11 +89,11 @@
         "day": 6,
         "title": "Last survivor",
         "difficulty": "Easy",
-        "solved": false,
+        "solved": true,
         "cDay": "03/07/2025",
-        "sYear": 0,
+        "sYear": 2026,
         "specialMess": "",
-        "enigma": "Imagine, a universe so alive would surely come to an end, but have you ever thouht what objects that last the longest, in the middle of all darkness, it roams around silently without even be heard or seen, a phobia that I also posses",
+        "enigma": "Imagine, a universe so alive would surely come to an end, but have you ever thought what objects that last the longest, in the middle of all darkness, it roams around silently without even be heard or seen, a phobia that I also posses",
         "link": "",
         "hints": [
           "The one that consumed light itself, only with gravitaional miraged would be seen"
@@ -111,7 +111,9 @@
         "specialMess": "",
         "enigma": "I don't know if you already seen this your sibling Star, but it couldn't even be compared to a normal star, her width is barely 20-30km due to an old Star collapse. However, It's so dense that a teaspoon out of it weighs more than billions of tons... ",
         "link": "",
-        "hints": [],
+        "hints": [
+          "your sister seems so dense lately..."
+        ],
         "answer": "Neutron Star",
         "reaction": "This star is so scary in mass, so never underestimate the size for what their inner is hiding..."
       },
@@ -123,7 +125,7 @@
         "cDay": "03/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "I love that in the end of life of a star, it's be like: 'Oh, I gess gravity is winning over me, guess I will collapse and Kaboom', it will either leave dust which it's how generates new planets and stars, or the collapse fails it becomes a neutron star, OR, the collapse is so big that Star evolves into black hole... Anyways, name this Kaboom collapse",
+        "enigma": "I love that in the end of life of a star, it's be like: 'Oh, I gess gravity is winning over me, guess I will collapse and EXPLODE', it will either leave dust which it's how generates new planets and stars, or the collapse fails it becomes a neutron star, OR, the collapse is so big that Star evolves into black hole... Anyways, name this Kaboom collapse",
         "link": "",
         "hints": [],
         "answer": "Supernova",
@@ -440,7 +442,7 @@
         "cDay": "05/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "In November 2023, scientists from the Telescope Array Project in Utah detected an extremely high-energy cosmic ray.It was a discovery to find One of the most energetic cosmic rays ever detected, with an energy of about 244 Eev ( a really big energy for a particle!!! E = 10^18 , to put you into perpective, 1ev is the simple energy to Electron, THIS ONE HAS 10^18*224 SAME AMMOUNT WITH THE SAME DIMENSIONS). Find the name if this ray particle",
+        "enigma": "In November 2023, scientists from the Telescope Array Project in Utah detected an extremely high-energy cosmic ray.It was a discovery to find One of the most energetic cosmic rays ever detected, with an energy of about 244 Eev ( a really big energy for a particle!!! E = 10^18 , to put you into perpective, 1ev is the simple energy to Electron, THIS ONE HAS 10^18*224 SAME AMMOUNT FROM JUST A PARTICLE). Find the name of this ray particle",
         "link": "",
         "hints": [
           "Sasuke was silent since the name was dropped",
@@ -471,14 +473,14 @@
         "cDay": "05/07/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "A shard was going to be seen today to capture, but something is wrong... the shard may have drifted away to a distorted space where time is meaningless, the only information you have is he got driven to 14/14 as a date...",
+        "enigma": "A shard was going to be seen today to capture, but something is wrong... the shard may have drifted away to a distorted space where time is meaningless, the only information you have is he got driven to a time where only your favourite number exists...",
         "link": "",
         "hints": [
           "Not enough information? it might mean you need to wait another shard to give you some more valuable information...",
           "Does a calendar has a meaningful time when you skim through it"
         ],
         "answer": "TimeTravelCTF{l05t_1n_5p4c3T1m30}",
-        "reaction": "you saved him, yaaaay !!! ( I wonder how much years have passed, hhh )"
+        "reaction": "But... is there really a hidden spacetime to 14/14..."
       }
     ]
   },
