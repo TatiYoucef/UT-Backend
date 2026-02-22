@@ -793,7 +793,7 @@
         "enigma": "for a single block of 128bits : 'Golden HeartSoul', with a key : 'PurpleSecret Key', Just try to make a single iteration of AES with this, you'll find down this link the steps. Output the flag 16 bytes in Hexa ( no need to include 0x )",
         "link": "https://drive.google.com/drive/u/1/folders/1Zujqh_C1T5G2RMn49jfJWbhlUpIjqcST",
         "hints": [],
-        "answer": "f0df3220218ace262eda3526cde3d2eb",
+        "answer": "f0ea3220218ace262eda3526cde3d2eb",
         "reaction": "That was tough, but in the end you did it!!!!"
       },
       {
