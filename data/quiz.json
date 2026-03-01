@@ -896,9 +896,9 @@
         "day": 28,
         "title": "⏃⌰⟟⟒⋏ ⌰⏃⋏☌⎍⏃☌⟒",
         "difficulty": "⟒⏃⌇⊬",
-        "solved": false,
+        "solved": true,
         "cDay": "07/06/2025",
-        "sYear": 0,
+        "sYear": 2026,
         "specialMess": "",
         "enigma": "⏚⟒⟒⌿⊬ ⏚⍜⍜⌿⍜ ⍙⏃⏁⏃ ⎅⟟☍⟟ ⎅⍜⎅⍜⍜... ⎐⍜⏁ ? ⎐⊬⌿⏁⍜☊⏁⎎{⎐4⌰13⋏_⎅00⎅00}",
         "link": "",
@@ -928,7 +928,7 @@
   },
   {
     "month": 3,
-    "solvedOne": false,
+    "solvedOne": true,
     "name": "March",
     "Theme": "Chaos",
     "days": [
@@ -936,9 +936,9 @@
         "day": 1,
         "title": "mysterious pattern",
         "difficulty": "Easy",
-        "solved": false,
+        "solved": true,
         "cDay": "13/06/2025",
-        "sYear": 0,
+        "sYear": 2026,
         "specialMess": "Welcome to chaotic month !!! where I had no idea where to put these challenges, hhh. So, you gonna not expect what's expected, and you could expect the unexpected, as all things said, may this randomness be fun in your journey",
         "enigma": "a + z = 97122 , z + a = 71229 , b + c = 6362 , t + a + t + i = 10511697116 , o + u + a + d + i = ?",
         "link": "",
@@ -957,7 +957,7 @@
         "cDay": "13/06/2025",
         "sYear": 0,
         "specialMess": "",
-        "enigma": "Based on your PTSD knowledge, could you find what IP adress of the server hosting UnfazedTime. Due to some confusing results, I will let you know that it's X.X.X.4 ",
+        "enigma": "Based on your PTSD knowledge, could you find what IP adress of the server hosting UnfazedTime. Due to some confusing results, I will let you fix last number (it's variable on that subnet) : X.X.X.4 ",
         "link": "",
         "hints": [
           "DNS of Google is pretty interesting"
