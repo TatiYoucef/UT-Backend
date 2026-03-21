@@ -1262,10 +1262,10 @@
         "cDay": "15/06/2025",
         "sYear": 0,
         "specialMess": "In This enigma, you will for real attack my LAN, hhh",
-        "enigma": "Oh no!! A bird flied by my router now my IP got leaked: 105.98.221.177. I hope this shoudln't be enough to be able to find out my MAC address...",
+        "enigma": "Oh no!! A bird flied by my router now my IP got leaked: 105.97.83.36. I hope this shoudln't be enough to be able to find out my MAC address...",
         "link": "",
         "hints": [
-          "did you know some algerian routers host an http server",
+          "use nmap to check its services ( prefferably use linux )",
           "Did you also know that there's a default authentification on routers if not changed"
         ],
         "answer": "10:6F:D9:15:44:4D",
