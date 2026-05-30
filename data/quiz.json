@@ -2229,9 +2229,9 @@
         "day": 19,
         "title": "tricky Hide&Seek",
         "difficulty": "Medium",
-        "solved": false,
+        "solved": true,
         "cDay": "24/03/2025",
-        "sYear": 0,
+        "sYear": 2026,
         "specialMess": "",
         "enigma": "Something is hidding from you, go Chase it!!! the 'root' place starts with this link",
         "link": "https://drive.google.com/drive/u/1/folders/1XHFYoaUZAueoffH4PNiHgxQjN7iFMomV",
@@ -2246,9 +2246,9 @@
         "day": 20,
         "title": "pico memories IV",
         "difficulty": "Medium",
-        "solved": false,
+        "solved": true,
         "cDay": "21/03/2025",
-        "sYear": 0,
+        "sYear": 2026,
         "specialMess": "",
         "enigma": "Go to this link to try find out which level was this in pico park 2, the flag format: ${WorldName} Lvl.?",
         "link": "https://drive.google.com/drive/u/1/folders/1Lzmd8jtHgPdE7q__s6_IF2ExobSBYjUV",
@@ -2262,7 +2262,7 @@
         "day": 21,
         "title": "Deja Vue IV",
         "difficulty": "Medium",
-        "solved": false,
+        "solved": true,
         "cDay": "25/03/2025",
         "sYear ": 0,
         "specialMess": "",
@@ -2272,13 +2272,14 @@
           "I played this game and wanted to show you my achievement, hope you didn't mind for my arrogance, hhh"
         ],
         "answer": "Pokemon Sword",
-        "reaction": "That took me some time to catch 400 different breeds, lol"
+        "reaction": "That took me some time to catch 400 different breeds, lol",
+        "sYear": 2026
       },
       {
         "day": 22,
         "title": "Mysterious dots",
         "difficulty": "Medium",
-        "solved": false,
+        "solved": true,
         "cDay": "25/03/2025",
         "sYear ": 0,
         "specialMess": "",
@@ -2288,13 +2289,14 @@
           "The shape doesn't remind you of some crypting method used graphically?"
         ],
         "answer": "TatAli",
-        "reaction": "this challenge was actually made in Treasure Hunt Orga event by me, I am sure you would love our event !!"
+        "reaction": "this challenge was actually made in Treasure Hunt Orga event by me, I am sure you would love our event !!",
+        "sYear": 2026
       },
       {
         "day": 23,
         "title": "Guess the sequence IV",
         "difficulty": "Medium",
-        "solved": false,
+        "solved": true,
         "cDay": "25/03/2025",
         "sYear ": 0,
         "specialMess": "",
@@ -2304,15 +2306,16 @@
           "These duo caracters seem so alike in characteristics, hmmm"
         ],
         "answer": "Daisy",
-        "reaction": "Almost everyone forget that she is also a princess in Mario games, lol"
+        "reaction": "Almost everyone forget that she is also a princess in Mario games, lol",
+        "sYear": 2026
       },
       {
         "day": 24,
         "title": "Maths Speedrun",
         "difficulty": "Medium",
-        "solved": false,
+        "solved": true,
         "cDay": "25/03/2025",
-        "sYear": 0,
+        "sYear": 2026,
         "specialMess": "",
         "enigma": "Are you good at maths Calculations? Test your calculation power in path: /#/games/maths",
         "link": "https://unfazed-time.onrender.com/#/games/maths",
@@ -2324,9 +2327,9 @@
         "day": 25,
         "title": "pico memories V",
         "difficulty": "Dark",
-        "solved": false,
+        "solved": true,
         "cDay": "21/03/2025",
-        "sYear": 0,
+        "sYear": 2026,
         "specialMess": "This level was also touching, considering that it was last level ever to beat for us, thank you for letting me experience this magical journey with you.",
         "enigma": "Go to this link to try find out which level was this in pico park 2, the flag format: ${WorldName} Lvl.?",
         "link": "https://drive.google.com/drive/u/1/folders/1w3-VArqhs3RNaXlGCrqWSKoirzdWgC3X",
@@ -2340,7 +2343,7 @@
         "day": 26,
         "title": "Deja Vue V",
         "difficulty": "Hard",
-        "solved": false,
+        "solved": true,
         "cDay": "26/03/2025",
         "sYear ": 0,
         "specialMess": "",
@@ -2352,13 +2355,14 @@
           "that blue thing sounds like some sort of creature, hmm..."
         ],
         "answer": "Dawn",
-        "reaction": "I can't get myself excited to see you finish one day a pokemon, one day nchllh"
+        "reaction": "I can't get myself excited to see you finish one day a pokemon, one day nchllh",
+        "sYear": 2026
       },
       {
         "day": 27,
         "title": "Mastering literrature",
         "difficulty": "Hard",
-        "solved": false,
+        "solved": true,
         "cDay": "26/03/2025",
         "sYear ": 0,
         "specialMess": "",
@@ -2369,13 +2373,14 @@
           "in terms of word knowledge, you already know this word, it's a simple one"
         ],
         "answer": "Shiny",
-        "reaction": "Yaaay, Nice one !! as expected from our shiny teacher of English, hhh"
+        "reaction": "Yaaay, Nice one !! as expected from our shiny teacher of English, hhh",
+        "sYear": 2026
       },
       {
         "day": 28,
         "title": "Guess the sequence V",
         "difficulty": "Hard",
-        "solved": false,
+        "solved": true,
         "cDay": "26/03/2025",
         "sYear ": 0,
         "specialMess": "",
@@ -2385,13 +2390,14 @@
           "if you put these 2 caracters in a single room, there will be no room after that"
         ],
         "answer": "Ganondorf",
-        "reaction": "If you tried to type firstly Ganon, I need to yap 100 hours how it's not the final antagonist in Zelda Trilogy, lol"
+        "reaction": "If you tried to type firstly Ganon, I need to yap 100 hours how it's not the final antagonist in Zelda Trilogy, lol",
+        "sYear": 2026
       },
       {
         "day": 29,
         "title": "crafting a ring from nothingness",
         "difficulty": "Really Hard",
-        "solved": false,
+        "solved": true,
         "cDay": "26/03/2025",
         "sYear ": 0,
         "specialMess": "",
@@ -2401,7 +2407,8 @@
           "you have all the freedom to make Saturn, my attempt was first to find planet and ring"
         ],
         "answer": "gameMasterCTF{1nf1n1ty_Cr4ft_1s_fun_741147_:3}",
-        "reaction": "I wonder your reaction of some of your crafts, hhh"
+        "reaction": "I wonder your reaction of some of your crafts, hhh",
+        "sYear": 2026
       },
       {
         "day": 30,
